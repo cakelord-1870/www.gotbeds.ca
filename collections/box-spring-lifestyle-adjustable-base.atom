@@ -1,0 +1,1224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/box-spring-lifestyle-adjustable-base.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2021-03-12T12:14:11-07:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6585846759584</id>
+    <published>2021-03-12T12:14:11-07:00</published>
+    <updated>2021-03-12T12:14:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-motion-air-split-king-2-twin-xls"/>
+    <title>Beautyrest - Motion Air - Split King (2 Twin XL&apos;s)</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SM20_Silo_MSBase_NEW_8_ab044a96-aa08-4c15-90d1-d251368d78f1.jpg?v=1615576416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div title="Page 1" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features</strong></p>
+<p data-mce-fragment="1">Zero Standby Power System</p>
+<p data-mce-fragment="1">Wireless Remote</p>
+<p data-mce-fragment="1">Head and Foot Adjust</p>
+<p data-mce-fragment="1">Head and Foot Simultaneous Adjust</p>
+<p data-mce-fragment="1">Silent Drive Motors</p>
+<p data-mce-fragment="1">Child Lock</p>
+</div>
+</div>
+</div>
+<p data-mce-fragment="1">Weight Capacity: 650 lbs</p>
+<p data-mce-fragment="1">Courier Friendly</p>
+<p data-mce-fragment="1">Gravity Release</p>
+<p data-mce-fragment="1">Power Outage Protection</p>
+<p data-mce-fragment="1">12” Stackable Legs (minimum 6”-9”-12”)</p>
+<p data-mce-fragment="1">10 Year Limited Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6585846759584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>78018</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6585840435360</id>
+    <published>2021-03-12T12:10:37-07:00</published>
+    <updated>2021-03-12T12:10:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-motion-air-king"/>
+    <title>Beautyrest - Motion Air - King</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SM20_Silo_MSBase_NEW_8_bcaae3a0-770c-4e63-bdb0-2d454c7730df.jpg?v=1615576238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div title="Page 1" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features</strong></p>
+<p data-mce-fragment="1">Zero Standby Power System</p>
+<p data-mce-fragment="1">Wireless Remote</p>
+<p data-mce-fragment="1">Head and Foot Adjust</p>
+<p data-mce-fragment="1">Head and Foot Simultaneous Adjust</p>
+<p data-mce-fragment="1">Silent Drive Motors</p>
+<p data-mce-fragment="1">Child Lock</p>
+</div>
+</div>
+</div>
+<p data-mce-fragment="1">Weight Capacity: 650 lbs</p>
+<p data-mce-fragment="1">Courier Friendly</p>
+<p data-mce-fragment="1">Gravity Release</p>
+<p data-mce-fragment="1">Power Outage Protection</p>
+<p data-mce-fragment="1">12” Stackable Legs (minimum 6”-9”-12”)</p>
+<p data-mce-fragment="1">10 Year Limited Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6585840435360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6585836175520</id>
+    <published>2021-03-12T12:08:47-07:00</published>
+    <updated>2021-03-12T12:08:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-motion-air-queen"/>
+    <title>Beautyrest - Motion Air - Queen</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SM20_Silo_MSBase_NEW_8_45e665a6-a538-4357-81c1-e9b516549e33.jpg?v=1615576128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div title="Page 1" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Features</strong></p>
+<p data-mce-fragment="1">Zero Standby Power System</p>
+<p data-mce-fragment="1">Wireless Remote</p>
+<p data-mce-fragment="1">Head and Foot Adjust</p>
+<p data-mce-fragment="1">Head and Foot Simultaneous Adjust</p>
+<p data-mce-fragment="1">Silent Drive Motors</p>
+<p data-mce-fragment="1">Child Lock</p>
+</div>
+</div>
+</div>
+<p data-mce-fragment="1">Weight Capacity: 650 lbs</p>
+<p data-mce-fragment="1">Courier Friendly</p>
+<p data-mce-fragment="1">Gravity Release</p>
+<p data-mce-fragment="1">Power Outage Protection</p>
+<p data-mce-fragment="1">12” Stackable Legs (minimum 6”-9”-12”)</p>
+<p data-mce-fragment="1">10 Year Limited Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6585836175520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>44906</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6585832571040</id>
+    <published>2021-03-12T12:07:17-07:00</published>
+    <updated>2021-03-12T12:07:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-motion-air-twin-xl"/>
+    <title>Beautyrest - Motion Air - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SM20_Silo_MSBase_NEW_8.jpg?v=1615576038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div title="Page 1" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div title="Page 1">
+<div>
+<div>
+<p><strong>Features</strong></p>
+<p>Zero Standby Power System</p>
+<p>Wireless Remote</p>
+<p>Head and Foot Adjust</p>
+<p>Head and Foot Simultaneous Adjust</p>
+<p>Silent Drive Motors</p>
+<p>Child Lock</p>
+</div>
+</div>
+</div>
+<p data-mce-fragment="1">Weight Capacity: 650 lbs</p>
+<p data-mce-fragment="1">Courier Friendly</p>
+<p data-mce-fragment="1">Gravity Release</p>
+<p data-mce-fragment="1">Power Outage Protection</p>
+<p data-mce-fragment="1">12” Stackable Legs (minimum 6”-9”-12”)</p>
+<p data-mce-fragment="1">10 Year Limited Warranty</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6585832571040</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>39009</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5969822482592</id>
+    <published>2021-01-07T10:28:14-07:00</published>
+    <updated>2021-01-07T10:28:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-reflexion-boost-1-0-lifestyle-adjustable-base-queen"/>
+    <title>Sealy - Reflexion Boost 1.0 Lifestyle Adjustable Base - Queen</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BOOST2.0_1af38652-34ad-4f8d-9792-142ad9bbf867.jpg?v=1610040496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">ADJUST<br data-mce-fragment="1">Use to raise the head section of your adjustable base.<br data-mce-fragment="1">Use to raise the foot section of your adjustable base.<br data-mce-fragment="1">Use to lower the head section of your adjustable base.<br data-mce-fragment="1">Use to lower the foot section of your adjustable base.<br data-mce-fragment="1">FLAT  - Press down and hold for three (3) seconds to return bed to flat position.<br data-mce-fragment="1">FAVOURITE 1 PRESET POSITION<br data-mce-fragment="1">Reprogrammable Preset Position.<br data-mce-fragment="1">ZERO CLEARANCE<br data-mce-fragment="1">ADJUSTABLE<br data-mce-fragment="1">CHILD LEGS<br data-mce-fragment="1">LOCK<br data-mce-fragment="1">EXTRA FEATURES<br data-mce-fragment="1">• Lift capacity of 650 lbs.<br data-mce-fragment="1">• Bed can be lowered during power outage or remote failure.<br data-mce-fragment="1">• Sized to fit any standard bed frame.<br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Year 1-3 full coverage of parts and labour.<br data-mce-fragment="1">Year 4-5 full coverage of parts only.<br data-mce-fragment="1">Year 6-25 frame only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5969822482592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>89811</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5776510517408</id>
+    <published>2020-10-16T19:39:10-06:00</published>
+    <updated>2020-10-16T19:39:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-reflexion-2-adjustable-foundation-double"/>
+    <title>Sealy - Reflexion 2 Adjustable Foundation - Double</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reflexion2.jpg?v=1602898756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Why settle for flat? The Reflexion 2 adjustable foundation has been engineered to enhance the performance of your new mattress. With the simple heads-up feature (operated by remote control), you can read, watch TV or work on your laptop in bed – and then sleep in the flat position.</p>
+<p><strong>Controllable comfort</strong><br>- 60º upright angle makes it easy to read, watch TV, or use a laptop<br>- Lift capacity of 650 lbs.<br>- Full heads-up articulation in 30 seconds<br>- Retainer bar pivots out of the way, making it easy to change the sheets<br>- Bed can be lowered during power outage or remote failure<br>- Sized to fit any standard bed frame</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Remote Control - Wired</li>
+<li>LED Backlit Buttons</li>
+<li>Head Lift Range - 55°</li>
+<li>Head Only Lift</li>
+<li>Flat Button</li>
+<li>Battery Back-Up</li>
+<li>Fits any double size standard bed frame</li>
+</ul>
+<p><strong>PLEASE NOTE</strong> - This base does not come with legs.  This base can work with any frame that fits a regular size double box spring.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5776510517408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71668</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5609637249184</id>
+    <published>2020-09-08T19:56:47-06:00</published>
+    <updated>2020-09-08T19:56:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-reflexion-boost-2-0-lifestyle-adjustable-base-queen"/>
+    <title>Sealy - Reflexion Boost 2.0 Lifestyle Adjustable Base - Queen</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BOOST2.0_f3e7892f-9989-4f33-8a53-2107968ef2a1.jpg?v=1599616608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">ADJUST<br data-mce-fragment="1">Use to raise the head section of your adjustable base.<br data-mce-fragment="1">Use to raise the foot section of your adjustable base.<br data-mce-fragment="1">Use to lower the head section of your adjustable base.<br data-mce-fragment="1">Use to lower the foot section of your adjustable base.<br data-mce-fragment="1">FLAT  - Press down and hold for three (3) seconds to return bed to flat position.<br data-mce-fragment="1">FAVOURITE 1 PRESET POSITION<br data-mce-fragment="1">Reprogrammable Preset Position.<br data-mce-fragment="1">ZERO CLEARANCE<br data-mce-fragment="1">ADJUSTABLE<br data-mce-fragment="1">CHILD LEGS<br data-mce-fragment="1">LOCK<br data-mce-fragment="1">EXTRA FEATURES<br data-mce-fragment="1">• Lift capacity of 650 lbs.<br data-mce-fragment="1">• Bed can be lowered during power outage or remote failure.<br data-mce-fragment="1">• Sized to fit any standard bed frame.<br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Year 1-3 full coverage of parts and labour.<br data-mce-fragment="1">Year 4-5 full coverage of parts only.<br data-mce-fragment="1">Year 6-25 frame only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5609637249184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>66678</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4524816072800</id>
+    <published>2020-02-27T10:14:38-07:00</published>
+    <updated>2020-02-27T10:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-adjustable-lifestyle-base-split-king-2x-twin-xl"/>
+    <title>Kingsdown - Delight Adjustable Lifestyle Base - Split King (2x Twin XL)</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Delight_7bfb32fb-2157-4a86-be5b-9b9c1b78afe5.jpg?v=1582825484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            2399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Adjustable Legs (4”,6”,10”)</li>
+<li>5 memory positions</li>
+<li>Head Up / Foot Up</li>
+<li>"Flat" Button</li>
+<li>Wireless Remote</li>
+<li>Dual Massage</li>
+<li>Massage Timer</li>
+<li>3 Pulse Massage</li>
+<li>Flashlight</li>
+<li>Under-bed lighting</li>
+<li>850lb total max lift weight</li>
+<li>Easy To Reach Emergency Lowering/Link Button</li>
+<li>Emergency Battery Back Up</li>
+<li>Gravity down actuator</li>
+<li>Safety System</li>
+</ul>
+<p>20 Year Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4524816072800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>120202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4524814303328</id>
+    <published>2020-02-27T10:14:38-07:00</published>
+    <updated>2020-02-27T10:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-adjustable-lifestyle-base-queen"/>
+    <title>Kingsdown - Delight Adjustable Lifestyle Base - Queen</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Delight_5d411f9a-6b97-4bee-8c7e-d21aed32b60d.jpg?v=1582825223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Adjustable Legs (4”,6”,10”)</li>
+<li>5 memory positions</li>
+<li>Head Up / Foot Up</li>
+<li>"Flat" Button</li>
+<li>Wireless Remote</li>
+<li>Dual Massage</li>
+<li>Massage Timer</li>
+<li>3 Pulse Massage</li>
+<li>Flashlight</li>
+<li>Under-bed lighting</li>
+<li>850lb total max lift weight</li>
+<li>Easy To Reach Emergency Lowering/Link Button</li>
+<li>Emergency Battery Back Up</li>
+<li>Gravity down actuator</li>
+<li>Safety System</li>
+</ul>
+<p>20 Year Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4524814303328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>79379</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4524813713504</id>
+    <published>2020-02-27T10:14:38-07:00</published>
+    <updated>2020-02-27T10:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-adjustable-lifestyle-base-double"/>
+    <title>Kingsdown - Delight Adjustable Lifestyle Base - Double</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Delight_52343b83-52d4-43e9-b1ce-9b212ff516b0.jpg?v=1582825127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Adjustable Legs (4”,6”,10”)</li>
+<li>5 memory positions</li>
+<li>Head Up / Foot Up</li>
+<li>"Flat" Button</li>
+<li>Wireless Remote</li>
+<li>Dual Massage</li>
+<li>Massage Timer</li>
+<li>3 Pulse Massage</li>
+<li>Flashlight</li>
+<li>Under-bed lighting</li>
+<li>850lb total max lift weight</li>
+<li>Easy To Reach Emergency Lowering/Link Button</li>
+<li>Emergency Battery Back Up</li>
+<li>Gravity down actuator</li>
+<li>Safety System</li>
+</ul>
+<p>20 Year Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4524813713504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>72575</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4524812632160</id>
+    <published>2020-02-27T10:14:38-07:00</published>
+    <updated>2020-02-27T10:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-adjustable-lifestyle-base-twin-xl"/>
+    <title>Kingsdown - Delight Adjustable Lifestyle Base - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Delight.jpg?v=1582824991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Adjustable Legs (4”,6”,10”)</li>
+<li>5 memory positions</li>
+<li>Head Up / Foot Up</li>
+<li>"Flat" Button</li>
+<li>Wireless Remote</li>
+<li>Dual Massage</li>
+<li>Massage Timer</li>
+<li>3 Pulse Massage</li>
+<li>Flashlight</li>
+<li>Under-bed lighting</li>
+<li>850lb total max lift weight</li>
+<li>Easy To Reach Emergency Lowering/Link Button</li>
+<li>Emergency Battery Back Up</li>
+<li>Gravity down actuator</li>
+<li>Safety System</li>
+</ul>
+<p>20 Year Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4524812632160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462318223456</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-black-luxury-base-split-king-2-twin-xls"/>
+    <title>Beautyrest Black - Luxury Base - Split King (2 Twin XL&apos;s)</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR19_Black_Luxury_700754766_SiloKing.jpg?v=1615571769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            4899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Convenient Flat Button</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Dual Massage Massage</p>
+<p>Zero-G Preset Position</p>
+<p>Full Head Tilt</p>
+<p>Seat Extension Design</p>
+<p>Under Bed Lighting</p>
+<p>Lumbar Support</p>
+<p>Smart Home Enabled</p>
+<p>Leg Sizes Included - 3", 5", 8"</p>
+<p>Lift Capacity - 850 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462318223456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4899.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>149685</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462317371488</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-black-luxury-base-king"/>
+    <title>Beautyrest Black - Luxury Base - King</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR19_Black_Luxury_700754766_Silo_062b0c05-57b1-4919-bd05-985e6a1b4549.jpg?v=1615571812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            3299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Convenient Flat Button</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Dual Massage Massage</p>
+<p>Zero-G Preset Position</p>
+<p>Full Head Tilt</p>
+<p>Seat Extension Design</p>
+<p>Under Bed Lighting</p>
+<p>Lumbar Support</p>
+<p>Smart Home Enabled</p>
+<p>Leg Sizes Included - 3", 5", 8"</p>
+<p>Lift Capacity - 850 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462317371488</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>129274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462316388448</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-black-luxury-base-queen"/>
+    <title>Beautyrest Black - Luxury Base - Queen</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR19_Black_Luxury_700754766_Silo_790c6f7e-8377-467d-ad1e-6261aafc5485.jpg?v=1615571790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            2699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Convenient Flat Button</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Dual Massage Massage</p>
+<p>Zero-G Preset Position</p>
+<p>Full Head Tilt</p>
+<p>Seat Extension Design</p>
+<p>Under Bed Lighting</p>
+<p>Lumbar Support</p>
+<p>Smart Home Enabled</p>
+<p>Leg Sizes Included - 3", 5", 8"</p>
+<p>Lift Capacity - 850 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462316388448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>99790</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462315765856</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-black-luxury-base-twin-xl"/>
+    <title>Beautyrest Black - Luxury Base - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR19_Black_Luxury_700754766_Silo.jpg?v=1615571752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            2449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Convenient Flat Button</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Dual Massage Massage</p>
+<p>Zero-G Preset Position</p>
+<p>Full Head Tilt</p>
+<p>Seat Extension Design</p>
+<p>Under Bed Lighting</p>
+<p>Lumbar Support</p>
+<p>Smart Home Enabled</p>
+<p>Leg Sizes Included - 3", 5", 8"</p>
+<p>Lift Capacity - 850 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462315765856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2449.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>74843</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462310129760</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-motion-essentials-iv-split-king-2-twin-xls"/>
+    <title>Serta - Motion Essentials IV - Split King (2 Twin XL&apos;s)</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/684_447_618_Motion_Essentials_Base_Silo_378e6817-5631-479a-b0ab-4abac52c091a.jpg?v=1577758568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            2199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Single Massage</p>
+<p>Convenient Flat Button<br></p>
+<p>Leg Sizes Included - 3", 6", 9", 12"</p>
+<p>Lift Capacity - 650 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462310129760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>99790</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462299349088</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-motion-essential-iv-king"/>
+    <title>Serta - Motion Essentials IV - King</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/684_447_618_Motion_Essentials_Base_Silo_0f26b168-9a35-435a-9ee8-bb2f4c338021.jpg?v=1577756948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Single Massage</p>
+<p>Convenient Flat Button</p>
+<p>Leg Sizes Included - 3", 6", 9", 12"</p>
+<p>Lift Capacity - 650 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462299349088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>111584</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462297743456</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-motion-essentials-iv-queen"/>
+    <title>Serta - Motion Essentials IV - Queen</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/684_447_618_Motion_Essentials_Base_Silo_39b0158e-9e40-48c2-ba45-54b7a597429e.jpg?v=1577756629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Single Massage</p>
+<p>Convenient Flat Button<br></p>
+<p>Leg Sizes Included - 3", 6", 9", 12"</p>
+<p>Lift Capacity - 650 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462297743456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>70760</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462296334432</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-motion-essentials-iv-twin-xl"/>
+    <title>Serta - Motion Essentials IV - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/684_447_618_Motion_Essentials_Base_Silo.jpg?v=1577756348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Single Massage</p>
+<p>Convenient Flat Button<br></p>
+<p>Leg Sizes Included - 3", 6", 9", 12"</p>
+<p>Lift Capacity - 650 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462296334432</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903356412000</id>
+    <published>2019-01-21T11:04:07-07:00</published>
+    <updated>2019-01-21T11:04:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-king-low-profile"/>
+    <title>Kingsdown - Box Spring - King Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Low_Pro_King_abe967b2-e016-4862-931b-b1713f05228e.jpg?v=1548093889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>King  - 80" x 38" x 5.5" x 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>king</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903356412000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30844</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903356248160</id>
+    <published>2019-01-21T11:02:51-07:00</published>
+    <updated>2019-01-21T11:02:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-king-low-profile"/>
+    <title>Box Spring Steel Reinforced - King Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Low_Pro_King_a1643fbe-d305-4749-a140-a883b22fca17.jpg?v=1548093826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Steel Reinforced</p>
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>King  - 80" x 38" x 5" x 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>king</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903356248160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30844</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903355691104</id>
+    <published>2019-01-21T11:00:26-07:00</published>
+    <updated>2019-01-21T11:00:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-king"/>
+    <title>Kingsdown - Box Spring - King</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/King_Box_12ce78da-e224-4c66-9407-e91f6a5e0cca.jpg?v=1548093684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>King  - 80" x 38" x 9" x 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>king</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903355691104</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30844</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903355396192</id>
+    <published>2019-01-21T10:59:18-07:00</published>
+    <updated>2019-01-21T10:59:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-king"/>
+    <title>Box Spring Steel Reinforced - King</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/King_Box_03aa2839-8277-42e2-b357-0b7909639d91.jpg?v=1548093619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            320.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Steel Reinforced</p>
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>King  - 80" x 38" x 9" x 2</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>king</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903355396192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">320.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>30844</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903352447072</id>
+    <published>2019-01-21T10:55:01-07:00</published>
+    <updated>2019-01-21T10:55:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-queen-low-profile"/>
+    <title>Kingsdown - Box Spring - Queen Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Low_Profile_Box_67f36c75-1df5-4d55-a1a5-5918ef9770d1.jpg?v=1548093357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Queen - 80" x 60" x 5.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>queen</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903352447072</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903350284384</id>
+    <published>2019-01-21T10:53:46-07:00</published>
+    <updated>2019-01-21T10:53:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-queen-low-profile"/>
+    <title>Box Spring Steel Reinforced - Queen Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Low_Profile_Box_6ccfd33e-8317-47bc-86d1-7866bd53899c.jpg?v=1548093290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Steel <span>Reinforced</span></p>
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Queen - 80" x 60" x 5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>queen</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903350284384</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>23133</s:grams>
+    </s:variant>
+  </entry>
+</feed>

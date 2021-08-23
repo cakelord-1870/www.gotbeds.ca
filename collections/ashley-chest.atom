@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/ashley-chest.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2019-05-05T10:22:53-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/2119445905504</id>
+    <published>2019-05-05T10:22:53-06:00</published>
+    <updated>2019-05-05T10:22:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/arnett-five-drawer-chest"/>
+    <title>Arnett - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Arnett_-_Five_Drawer_Chest.jpg?v=1557073484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Product Features</b>
+<ul>
+<li>Made of wood, engineered wood and engineered wood veneers</li>
+<li>Smoky gray finish</li>
+<li>Satin nickel-tone hardware</li>
+<li>5 smooth-gliding drawers</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 31.5" W x 16" D x 47" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/2119445905504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B552-46</s:sku>
+      <s:grams>42638</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1955943546976</id>
+    <published>2019-03-01T18:26:21-07:00</published>
+    <updated>2019-03-01T18:26:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lodanna-five-drawer-chest"/>
+    <title>Lodanna - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lodanna_-_Five_Drawer_Chest.jpeg?v=1551490165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Reminiscent of Hollywood glamour of yesteryear, this chest of drawers interprets luxury in a decidedly modern way. Dazzling gray finish and faceted chrome-tone accents enhance the star power, while five smooth-gliding drawers provide enough storage to appease your inner diva.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Replicated wood grain</li>
+<li>Faceted chrome-tone pulls and accents</li>
+<li>5 smooth-operating drawers</li>
+<li>Drawers lined with faux linen laminate</li>
+</ul>
+<meta charset="utf-8">
+<div><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-2">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 33.7" W x 15.67" D x 51.02" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1955943546976</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B214-46</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929471524960</id>
+    <published>2019-02-12T18:04:02-07:00</published>
+    <updated>2019-02-12T18:04:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-chest"/>
+    <title>Kanwyn - Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_Chest.jpg?v=1550019951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Give your retreat vintage charm and valuable drawer storage with this 5-drawer chest. In a beautifully distressed whitewashed finish, you'll love putting it all away in casual style. Five full-sized drawers will help you keep organized. Generously scaled moulding from top to bottom, along with bun feet and drawer handles with a transitional aesthetic, give this chest character—invoking the feel of a quaint cottage escape.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made with solid wood, veneers and engineered wood</li>
+<li>Distressed whitewashed finish</li>
+<li>5 smooth-gliding drawers</li>
+<li>Dark gray pewter-tone finished metal hardware</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 38" W x 18" D x 51.88" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929471524960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>B777-46</s:sku>
+      <s:grams>68946</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1920324862048</id>
+    <published>2019-02-05T17:28:20-07:00</published>
+    <updated>2019-02-05T17:28:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/wynnlow-gray-dressing-chest"/>
+    <title>Wynnlow - Dressing Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Wynnlow_-_Gray_-_Dressing_Chest.jpg?v=1549413131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dressing chest is sure to win your heart with its daring designer take on modern rustic. The bedroom chest’s crisp, clean and minimalist-chic profile is enriched with a striking replicated oak grain with thick plank styling and a weathered gray finish for that much more authentic character. Large-scale hooded pulls gracing the flush-mount drawers add such a distinctive twist. Sliding door reveals shelved storage that’s perfect for folded shirts, jeans and sweaters.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Rustic gray finish over replicated oak grain</li>
+<li>Hooded pull hardware in dark finish</li>
+<li>Plank effect</li>
+<li>5 smooth-gliding drawers</li>
+<li>Sliding door revealing 3 adjustable shelves</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 36.81" W x 18.86" D x 55.67" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1920324862048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku>B440-48</s:sku>
+      <s:grams>77111</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1917531848800</id>
+    <published>2019-02-03T17:15:29-07:00</published>
+    <updated>2019-02-03T17:15:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-narrow-chest"/>
+    <title>Baystorm - Narrow Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Baystorm_-_Narrow_Chest.jpg?v=1549239452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beachy style and lots of storage go hand in hand with this narrow chest. Its driftwood and surfer-inspired smoky finish creates a rustic look that's perfect for setting the scene of an island getaway. Five roomy drawers give you the space needed for stowing away clothes and more. Clean lines and modern handles provide an authentic look to be admired for years to come.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Smokey gray finish over replicated oak grain</li>
+<li>5 smooth-gliding drawers</li>
+<li>Linear pulls with antiqued gunmetal-tone finish</li>
+<li>Faux linen finished drawer interiors</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-7">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 20.91" W x 14.84" D x 51.1" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1917531848800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">499.99</s:price>
+      <s:sku>B221-11</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475832873056</id>
+    <published>2018-09-24T22:02:43-06:00</published>
+    <updated>2018-09-24T22:02:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/starberry-five-drawer-chest"/>
+    <title>Starberry - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Starberry_-_Five_Drawer_Chest_1.jpeg?v=1537848291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Starry, starry nights. Inspired by Hollywood glam, this richly styled chest of drawers steals the show in a simply stunning way. Its replicated walnut grain is enriched with a high-gloss black finish, made even more dramatic with chrome-tone handles with faux crystals. Two felt-bottom six-compartment jewelry drawers with silver glitter finish fronts accentuate a clean-lined, contemporary aesthetic.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Replicated walnut grain with high-gloss black finish</li>
+<li>Silvertone accent</li>
+<li>5 smooth-gliding drawers</li>
+<li>2 felt-lined six-compartment jewelry drawer</li>
+<li>Chrome-tone hardware with faux crystals</li>
+</ul>
+<meta charset="utf-8">
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-2">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 31.81" W x 15.31" D x 54.02" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475832873056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B304-46</s:sku>
+      <s:grams>53070</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475832316000</id>
+    <published>2018-09-24T21:51:20-06:00</published>
+    <updated>2018-09-24T21:51:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/reylow-five-drawer-chest"/>
+    <title>Reylow - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reylow_-_Five_Drawer_Chest_1.jpeg?v=1537847722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This chest of drawers is turning heads with its clean, streamlined vibe. Dark brown finish has a gorgeous distressed effect, adding two-tone visual interest. Large drawers provide a ton of space for your belongings. Knobs and pulls with satin nickel-tone finish give this chest a neat touch of shine.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood and replicated veneers</li>
+<li>Distressed dark brown finish</li>
+<li>5 smooth-gliding drawers</li>
+<li>Satin nickel-tone finished metal hardware</li>
+</ul>
+<meta charset="utf-8">
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-3">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 30.24" W x 15.43" D x 54.02" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475832316000</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">499.99</s:price>
+      <s:sku>B555-46</s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475832021088</id>
+    <published>2018-09-24T21:47:21-06:00</published>
+    <updated>2018-09-24T21:47:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/jorstad-five-drawer-chest-1"/>
+    <title>Jorstad - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Jorstad_-_Five_Drawer_Chest.jpeg?v=1537847462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This chest of drawers is all about subtle detailing. Classic Louis Phillippe styling with gorgeous top moulding and scalloped-edge feet instantly grabs your attention. Light gray hue offers a clean and crisp appearance for a fresh spin on traditional design. Antiqued brass-tone knobs build visual contrast while making it easy for you to pull out the spacious drawers.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of wood, engineered wood and veneers</li>
+<li>5 smooth-gliding drawers with dovetail construction</li>
+<li>Knobs in antiqued brass-tone finish</li>
+</ul>
+<p><br><b>About Jorstad</b><br><span>With a clean light gray finish flowing over the classic Louis Phillippe styling, the “Jorstad” bedroom collection flawlessly captures the essence of relaxed traditional design. The ogee shaped top moulding and bracket feet along with the upholstered panel sleigh headboard with a textural gray-white fabric adorned with nail head detailing creates a beautiful bedroom collection you’ll be proud to own.</span></p>
+<meta charset="utf-8">
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-5">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 31.13" W x 15.63" D x 48.38" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475832021088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B378-46</s:sku>
+      <s:grams>45813</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475826057312</id>
+    <published>2018-09-24T19:45:10-06:00</published>
+    <updated>2018-09-24T19:45:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/wynnlow-five-drawer-chest"/>
+    <title>Wynnlow - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Wynnlow_-_Five_Drawer_Chest.jpg?v=1537840008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This chest of drawers is sure to win your heart with its daring designer take on modern rustic. The bedroom chest’s crisp, clean and minimalist-chic profile is enriched with a striking replicated oak grain with thick plank styling and a weathered gray finish for that much more authentic character. Large-scale hooded pulls gracing the flush-mount drawers add such a distinctive twist.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Rustic gray finish over replicated oak grain</li>
+<li>Hooded pull hardware in dark finish</li>
+<li>Plank effect</li>
+<li>5 smooth-gliding drawers</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 33.7" W x 15.31" D x 51.02" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475826057312</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B440-46</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475825729632</id>
+    <published>2018-09-24T19:39:18-06:00</published>
+    <updated>2018-09-24T19:39:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lettner-five-drawer-chest"/>
+    <title>Lettner - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lettner_-_Five_Drawer_Chest_1.jpg?v=1537839657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Satisfying your taste for tradition, this chest of drawers sports serene sophistication. Forever classic design details—inlaid panels, silvertone patina hardware and bun feet—are so easy to love. Burnished light gray finish elevates the look with modern sensibility. Five roomy drawers keep your wardrobe organized in style.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of veneers, wood and engineered wood</li>
+<li>Silvertone patina hardware</li>
+<li>5 smooth-gliding drawers with dovetail construction</li>
+<li>Top drawer felt-lined</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-1">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 39.5" W x 18" D x 58" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475825729632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku>B733-46</s:sku>
+      <s:grams>78018</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475825270880</id>
+    <published>2018-09-24T19:30:33-06:00</published>
+    <updated>2018-09-24T19:30:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-five-drawer-chest"/>
+    <title>Derekson - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Derekson_-_Five_Drawer_Chest.jpg?v=1537839125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Modern yet hefty. This chest of drawers makes an urban eclectic statement. Seasoned raw wood look merges with the clean lined design we love today. Muted rustic finish over replicated pine grain maintains its authenticity. Roomy drawers are flanked with attractive framed front and pilasters. Handles with antiqued gunmetal finish complete this beauteous look with easy to pull function.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood and veneers</li>
+<li>Muted distressed finish over replicated pine grain</li>
+<li>Metal drawer pulls in antiqued gunmetal finish</li>
+<li>5 smooth-gliding drawers with replicated linen interior</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 31.73" W x 15.35" D x 53.94" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475825270880</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B200-46</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475822911584</id>
+    <published>2018-09-24T19:19:27-06:00</published>
+    <updated>2018-09-24T19:19:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/brashland-five-drawer-chest"/>
+    <title>Brashland - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Brashland_-_Five_Drawer_Chest_1.jpg?v=1537838496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This chest of drawers brings a fresh twist to the modern farmhouse movement. Handsome, hearty profile is made all the more interesting with a sliding “barn door” revealing shelved storage. Through-tenon styling incorporates a welcome touch of American craftsman. And the easy on the eyes, distressed white finish? Just the tone for a soothing, serene bedroom retreat. </span><br><br><b>Product Features</b>
+<ul>
+<li>Made of veneers, wood and engineered wood</li>
+<li>White textured finish</li>
+<li>Brushed nickel-tone hardware</li>
+<li>5 smooth-gliding drawers with dovetail construction</li>
+<li>Single shelf behind sliding door</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 44.13" W x 20" D x 55.5" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475822911584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1449.99</s:price>
+      <s:sku>B740-46</s:sku>
+      <s:grams>87543</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475820519520</id>
+    <published>2018-09-24T18:55:20-06:00</published>
+    <updated>2018-09-24T18:55:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bellaby-five-drawer-chest"/>
+    <title>Bellaby - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bellaby_-_Five_Drawer_Chest_1.jpg?v=1537837047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Your bedroom isn’t just a room. It’s a canvas. Express your farmhouse style with this chest of drawers. Wispy white finish over replicated oak wood grain brightens up the space with charm. Brushed nickel-tone handles with black edging finesse the piece with a bit of shine. Drawers are spacious and lined with faux linen laminate to hold your belongings with care. This clean-lined profile is the perfect authentic foundation for inviting decor. </span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>5 smooth-gliding drawers (lined with faux linen laminate)</li>
+<li>Brushed nickel-tone hardware with black edging</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-1">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 34.25" W x 15.91" D x 54.25" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475820519520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.99</s:price>
+      <s:sku>B331-46</s:sku>
+      <s:grams>58060</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475819307104</id>
+    <published>2018-09-24T18:45:47-06:00</published>
+    <updated>2018-09-24T18:45:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bolanburg-five-drawer-chest"/>
+    <title>Bolanburg - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bolanburg_-_Five_Drawer_Chest_1.jpg?v=1537836448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Whether your style is farmhouse fresh, shabby chic or country cottage, you’ll find this chest of drawers dressed to impress. Its two-tone, gently distressed finish pairs weathered oak with antique white for that much more quaint character. The chest's five smooth-gliding drawers are quality crafted with dovetail construction. A felt-lined top drawer is another reflection of fine detail, inside and out.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of veneers, wood and engineered wood</li>
+<li>Two-tone finish (weathered oak top over antique white)</li>
+<li>Plank-style top</li>
+<li>5 smooth-gliding drawers with dovetail construction (top drawer felt lined)</li>
+<li>Black faceted hardware</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 39.5" W x 18.88" D x 58" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475819307104</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku>B647-146</s:sku>
+      <s:grams>80286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475813310560</id>
+    <published>2018-09-24T18:12:13-06:00</published>
+    <updated>2018-09-24T18:12:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-five-drawer-chest"/>
+    <title>Baystorm - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Baystorm_-_Five_Drawer_Chest_1.jpg?v=1537834442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beachy style and lots of storage go hand in hand with this 5-drawer chest. Its driftwood and surfer-inspired smoky finish creates a rustic look that's perfect for setting the scene of an island getaway. Five roomy drawers give you the space needed for stowing away clothes and more. Clean lines and modern handles provide an authentic look to be admired for years to come.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Smokey gray finish over replicated oak grain</li>
+<li>5 smooth-gliding drawers</li>
+<li>Linear pulls with antiqued gunmetal finish</li>
+<li>Faux linen finished drawer interiors</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 31.1" W x 14.84" D x 51.42" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475813310560</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B221-46</s:sku>
+      <s:grams>58513</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475811573856</id>
+    <published>2018-09-24T18:00:15-06:00</published>
+    <updated>2018-09-24T18:00:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/cazenfeld-five-drawer-chest"/>
+    <title>Cazenfeld - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Cazenfeld_-_Five_Drawer_Chest.jpg?v=1537833749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>As much as you love escaping to the country, you’re equally drawn to the city. No wonder this chest of drawers fits you so well. Sporting an easy-on-the-eyes finish inspired by weathered barn wood, this chest of drawers is sure to please with an uptown look and a down-to-earth sensibility. Flush-mount drawers, sleek pulls and contrasting side posts richly enhance the urbane pastoral aesthetic.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Rustic warm gray finish over replicated oak grain</li>
+<li>5 smooth-gliding drawers lined with faux linen laminate for a finished look</li>
+<li>Metal drawer pulls in a dark gunmetal finish</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-1">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 31.97" W x 15.59" D x 54.33" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475811573856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B227-46</s:sku>
+      <s:grams>56699</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475811344480</id>
+    <published>2018-09-24T17:57:54-06:00</published>
+    <updated>2018-09-24T17:57:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lakeleigh-five-drawer-chest"/>
+    <title>Lakeleigh - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lakeleigh_-_Five_Drawer_Chest.jpg?v=1537833560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Opposites attract. This five-drawer chest opens our eyes to how casually rustic styling and an industrial hip vibe make for one happy marriage. Elements that beautify the chunky, linear profile include through-tenon styling, replicated planking and a high-grain finish rich with tonal variation. Unique “barn door” slider and shelved storage are a welcome surprise. What’s even more unexpected: how such a high-quality designer piece can be so attractively priced.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of veneers, wood and engineered wood</li>
+<li>5 smooth-gliding drawers with dovetail construction</li>
+<li>Dark zinc-tone metal hardware</li>
+<li>Sliding door (that reveals either 3 drawers or an adjustable shelf)</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 44.25" W x 20" D x 55.75" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475811344480</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1249.99</s:price>
+      <s:sku>B718-46</s:sku>
+      <s:grams>83915</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475810885728</id>
+    <published>2018-09-24T17:50:34-06:00</published>
+    <updated>2018-09-24T17:50:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/flynnter-five-drawer-chest"/>
+    <title>Flynnter - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Flynnter_-_Five_Drawer_Chest_1.jpg?v=1537833133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A fresh, new take on traditional style. This chest of drawers meets today’s design tastes with beauty and grace. Tobacco brown finish allows the natural grain of the acacia veneers to show through in an organic way. Aged brass-tone knobs dress the fronts of the roomy drawers. Hidden pull-out tray behind the top middle drawer puts your small valuables out of sight. This is a look you can appreciate for years to come.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of wood, engineered wood and veneers</li>
+<li>Aged brass-tone knob hardware</li>
+<li>5 smooth-gliding drawers with dovetail construction (top drawer felt lined)</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-2">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 39.63" W x 18" D x 58.13" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475810885728</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku>B719-46</s:sku>
+      <s:grams>78925</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475810787424</id>
+    <published>2018-09-24T17:47:34-06:00</published>
+    <updated>2018-09-24T17:47:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sommerford-five-drawer-chest"/>
+    <title>Sommerford - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Sommerford_-_Five_Drawer_Chest.jpg?v=1537832996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Load up on character. Scale back on fuss. As this 5-drawer chest proves to perfection—less is more. Crafted of reclaimed pine, its ultra clean-lined, chunky profile showcases long butcher-block planking rich with tonal variation, nicks, notches, nail holes and a whole lot of raw beauty. The drawers offer ample room for a wardrobe. Metal leg brackets add a modern touch for a unique look.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made with reclaimed pine wood</li>
+<li>Light grayish brown finish</li>
+<li>Silver/bronze-tone hardware</li>
+<li>5 smooth-operating drawers with dovetail construction</li>
+<li>Metal leg brackets</li>
+<li>Assembly required</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 42.13" W x 18" D x 54.5" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475810787424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1649.99</s:price>
+      <s:sku>B775-46</s:sku>
+      <s:grams>73482</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475808952416</id>
+    <published>2018-09-24T17:28:36-06:00</published>
+    <updated>2018-09-24T17:28:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/culverbach-five-drawer-chest"/>
+    <title>Culverbach - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Culverbach_-_Five_Drawer_Chest.jpg?v=1537831797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This chest's weathered driftwood finish evokes such an ethereal vibe—exactly what you need for your serene master suite. Clean lines and simple yet substantial hardware make for a timeless look you’ll love living with for years to come. Five spacious drawers offer ample storage for a wardrobe and spare bed linens.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood and engineered veneers</li>
+<li>Pewter-tone hardware</li>
+<li>5 smooth-gliding drawers with replicated linen lining</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 33.5" W x 15.35" D x 54.33" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475808952416</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B070-46</s:sku>
+      <s:grams>53524</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475808788576</id>
+    <published>2018-09-24T17:26:42-06:00</published>
+    <updated>2018-09-24T17:26:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/brinxton-five-drawer-chest"/>
+    <title>Brinxton - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Brinxton_-_Five_Drawer_Chest.jpg?v=1537831695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Priced to entice and styled to impress, this alluring chest of drawers is urban sophistication with a decidedly relaxed air. It’s got the crisp, clean lines of a contemporary piece, but with an earthy element. Replicated oak grain effect gives the chic charcoal finish warmth and character. Linear pulls are a sleek touch.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Charcoal finish over replicated oak grain</li>
+<li>Linear pulls with dark pewter-tone finish</li>
+<li>5 smooth-gliding drawers</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 34.25" W x 15.91" D x 54.25" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475808788576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B249-46</s:sku>
+      <s:grams>58060</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475807510624</id>
+    <published>2018-09-24T17:22:08-06:00</published>
+    <updated>2018-09-24T17:22:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ralene-five-drawer-chest"/>
+    <title>Ralene - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ralene_-_Five_Drawer_Chest.jpg?v=1537831423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Custom made for those who appreciate minimalist lines, this showpiece chest of drawers brings home high-end design made exceptionally affordable. The streamlined profile and sleek bar pulls are clearly inspired by mid-century modern furniture. Beautiful from the inside out, its smooth-gliding, flush-fit drawers are crafted with quality dovetail construction—for a timeless look that’s made to last.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of veneers, wood and engineered wood</li>
+<li>Bar pulls in aged bronze-tone finish</li>
+<li>5 smooth-gliding drawers with dovetail construction</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 36" W x 18" D x 55.88" H</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475807510624</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>B594-46</s:sku>
+      <s:grams>72121</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475805773920</id>
+    <published>2018-09-24T17:15:17-06:00</published>
+    <updated>2018-09-24T17:15:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-five-drawer-chest"/>
+    <title>Willowton - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Five_Drawer_Chest.jpg?v=1537831022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This chest of drawers is the ultimate statement piece for your coastal cottage or shabby chic inspired retreat. Whitewashed finish on the drawers and sides is wonderfully easy on the eyes. Paired with the unique plank-style top, it’s a driftwoody look that has our minds drifting away to beachy-keen escapes.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of engineered wood</li>
+<li>Whitewashed finish over replicated grain</li>
+<li>Faux plank top</li>
+<li>Antiqued brass-tone ring-pull hardware</li>
+<li>5 smooth-gliding drawers</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-1">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 33.78" W x 15.75" D x 52.72" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475805773920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.99</s:price>
+      <s:sku>B267-46</s:sku>
+      <s:grams>59421</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475804495968</id>
+    <published>2018-09-24T16:55:45-06:00</published>
+    <updated>2018-09-24T16:55:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/trinell-five-drawer-chest"/>
+    <title>Trinell - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Trinell_-_Five_Drawer_Chest.jpg?v=1537829855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Whether she loves horses or he's a cowboy at heart, this chest of drawers matches their authenticity. Rustic finish, plank-style details and nailhead trim pay homage to reclaimed barn wood, making for a chic look loaded with charm. Five roomy drawers keep clothing or toys nicely reined in.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of replicated veneer and engineered wood</li>
+<li>Antiqued bronze-tone hardware</li>
+<li>5 smooth-operating drawers</li>
+<li>Nailhead accents</li>
+<li>Assembly required</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 34.25" W x 16.18" D x 54.69" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475804495968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.99</s:price>
+      <s:sku>B446-46</s:sku>
+      <s:grams>58513</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1475802595424</id>
+    <published>2018-09-24T16:30:37-06:00</published>
+    <updated>2018-09-24T16:30:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/quinden-five-drawer-chest"/>
+    <title>Quinden - Five Drawer Chest</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Quinden_-_Five_Drawer_Chest.jpg?v=1537828356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>If there’s any room in your home where you want an easy-breezy vibe and relaxed sensibility, it’s the bedroom. Bathed in a rich, dark and wonderfully “weathered” finish, this chest of drawers simply captures that rustic cottage feel, but with clean-lined refinement. Five smooth-gliding drawers accommodate your wardrobe needs beautifully.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of replicated veneers and engineered wood</li>
+<li>Antiqued brass-tone hardware</li>
+<li>5 drawers</li>
+<li>Assembly required</li>
+</ul>
+<p><br><b>About Quinden</b><br><span>With the dark brown vintage finish flowing over replicated oak grain and framed panels with horizontal slat details, the beautiful look of the vintage designed “Quinden” bedroom collection perfectly creates a warm inviting style that fits comfortably into the décor of any bedroom.</span></p>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 34.25" W x 15.91" D x 54.29" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1475802595424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>B246-46</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/double-bed-frame.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2019-02-05T17:39:26-07:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1920327811168</id>
+    <published>2019-02-05T17:39:26-07:00</published>
+    <updated>2019-02-05T17:39:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/brinxton-double-panel-bed"/>
+    <title>Brinxton - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Brinxton_-_Full_Panel_Bed.jpg?v=1549413655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            679.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dark charcoal finish over replicated oak grain. Tall generously scaled cases with wide pilaster. Large dark color handles with an aged appearance accent cases. Modern styled deep panel bed enhanced with horizontal pocket details.</span></p>
+<p><span><b>Brinxton - Black - Full Panel Footboard</b><br>56.85"W x 3.62"D x 20.63"H - 45.0 lbs <br><b>Brinxton - Black - Full Panel Rails</b><br>"W x "D x "H - 34.0 lbs <br><b>Brinxton - Black - Full Panel Headboard</b><br>56.77"W x 3.07"D x 53.7"H - 60.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1920327811168</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">679.99</s:price>
+      <s:sku>B249/87/84/86</s:sku>
+      <s:grams>63049</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1920326729824</id>
+    <published>2019-02-05T17:37:37-07:00</published>
+    <updated>2019-02-05T17:37:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/cazenfeld-full-panel-bed"/>
+    <title>Cazenfeld - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Cazenfeld_-_Full_Panel_Bed.jpg?v=1549413529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic warm gray finish over replicated Oak grain accented with dark charcoal finish over replicated Oak grain. </span></p>
+<p><span><b>Cazenfeld - Black/Gray - Full Panel Footboard</b><br>57.05"W x 3.7"D x 16.5"H - 30.0 lbs <br><b>Cazenfeld - Black/Gray - Full Panel Rails</b><br>"W x "D x "H - 35.0 lbs <br><b>Cazenfeld - Black/Gray - Full Panel Headboard</b><br>56.3"W x 3.78"D x 51.02"H - 51.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1920326729824</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B227/87/84/86</s:sku>
+      <s:grams>52617</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1511479181408</id>
+    <published>2018-11-03T17:05:23-06:00</published>
+    <updated>2018-11-03T17:05:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-full-panel-bed-with-storage"/>
+    <title>Willowton - Double Panel Bed with Storage</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Full_Panel_Bed_with_Storage_1.jpeg?v=1541286452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            1079.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Two-tone finish in white wash replicated worn through paint with authentic touch and a replicated wood grained block pattern with authentic touch. Large scaled shapely bedroom collection features bun feet. Ring pull hardware in an antique brass color, accented with white paint hang up. Side roller glides for smooth operating drawers. </span></p>
+<meta charset="utf-8">
+<p><span><b>Frames And Rails - Brown - Full Roll Slat</b><br>53.39"W x 70.79"D x 0.75"H - 31.2 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Willowton - Whitewash - Under Bed Storage w/Side Rail</b><br>76.77"W x 56.61"D x 18.19"H - 110.0 lbs <br><b>Willowton - Whitewash - Full Panel Footboard</b><br>57.4"W x 3.31"D x 26.42"H - 42.0 lbs <br><b>Willowton - Whitewash - Full Panel Headboard</b><br>57.4"W x 3.23"D x 53.74"H - 55.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1511479181408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1079.99</s:price>
+      <s:sku>B267/87/84/50/B100-12</s:sku>
+      <s:grams>109316</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1476549312608</id>
+    <published>2018-09-27T21:15:54-06:00</published>
+    <updated>2018-09-27T21:15:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/culverbach-full-panel-bed"/>
+    <title>Culverbach - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Culverbach_-_Full_Panel_Bed_1.jpeg?v=1538104684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            479.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>A sophisticated modern chunky look with large satin nickel colored hardware. Warm gray vintage finish with subtle pearl effect over replicated cherry grain. Mouldings across headboard give a thick planked look. </span></p>
+<meta charset="utf-8">
+<p><span><b>Culverbach - Gray - Full Panel HDBD and FTBD</b><br>56.85"W x 1.89"D x 52.99"H - 65.0 lbs <br><b>Culverbach - Gray - Full Panel Rails</b><br>35.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1476549312608</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">479.99</s:price>
+      <s:sku>B070/55/86</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1476248764512</id>
+    <published>2018-09-26T18:11:41-06:00</published>
+    <updated>2018-09-26T18:11:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-full-storage-bed"/>
+    <title>Derekson - Double Storage Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Derekson_-_Full_Storage_Bed.jpg?v=1538007204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            1249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design. Contemporary handles in an antiqued gunmetal finish. Side roller glides for smooth operating drawers. Drawer interiors finished with a replicated linen design.</span></p>
+<p><span><b>Frames And Rails - Brown - Full Roll Slat</b><br>53.39"W x 70.79"D x 0.75"H - 31.2 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Derekson - Multi Gray - Twin/Full Under Bed Storage</b><br>76.77"W x 15.35"D x 14.17"H - 58.0 lbs <br><b>Derekson - Multi Gray - Full Storage Footboard</b><br>55.51"W x 15.35"D x 16.77"H - 58.0 lbs <br><b>Derekson - Multi Gray - Full Panel Headboard</b><br>55.51"W x 4.45"D x 48.5"H - 61.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1476248764512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1249.99</s:price>
+      <s:sku>B200/87/84S/50(2)/B100-12</s:sku>
+      <s:grams>122016</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1476248567904</id>
+    <published>2018-09-26T18:08:11-06:00</published>
+    <updated>2018-09-26T18:08:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-full-footboard-storage-bed"/>
+    <title>Derekson - Double Footboard Storage Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Derekson_-_Full_Footboard_Storage_Bed.jpg?v=1538007079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design. Contemporary handles in an antiqued gunmetal finish. Side roller glides for smooth operating drawers. Drawer interiors finished with a replicated linen design.</span></p>
+<p><span><b>Frames And Rails - Brown - Full Roll Slat</b><br>53.39"W x 70.79"D x 0.75"H - 31.2 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Derekson - Multi Gray - Full Storage Footboard</b><br>55.51"W x 15.35"D x 16.77"H - 58.0 lbs <br><b>Derekson - Multi Gray - Full Panel Headboard</b><br>55.51"W x 4.45"D x 48.5"H - 61.0 lbs <br><b>Derekson - Multi Gray - Twin/Full Platform Rails</b><br>55"W x 78.9"D x 7.17"H - 32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1476248567904</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B200/87/84S/89/B100-12</s:sku>
+      <s:grams>83915</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1476028596320</id>
+    <published>2018-09-25T22:40:59-06:00</published>
+    <updated>2018-09-25T22:40:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-full-panel-bed-with-trundle-under-bed-storage"/>
+    <title>Willowton - Double Panel Bed with Trundle Under Bed Storage</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Full_Panel_Bed_with_Trundle_Under_Bed_Storage.jpeg?v=1537937534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            1149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Two-tone finish in white wash replicated worn through paint with authentic touch and a replicated wood grained block pattern with authentic touch. Large scaled shapely bedroom collection features bun feet. Ring pull hardware in an antique brass color, accented with white paint hang up. Side roller glides for smooth operating drawers.</span></p>
+<meta charset="utf-8">
+<p><span><b>Frames And Rails - Brown - Full Roll Slat</b><br>53.39"W x 70.79"D x 0.75"H - 31.2 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Willowton - Whitewash - Under Bed Storage</b><br>76.38"W x 40"D x 9.98"H - 110.0 lbs <br><b>Willowton - Whitewash - Full Panel Footboard</b><br>57.4"W x 3.31"D x 26.42"H - 42.0 lbs <br><b>Willowton - Whitewash - Full Panel Rails</b><br>55"W x 77.76"D x 7.17"H - 34.0 lbs <br><b>Willowton - Whitewash - Full Panel Headboard</b><br>57.4"W x 3.23"D x 53.74"H - 55.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1476028596320</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1149.99</s:price>
+      <s:sku>B267/87/84/86/60/B100-12</s:sku>
+      <s:grams>124738</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430285680736</id>
+    <published>2018-09-23T13:34:46-06:00</published>
+    <updated>2018-09-23T13:34:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/jorstad-full-upholstered-sleigh-bed"/>
+    <title>Jorstad - Double Upholstered Sleigh Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Jorstad_-_Full_Upholstered_Sleigh_Bed_1.jpg?v=1537731426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>With a clean light gray finish flowing over the classic Louis Phillippe styling, the “Jorstad” bedroom collection flawlessly captures the essence of relaxed traditional design. The ogee shaped top moulding and bracket feet along with the upholstered panel sleigh headboard with a textural gray-white fabric adorned with nail head detailing creates a beautiful bedroom collection you’ll be proud to own.</span><br><br><span>Made with Birch veneers and select hardwood solids and finished in a light gray paint for clean and crisp appearance. Classic Louis Phillippe styling with ogee shaped top moulding and bracket feet. Sleigh bed has an upholstered panel with a textural gray-white fabric with nail head detailing.</span></p>
+<p><span><b>Jorstad - Gray - Full UPH Sleigh HDBD/FTBD</b><br>56.25"W x 5.75"D x 47.38"H - 49.0 lbs <br><b>Jorstad - Gray - Full Sleigh Rails</b><br>56.38"W x 72.75"D x 13.13"H - 26.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430285680736</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B378/55/86</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430285025376</id>
+    <published>2018-09-23T13:23:16-06:00</published>
+    <updated>2018-09-23T13:23:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-full-panel-bed"/>
+    <title>Derekson - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Derekson_-_Full_Panel_Bed.jpg?v=1537730726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design.</span></p>
+<p><span><b>Derekson - Multi Gray - Full Panel Footboard</b><br>55.51"W x 4.45"D x 20.39"H - 39.0 lbs <br><b>Derekson - Multi Gray - Full Panel Rails</b><br>55.28"W x 78.9"D x 7.17"H - 34.0 lbs <br><b>Derekson - Multi Gray - Full Panel Headboard</b><br>55.51"W x 4.45"D x 48.5"H - 61.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430285025376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B200/87/84/86</s:sku>
+      <s:grams>60781</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430278733920</id>
+    <published>2018-09-23T12:49:48-06:00</published>
+    <updated>2018-09-23T12:49:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-full-panel-bed"/>
+    <title>Willowton - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Full_Panel_Bed.jpg?v=1537728716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            679.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Two-tone finish in white wash replicated worn through paint with authentic touch and a replicated wood grained block pattern with authentic touch.</span></p>
+<p><span><b>Willowton - Whitewash - Full Panel Footboard</b><br>57.4"W x 3.31"D x 26.42"H - 42.0 lbs <br><b>Willowton - Whitewash - Full Panel Rails</b><br>55"W x 77.76"D x 7.17"H - 34.0 lbs <br><b>Willowton - Whitewash - Full Panel Headboard</b><br>57.4"W x 3.23"D x 53.74"H - 55.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430278733920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">679.99</s:price>
+      <s:sku>B267/87/84/86</s:sku>
+      <s:grams>59421</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430265593952</id>
+    <published>2018-09-23T09:53:36-06:00</published>
+    <updated>2018-09-23T09:53:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/trinell-full-panel-bed"/>
+    <title>Trinell - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Trinell_-_Full_Panel_Bed_1.jpeg?v=1537718175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            679.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Warm rustic plank finish over replicated Oak grain and authentic touch. Tops of cases and headboard/footboard panels are captured with a nail trimmed corner piece.</span></p>
+<meta charset="utf-8">
+<p><span>Roll slats can be used in substitution of a box spring.</span></p>
+<meta charset="utf-8">
+<p><span><b>Trinell - Brown - Full Panel Footboard</b><br>57.6"W x 3.46"D x 26.5"H - 38.0 lbs <br><b>Trinell - Brown - Full Panel Rails</b><br>55"W x 77.76"D x 14.29"H - 34.0 lbs <br><b>Trinell - Brown - Full Panel Headboard</b><br>57.6"W x 3.46"D x 53.82"H - 55.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430265593952</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">679.99</s:price>
+      <s:sku>B446/87/84/86</s:sku>
+      <s:grams>57606</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430264414304</id>
+    <published>2018-09-23T09:37:48-06:00</published>
+    <updated>2018-09-23T09:37:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/maribel-full-panel-bed"/>
+    <title>Maribel - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Maribel_-_Full_Panel_Bed_1.jpeg?v=1537717222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            579.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a relaxed cottage design that features beautiful frame details along with scalloped tops and base mouldings all bathed in a rich black finish, the “Maribel” bedroom collection creates an inviting atmosphere that is sure to transform the décor of any bedroom.</span><br><br><span>Solid black finish.</span></p>
+<meta charset="utf-8">
+<p><span><b>Maribel - Black - Full Panel Footboard</b><br>58.11"W x 3.86"D x 21.38"H - 42.0 lbs <br><b>Maribel - Black - Full Panel Rails</b><br>55.28"W x 78.9"D x 12.95"H - 34.0 lbs <br><b>Maribel - Black - Full Panel Headboard</b><br>57.8"W x 2.68"D x 53.39"H - 55.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430264414304</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">579.99</s:price>
+      <s:sku>B138/87/84/86</s:sku>
+      <s:grams>59421</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430264184928</id>
+    <published>2018-09-23T09:34:15-06:00</published>
+    <updated>2018-09-23T09:34:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kaslyn-full-panel-bed"/>
+    <title>Kaslyn - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kaslyn_-_Full_Panel_Bed.jpeg?v=1537717039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The beauty of cottage design shines with the bright white durable finish along with the stylish “X” motif and half rounded pilasters adorning the bed and case pieces making the “Kaslyn” bedroom collection the perfect way to create a cottage getaway within your own home.</span><br><br><span>Made with MDF and poplar solids. </span></p>
+<meta charset="utf-8">
+<p><span>Half round pilasters set on stylish turned bun feet. Cottage styling is earmarked by the use of overlay "X" motifs.</span></p>
+<meta charset="utf-8">
+<p><span>Bright white finish features a durable UV base coat for long lasting beauty. </span></p>
+<meta charset="utf-8">
+<p><span><b>Kaslyn - White - Full Panel Footboard</b><br>59.75"W x 4.13"D x 28.88"H - 44.0 lbs <br><b>Kaslyn - White - Full Panel Rails</b><br>56"W x 77.5"D x 13.75"H - 43.0 lbs <br><b>Kaslyn - White - Full Panel Headboard</b><br>59.75"W x 3.38"D x 56.63"H - 55.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430264184928</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B502/87/84/86</s:sku>
+      <s:grams>64410</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430263890016</id>
+    <published>2018-09-23T09:29:03-06:00</published>
+    <updated>2018-09-23T09:29:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/huey-vineyard-full-sleigh-bed"/>
+    <title>Huey Vineyard - Double Sleigh Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Huey_Vineyard_-_Full_Sleigh_Bed_1.jpeg?v=1537716669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With sophisticated style and a dark finish, the "Huey Vineyard" bedroom collection is sure to enhance your bedroom's decor with a rich traditional design that offers a warm comfortable atmosphere. The trendy replicated black paint finish beautifully bathes the stylish curved footboard and shapely rails and moulding in a smooth beauty that perfectly captures the rich traditional style. With the antique pewter color metal hardware perfectly complementing the Louis Philippe style, this collection fits comfortably into any bedroom decor. Enhance the style of any bedroom with the rich traditional beauty of the "Huey Vineyard" bedroom collection.</span><br><br><span>Louis Philippe styling. Trendy replicated black paint. Shapely top mouldings on the case pieces.</span></p>
+<meta charset="utf-8">
+<p><span>Curvaceous footboard panel caped with an elegant sleigh rail.</span></p>
+<meta charset="utf-8">
+<p><span><b>Huey Vineyard - Black - Full Sleigh Footboard</b><br>55.83"W x 7.09"D x 28.46"H - 45.0 lbs <br><b>Huey Vineyard - Black - Full Sleigh Headboard</b><br>55.67"W x 7.09"D x 44.49"H - 44.5 lbs <br><b>Huey Vineyard - Black - Full Sleigh Rails</b><br>55"W x 71.42"D x 11.18"H - 32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430263890016</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B128/87/84/88</s:sku>
+      <s:grams>55338</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430260547680</id>
+    <published>2018-09-23T09:18:08-06:00</published>
+    <updated>2018-09-23T09:18:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/alisdair-full-sleigh-bed"/>
+    <title>Alisdair - Double Sleigh Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Alisdair_-_Full_Sleigh_Bed.jpeg?v=1537715999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a warm inviting traditional design bathed in a deep brown finish, the beauty of the “Alisdair” bedroom collection comes to life in the subtle curves and antique bronze color hardware creating a relaxed sophistication that perfectly transforms the décor of any bedroom.</span><br><br><span>Made with select veneers and hardwood solids. Warm dark brown finish. </span></p>
+<meta charset="utf-8">
+<p><span><b>Alisdair - Dark Brown - Full Sleigh HDBD/FTBD</b><br>56.25"W x 6.5"D x 47.25"H - 57.0 lbs <br><b>Alisdair - Dark Brown - Full Sleigh Rails</b><br>56.13"W x 72.5"D x 13"H - 23.0 lbs </span></p>
+<p> </p>
+<p>*Frame requires box spring</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430260547680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">449.99</s:price>
+      <s:sku>B376/55/86</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430254780512</id>
+    <published>2018-09-23T08:53:01-06:00</published>
+    <updated>2018-09-23T08:53:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bostwick-shoals-full-panel-bed"/>
+    <title>Bostwick Shoals - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bostwick_Shoals_-_Full_Panel_Bed_1.jpeg?v=1537714645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            579.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a relaxed cottage design that features beautiful frame details along with scalloped tops and base mouldings all bathed in a glowing white finish, the “Bostwick Shoals” bedroom collection creates an inviting atmosphere that is sure to transform the décor of any bedroom.</span><br><br><span>Replicated solid white paint. </span></p>
+<meta charset="utf-8">
+<p><span><b>Bostwick Shoals - White - Full Panel Footboard</b><br>58.11"W x 3.86"D x 21.38"H - 42.0 lbs <br><b>Bostwick Shoals - White - Full Panel Rails</b><br>55.28"W x 78.9"D x 12.95"H - 32.5 lbs <br><b>Bostwick Shoals - White - Full Panel Headboard</b><br>57.8"W x 2.68"D x 53.39"H - 56.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430254780512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">579.99</s:price>
+      <s:sku>B139/87/84/86</s:sku>
+      <s:grams>59421</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430254452832</id>
+    <published>2018-09-23T08:43:53-06:00</published>
+    <updated>2018-09-23T08:43:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lulu-full-panel-bed"/>
+    <title>Lulu - Double Panel Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lulu_-_Full_Panel_Bed_1.jpeg?v=1537714339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The light airy cottage design of the “Lulu” youth bedroom collection features a replicated white paint finish flowing beautifully over the grooved panels and embossed bead framing to make this innovative furniture an inviting addition to any child’s bedroom.</span><br><br><span>Replicated white paint.</span></p>
+<meta charset="utf-8">
+<p><span>R</span>oll slats can be used in substitution of a box spring.</p>
+<meta charset="utf-8">
+<p><span><b>Lulu - White - Full Panel Footboard</b><br>56.89"W x 0.63"D x 19.76"H - 23.0 lbs <br><b>Lulu - White - Full Panel Rails</b><br>55"W x 76.77"D x 7.17"H - 30.0 lbs <br><b>Lulu - White - Full Panel Headboard</b><br>58.07"W x 1.89"D x 53.39"H - 48.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430254452832</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">449.99</s:price>
+      <s:sku>B102/87/84/86</s:sku>
+      <s:grams>45813</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1427421102176</id>
+    <published>2018-09-11T17:58:32-06:00</published>
+    <updated>2018-09-11T17:58:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/nashburg-double-metal-hdbd-ftbd-rails"/>
+    <title>Nashburg - Double Metal Bed</title>
+    <s:type>Double Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Nashburg_Full_Metal.jpg?v=1536710447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Double Bed Frame<br>
+        <strong>Price: </strong>
+            449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Country cottage. Farmhouse chic. Vintage industrial. However you see it, you’re sure to be instantly charmed by this retro-inspired full metal bed. Finished in an aged pewter-tone, its steel frame with moulded "fittings" brilliantly mimics wrought-iron beds from yesteryear. Let yourself drift away to a simpler time and place. Mattress and foundation/box spring available, sold separately.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of steel</li>
+<li>Includes headboard, footboard, rails and slats</li>
+<li>Aged pewter-tone finish</li>
+<li>Assembly required</li>
+<li>Mattress and foundation/box spring available, sold separately</li>
+</ul>
+<br><b>About Nashburg</b><br><span>Whether it’s the welded tubular metal in a bronze color powder coat finish, the welded tubular and sheet metal in a brushed pewter color finish or the welded tubular and sheet metal in a bronze color finish adorned with cushions covered in twill weave oatmeal color fabric, the “Metal Beds” collection features moulded metal accents and a rich vintage design perfect to enhance the beauty of any home.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1427421102176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">449.99</s:price>
+      <s:sku>B280-572</s:sku>
+      <s:grams>25401</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/clearance-1.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2021-04-15T19:40:06-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6647049945248</id>
+    <published>2021-04-15T19:40:06-06:00</published>
+    <updated>2021-04-15T19:40:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-special-edition-fisher-king"/>
+    <title>Kingsdown – Special Edition – Fisher – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/IMG_0388_55d91102-ee34-4236-a4a8-6bf0571c84c3.jpg?v=1618537218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            879.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Euro Top Luxury Firm</p>
+<p data-mce-fragment="1">Comfort Foam</p>
+<p data-mce-fragment="1">Firm Convoluted Comfort Foam</p>
+<p data-mce-fragment="1">1524 Pocket Coils</p>
+<p data-mce-fragment="1">Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6647049945248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">879.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6647049093280</id>
+    <published>2021-04-15T19:38:39-06:00</published>
+    <updated>2021-04-15T19:38:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-special-edition-fisher-queen"/>
+    <title>Kingsdown – Special Edition – Fisher – Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/IMG_0388.jpg?v=1618537107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Euro Top Luxury Firm</p>
+<p data-mce-fragment="1">Comfort Foam</p>
+<p data-mce-fragment="1">Firm Convoluted Comfort Foam</p>
+<p data-mce-fragment="1">1000 Pocket Coils</p>
+<p data-mce-fragment="1">Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6647049093280</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">579.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6577241260192</id>
+    <published>2021-03-09T17:45:27-07:00</published>
+    <updated>2021-03-09T17:45:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-icomfort-limited-edition-king"/>
+    <title>Serta – iComfort – Limited Edition – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SE20_ICO_LimitedEdition_PL_Q_Silo_b53cc564-6da7-4422-b0c4-0f8deeb14c80.jpg?v=1615337128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Smooth Top All Foam Medium</p>
+<p data-mce-fragment="1">Cold Touch Cover</p>
+<p data-mce-fragment="1">iComfort Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta Pillowsoft Foam</p>
+<p data-mce-fragment="1">Serta Foam Core</p>
+<p data-mce-fragment="1">10-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6577241260192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6577238671520</id>
+    <published>2021-03-09T17:43:18-07:00</published>
+    <updated>2021-03-09T17:43:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-icomfort-limited-edition-queen"/>
+    <title>Serta – iComfort – Limited Edition – Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SE20_ICO_LimitedEdition_PL_Q_Silo.jpg?v=1615336993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Smooth Top All Foam Medium</p>
+<p data-mce-fragment="1">Cold Touch Cover</p>
+<p data-mce-fragment="1">iComfort Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta Pillowsoft Foam</p>
+<p data-mce-fragment="1">Serta Foam Core</p>
+<p data-mce-fragment="1">10-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6577238671520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5975533289632</id>
+    <published>2021-03-08T19:35:40-07:00</published>
+    <updated>2021-03-08T19:35:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-choice-edition-double"/>
+    <title>Serta – Choice Edition – Double</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/ChoiceEditionPlush2_152825cb-cba0-4c77-b476-1f1a63976e31.jpg?v=1610227596"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Super Pillow Top Plush</p>
+<p data-mce-fragment="1">ComfortLuxe Gel Fibre</p>
+<p data-mce-fragment="1">Serta Comfort Foams</p>
+<p data-mce-fragment="1">900 Pocket Coils*</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.  Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Number of coils are based on a queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5975533289632</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5969822482592</id>
+    <published>2021-01-07T10:28:14-07:00</published>
+    <updated>2021-01-07T10:28:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-reflexion-boost-1-0-lifestyle-adjustable-base-queen"/>
+    <title>Sealy - Reflexion Boost 1.0 Lifestyle Adjustable Base - Queen</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BOOST2.0_1af38652-34ad-4f8d-9792-142ad9bbf867.jpg?v=1610040496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">ADJUST<br data-mce-fragment="1">Use to raise the head section of your adjustable base.<br data-mce-fragment="1">Use to raise the foot section of your adjustable base.<br data-mce-fragment="1">Use to lower the head section of your adjustable base.<br data-mce-fragment="1">Use to lower the foot section of your adjustable base.<br data-mce-fragment="1">FLAT  - Press down and hold for three (3) seconds to return bed to flat position.<br data-mce-fragment="1">FAVOURITE 1 PRESET POSITION<br data-mce-fragment="1">Reprogrammable Preset Position.<br data-mce-fragment="1">ZERO CLEARANCE<br data-mce-fragment="1">ADJUSTABLE<br data-mce-fragment="1">CHILD LEGS<br data-mce-fragment="1">LOCK<br data-mce-fragment="1">EXTRA FEATURES<br data-mce-fragment="1">• Lift capacity of 650 lbs.<br data-mce-fragment="1">• Bed can be lowered during power outage or remote failure.<br data-mce-fragment="1">• Sized to fit any standard bed frame.<br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">Year 1-3 full coverage of parts and labour.<br data-mce-fragment="1">Year 4-5 full coverage of parts only.<br data-mce-fragment="1">Year 6-25 frame only.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5969822482592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>89811</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5886737088672</id>
+    <published>2020-11-27T12:29:53-07:00</published>
+    <updated>2020-11-27T12:29:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-choice-edition-king"/>
+    <title>Serta – Choice Edition – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/ChoiceEditionPlush2_6d5a6384-d6e4-48b6-bc49-afa380d6f4c3.jpg?v=1606505388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Super Pillow Top Plush</p>
+<p data-mce-fragment="1">ComfortLuxe Gel Fibre</p>
+<p data-mce-fragment="1">Serta Comfort Foams</p>
+<p data-mce-fragment="1">900 Pocket Coils*</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.  Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Number of coils are based on a queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5886737088672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5886735450272</id>
+    <published>2020-11-27T12:27:45-07:00</published>
+    <updated>2020-11-27T12:27:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-choice-edition-queen"/>
+    <title>Serta – Choice Edition – Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/ChoiceEditionPlush2.jpg?v=1606505268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Super Pillow Top Plush</p>
+<p data-mce-fragment="1">ComfortLuxe Gel Fibre</p>
+<p data-mce-fragment="1">Serta Comfort Foams</p>
+<p data-mce-fragment="1">900 Pocket Coils*</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.  Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Number of coils are based on a queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5886735450272</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5776510517408</id>
+    <published>2020-10-16T19:39:10-06:00</published>
+    <updated>2020-10-16T19:39:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-reflexion-2-adjustable-foundation-double"/>
+    <title>Sealy - Reflexion 2 Adjustable Foundation - Double</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reflexion2.jpg?v=1602898756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Why settle for flat? The Reflexion 2 adjustable foundation has been engineered to enhance the performance of your new mattress. With the simple heads-up feature (operated by remote control), you can read, watch TV or work on your laptop in bed – and then sleep in the flat position.</p>
+<p><strong>Controllable comfort</strong><br>- 60º upright angle makes it easy to read, watch TV, or use a laptop<br>- Lift capacity of 650 lbs.<br>- Full heads-up articulation in 30 seconds<br>- Retainer bar pivots out of the way, making it easy to change the sheets<br>- Bed can be lowered during power outage or remote failure<br>- Sized to fit any standard bed frame</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Remote Control - Wired</li>
+<li>LED Backlit Buttons</li>
+<li>Head Lift Range - 55°</li>
+<li>Head Only Lift</li>
+<li>Flat Button</li>
+<li>Battery Back-Up</li>
+<li>Fits any double size standard bed frame</li>
+</ul>
+<p><strong>PLEASE NOTE</strong> - This base does not come with legs.  This base can work with any frame that fits a regular size double box spring.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5776510517408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71668</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4503824531552</id>
+    <published>2020-02-11T18:59:16-07:00</published>
+    <updated>2020-02-11T18:59:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-posturepedic-performance-plus-celebrate-euro-top-king"/>
+    <title>Sealy Posturepedic – Performance Plus – Celebrate Euro Top – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/ET-CELEBRATE-SLY-BMTA-AMO_80d9cc5e-dd80-4288-93c5-a5f721441e50.jpg?v=1581473391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1099.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Plush Euro Top</p>
+<p>Moisture Wicking Fabric</p>
+<p>Resilient BioGel Latex</p>
+<p>SealyCool Fibre</p>
+<p>SealySupport Fibre</p>
+<p>Gel Memory Foam</p>
+<p>Gel HDM</p>
+<p>1157 Pocket Coils</p>
+<p>13.5-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Alberta</p>
+<p>Mattress Only.  Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4503824531552</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>63503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4503785472096</id>
+    <published>2020-02-11T18:24:23-07:00</published>
+    <updated>2020-02-11T18:24:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-posturepedic-performance-plus-celebrate-tight-top-queen"/>
+    <title>Sealy Posturepedic – Performance Plus – Celebrate Tight Top – Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/TT-CELEBRATE-SLY-BMTA_07958774-ac05-4f94-a55d-16aa4fee4f1b.jpg?v=1581470906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Firm Tight Top</p>
+<p>Moisture Wicking Fabric</p>
+<p>Resilient BioGel Latex</p>
+<p>SealyCool Fibre</p>
+<p>SealySupport Fibre</p>
+<p>Gel Memory Foam</p>
+<p>Gel HD Foam</p>
+<p>900 Pocket Coils</p>
+<p>12-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Alberta</p>
+<p>Mattress Only.  Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4503785472096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/2191009480800</id>
+    <published>2019-06-21T16:02:03-06:00</published>
+    <updated>2019-06-21T16:02:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-posturepedic-optimum-chill-dior-king"/>
+    <title>Sealy Posturepedic Optimum – Chill Dior – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Dior_1.jpg?v=1561155203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Smooth Top Firm<br>Outlast Fabric Technology<br>Outlast Gold Gel Memory Foam<br>Liquid Gel Optisense Memory Foam<br>Liquid Gel Opticore<br>10-Inch Mattress Height<br>Lifestyle Adjustable Base Friendly<br>10-Year Warranty<br>Made in Canada<br>Mattress only, box spring and frame sold separately<br>*Colour &amp; designs may vary due to product enhancement</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>in store</s:tag>
+    <s:tag>king</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/2191009480800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/2187308695648</id>
+    <published>2019-06-19T18:48:11-06:00</published>
+    <updated>2019-06-19T18:48:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-icomfort-scrunch-pillow"/>
+    <title>Serta iComfort 4.0 Scrunch Pillow</title>
+    <s:type>Pillow</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/736_475_647_Serta-J40180-TempActiv1-TO-V1-001.jpg?v=1560991877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Pillow<br>
+        <strong>Price: </strong>
+            78.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>FREE SHIPPING CANADA WIDE!!!</p>
+<p><meta charset="UTF-8"><span>This new and upgraded version of our #1 selling iComfort pillow now features Serta’s proprietary cooling technology. Lay it flat or bunch it up – the unique construction lets you choose your comfort style.</span></p>
+<ul class="c-list c-list--bullets c-list--bullets-simple"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/2187308695648</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

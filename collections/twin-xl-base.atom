@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/twin-xl-base.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2021-03-12T12:07:17-07:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6585832571040</id>
+    <published>2021-03-12T12:07:17-07:00</published>
+    <updated>2021-03-12T12:07:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-motion-air-twin-xl"/>
+    <title>Beautyrest - Motion Air - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SM20_Silo_MSBase_NEW_8.jpg?v=1615576038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="UTF-8">
+<div title="Page 1" data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<div title="Page 1">
+<div>
+<div>
+<p><strong>Features</strong></p>
+<p>Zero Standby Power System</p>
+<p>Wireless Remote</p>
+<p>Head and Foot Adjust</p>
+<p>Head and Foot Simultaneous Adjust</p>
+<p>Silent Drive Motors</p>
+<p>Child Lock</p>
+</div>
+</div>
+</div>
+<p data-mce-fragment="1">Weight Capacity: 650 lbs</p>
+<p data-mce-fragment="1">Courier Friendly</p>
+<p data-mce-fragment="1">Gravity Release</p>
+<p data-mce-fragment="1">Power Outage Protection</p>
+<p data-mce-fragment="1">12” Stackable Legs (minimum 6”-9”-12”)</p>
+<p data-mce-fragment="1">10 Year Limited Warranty</p>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6585832571040</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>39009</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5777831559328</id>
+    <published>2020-10-17T10:45:38-06:00</published>
+    <updated>2020-10-17T10:45:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-pro-platform-base-twin-xl"/>
+    <title>Beautyrest - Pro Platform Base - Twin XL</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/2822_1236_2167_PRO_PLATFORM_SILO.jpg?v=1602953139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">• Folding Flat Foundation<br data-mce-fragment="1">• 12” Stackable Legs (3”-6”-9”-12”)<br data-mce-fragment="1">• Fabric Cover<br data-mce-fragment="1">• Courier Friendly<br data-mce-fragment="1">• 2 Year Warranty<br data-mce-fragment="1">• 650 lb Weight Capacity</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5777831559328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4524812632160</id>
+    <published>2020-02-27T10:14:38-07:00</published>
+    <updated>2020-02-27T10:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-adjustable-lifestyle-base-twin-xl"/>
+    <title>Kingsdown - Delight Adjustable Lifestyle Base - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Delight.jpg?v=1582824991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Adjustable Legs (4”,6”,10”)</li>
+<li>5 memory positions</li>
+<li>Head Up / Foot Up</li>
+<li>"Flat" Button</li>
+<li>Wireless Remote</li>
+<li>Dual Massage</li>
+<li>Massage Timer</li>
+<li>3 Pulse Massage</li>
+<li>Flashlight</li>
+<li>Under-bed lighting</li>
+<li>850lb total max lift weight</li>
+<li>Easy To Reach Emergency Lowering/Link Button</li>
+<li>Emergency Battery Back Up</li>
+<li>Gravity down actuator</li>
+<li>Safety System</li>
+</ul>
+<p>20 Year Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4524812632160</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462315765856</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-black-luxury-base-twin-xl"/>
+    <title>Beautyrest Black - Luxury Base - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR19_Black_Luxury_700754766_Silo.jpg?v=1615571752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            2449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Convenient Flat Button</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Dual Massage Massage</p>
+<p>Zero-G Preset Position</p>
+<p>Full Head Tilt</p>
+<p>Seat Extension Design</p>
+<p>Under Bed Lighting</p>
+<p>Lumbar Support</p>
+<p>Smart Home Enabled</p>
+<p>Leg Sizes Included - 3", 5", 8"</p>
+<p>Lift Capacity - 850 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462315765856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2449.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>74843</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4462296334432</id>
+    <published>2019-12-30T18:14:22-07:00</published>
+    <updated>2019-12-30T18:14:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-motion-essentials-iv-twin-xl"/>
+    <title>Serta - Motion Essentials IV - Twin XL</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/684_447_618_Motion_Essentials_Base_Silo.jpg?v=1577756348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Head and Foot Controls</p>
+<p>Wireless Remote</p>
+<p>Retainer Bar</p>
+<p>Zero Clearance Design (for use without legs)</p>
+<p>Platform Bed Compatible</p>
+<p>Emergency Battery Back Up</p>
+<p>Headboard Brackets</p>
+<p>USB Charging Ports</p>
+<p>Single Massage</p>
+<p>Convenient Flat Button<br></p>
+<p>Leg Sizes Included - 3", 6", 9", 12"</p>
+<p>Lift Capacity - 650 LBS</p>
+<p>20 Year Warranty</p>
+<p>Fabric Colour Subject to Change</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4462296334432</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903159771232</id>
+    <published>2019-01-20T22:56:21-07:00</published>
+    <updated>2019-01-20T22:56:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-twin-xl-low-profile"/>
+    <title>Kingsdown - Box Spring - Twin XL Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_4245a9bc-1c75-41d6-9489-ec0a30e96dfe.jpg?v=1548050275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin XL - 80" x 38" x 5.5" </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin xl</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903159771232</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903159214176</id>
+    <published>2019-01-20T22:52:52-07:00</published>
+    <updated>2019-01-20T22:52:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-twin-xl-low-profile"/>
+    <title>Box Spring Steel Reinforced - Twin XL Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_c6979ad6-46da-4402-8b43-ba8c46092697.jpg?v=1548050052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Steel Reinforced</p>
+<p>Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin XL - 80" x 38" x 5" </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin xl</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903159214176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903158558816</id>
+    <published>2019-01-20T22:46:37-07:00</published>
+    <updated>2019-01-20T22:46:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-twin-xl"/>
+    <title>Kingsdown - Box Spring - Twin XL</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_aa3e1b2c-7c11-4cae-8f89-bf74f7d2f9a6.jpg?v=1548049683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin XL - 80" x 38" x 9" </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin xl</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903158558816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903158427744</id>
+    <published>2019-01-20T22:44:15-07:00</published>
+    <updated>2019-01-20T22:44:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-twin-xl"/>
+    <title>Box Spring Steel Reinforced - Twin XL</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_4977ecf2-6ee1-4e55-b3df-db12b9a58a1e.jpg?v=1548049586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Steel Reinforced</p>
+<p>Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin XL - 80" x 38" x 9" </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin xl</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903158427744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+</feed>

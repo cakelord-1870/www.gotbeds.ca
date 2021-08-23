@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/king-bed-frames.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2020-05-14T17:47:53-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4627336527968</id>
+    <published>2020-05-14T17:47:53-06:00</published>
+    <updated>2020-05-14T17:47:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/adelloni-gray-king-upholstered-platform-bedframe"/>
+    <title>Adelloni - Gray - King Upholstered Platform Bedframe</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/B080-581_ff87783e-048c-41c4-ac03-0a13f622dcc3.jpg?v=1589500162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            529.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simplify your space and set the scene for a good night’s sleep with this upholstered bed. Clean lines and woven upholstery create the unfussy, modern silhouette you want to wake up to every morning.<br><br><strong>Product Features</strong>
+<ul>
+<li>Includes king-size upholstered headboard, footboard, rails and slats</li>
+<li>Gray polyester upholstery</li>
+<li>Nailhead trim</li>
+<li>Exposed wood feet</li>
+<li>Included slats eliminate the need for a foundation/box spring</li>
+<li>Mattress available, sold separately</li>
+<li>This headboard offers three height adjustments to accommodate various mattress thicknesses. Range is 48.75” up to 53.5”</li>
+<li>Assembly required</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 81" W x 85.25" D x 52.25" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4627336527968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">529.99</s:price>
+      <s:sku>B080-582</s:sku>
+      <s:grams>48081</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4627332923488</id>
+    <published>2020-05-14T17:42:04-06:00</published>
+    <updated>2020-05-14T17:42:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/adelloni-light-brown-king-upholstered-platform-bedframe"/>
+    <title>Adelloni - Light Brown - King Upholstered Platform Bedframe</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/B080-681.jpg?v=1589499811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            529.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simplify your space and set the scene for a good night’s sleep with this upholstered bed. Clean lines and faux leather upholstery create the unfussy, modern silhouette you want to wake up to every morning.<br><br><strong>Product Features</strong>
+<ul>
+<li>Includes king-size upholstered headboard, footboard, rails and slats</li>
+<li>Light brown faux leather upholstery</li>
+<li>Nailhead trim</li>
+<li>Exposed wood feet</li>
+<li>Included slats eliminate the need for a foundation/box spring</li>
+<li>Mattress available, sold separately</li>
+<li>Includes queen-size upholstered headboard, footboard, rails and slats</li>
+<li>Light brown faux leather upholstery</li>
+<li>Nailhead trim</li>
+<li>Exposed wood feet</li>
+<li>Included slats eliminate the need for a foundation/box spring</li>
+<li>Mattress available, sold separately</li>
+<li>This headboard offers three height adjustments to accommodate various mattress thicknesses. Range is 48.75” up to 53.5”</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 81" W x 85.25" D x 52.25" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4627332923488</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">529.99</s:price>
+      <s:sku>B080-682</s:sku>
+      <s:grams>48081</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/2037770322016</id>
+    <published>2019-03-30T13:29:41-06:00</published>
+    <updated>2019-03-30T13:29:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-king-panel-bed"/>
+    <title>Kanwyn - King Panel Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_King_Panel_Bed.jpg?v=1553974352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with veneers and select hardwood solids in a distressed whitewashed finish. Design features updated traditional styling with generously scaled moulding details.</span></p>
+<p><span><b>Kanwyn - Whitewash - King/Cal King Panel Footboard</b><br>83"W x 4.5"D x 18"H - 42.0 lbs <br><b>Kanwyn - Whitewash - King/Cal King Panel Headboard</b><br>84.5"W x 4.25"D x 68"H - 100.0 lbs <br><b>Kanwyn - Whitewash - King Panel Rails</b><br>79"W x 82"D x 13.5"H - 43.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/2037770322016</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>B777/58/56/97</s:sku>
+      <s:grams>83915</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1956512792672</id>
+    <published>2019-03-01T21:55:48-07:00</published>
+    <updated>2019-03-01T21:55:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lodanna-king-panel-bed-with-storage"/>
+    <title>Lodanna - King Panel Bed with Storage</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lodanna_-_King_Panel_Bed_with_Storage.jpeg?v=1551502637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Modern gray finish with replicated wood grain. Cases and bed are accented with faceted chrome details. Large scaled chrome handle with faceted details. Headboards are accented with LED lighting and include a remote for color and brightness options. Headboards are accented with faux crystal tufted upholstery. Side roller glides for smooth operating drawers.</span></p>
+<meta charset="utf-8">
+<p><span><b>Lodanna - Gray - King Storage Footboard</b><br>80.31"W x 17.13"D x 16.54"H - 72.0 lbs <br><b>Lodanna - Gray - King/Cal King UPH Panel HDBD</b><br>79.88"W x 3.15"D x 52.8"H - 94.0 lbs <br><b>Lodanna - Gray - King Panel Rails</b><br>78.5"W x 81.89"D x 7.17"H - 37.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1956512792672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>B214/58/56S/97</s:sku>
+      <s:grams>92079</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1955965370464</id>
+    <published>2019-03-01T18:36:21-07:00</published>
+    <updated>2019-03-01T18:36:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lodanna-king-panel-bed"/>
+    <title>Lodanna - King Panel Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lodanna_-_King_Panel_Bed.jpeg?v=1551490717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            949.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Modern gray finish with replicated wood grain. Cases and bed are accented with faceted chrome details. Large scaled chrome handle with faceted details. Headboards are accented with LED lighting and include a remote for color and brightness options. Headboards are accented with faux crystal tufted upholstery.</span></p>
+<meta charset="utf-8">
+<p><span><b>Lodanna - Gray - King Panel Footboard</b><br>79.88"W x 1.89"D x 19.8"H - 40.0 lbs <br><b>Lodanna - Gray - King/Cal King UPH Panel HDBD</b><br>79.88"W x 3.15"D x 52.8"H - 94.0 lbs <br><b>Lodanna - Gray - King Panel Rails</b><br>78.5"W x 81.89"D x 7.17"H - 37.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1955965370464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">949.99</s:price>
+      <s:sku>B214/58/56/97</s:sku>
+      <s:grams>77564</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929472442464</id>
+    <published>2019-02-12T18:06:32-07:00</published>
+    <updated>2019-02-12T18:06:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-king-panel-bed-with-storage"/>
+    <title>Kanwyn - King Panel Bed with Storage</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_King_Panel_Bed_with_Storage.jpg?v=1550020222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with veneers and select hardwood solids in a distressed whitewashed finish. Design features updated traditional styling with generously scaled moulding details.</span></p>
+<p><span><b>Kanwyn - Whitewash - King/Cal King Storage FTBD</b><br>81.88"W x 12.88"D x 20.75"H - 101.0 lbs <br><b>Kanwyn - Whitewash - King/Cal King Panel Headboard</b><br>84.5"W x 4.25"D x 68"H - 100.0 lbs <br><b>Kanwyn - Whitewash - King Panel Rails</b><br>79"W x 82"D x 13.5"H - 43.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929472442464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1499.99</s:price>
+      <s:sku>B777/58/56S/97</s:sku>
+      <s:grams>110677</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929462808672</id>
+    <published>2019-02-12T17:47:04-07:00</published>
+    <updated>2019-02-12T17:47:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-king-panel-upholstered-bed"/>
+    <title>Kanwyn - King Panel Upholstered Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_King_Panel_Upholstered_Bed.jpg?v=1550018961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with veneers and select hardwood solids in a distressed whitewashed finish.  Hardware has a transitional aesthetic and is finished in a dark gray pewter color. Mansion style headboard options feature a picture framed panel or inset tufted taupe upholstery cushion.</span></p>
+<p><span><b>Kanwyn - Whitewash - King/Cal King UPH Panel HDBD</b><br>84.5"W x 4.25"D x 68"H - 104.0 lbs <br><b>Kanwyn - Whitewash - King/Cal King Panel Footboard</b><br>83"W x 4.5"D x 18"H - 42.0 lbs <br><b>Kanwyn - Whitewash - King Panel Rails</b><br>79"W x 82"D x 13.5"H - 43.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929462808672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku>B777/158/56/97</s:sku>
+      <s:grams>85729</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1920329449568</id>
+    <published>2019-02-05T17:44:21-07:00</published>
+    <updated>2019-02-05T17:44:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/wynnlow-king-crossbuck-panel-bed"/>
+    <title>Wynnlow - King Crossbuck Panel Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Wynnlow_-_King_Crossbuck_Panel_Bed.jpg?v=1549413938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic gray planked replicated oak grain with authentic touch. Large scaled dark colored hooded pull. Sticks across headboard give a thick planked look.</span></p>
+<p><span><b>Wynnlow - Gray - King Crossbuck Panel FTBD</b><br>80.83"W x 2.99"D x 26.02"H - 63.0 lbs <br><b>Wynnlow - Gray - King Crossbuck Panel HDBD</b><br>80.83"W x 2.99"D x 64.25"H - 104.0 lbs <br><b>Wynnlow - Gray - King Rails</b><br>"W x "D x "H - 36.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1920329449568</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku>B440/58/56/99</s:sku>
+      <s:grams>92079</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1891236282464</id>
+    <published>2018-12-27T11:21:53-07:00</published>
+    <updated>2018-12-27T11:21:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bellaby-king-panel-bed-1"/>
+    <title>Bellaby - King Panel Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bellaby_-_King_Panel_Bed.jpg?v=1545935459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wispy white finish over replicated Oak grain with authentic touch.</span></p>
+<p><span><b>Bellaby - Whitewash - King Panel Footboard</b><br>80.83"W x 2.99"D x 26.02"H - 63.0 lbs <br><b>Bellaby - Whitewash - King Panel Headboard</b><br>80.83"W x 2.99"D x 64.25"H - 104.0 lbs <br><b>Bellaby - Whitewash - King Panel Rails</b><br>82.44"W x 78.78"D x 18.07"H - 36.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1891236282464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku>B331/158/156/197</s:sku>
+      <s:grams>92079</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1476249813088</id>
+    <published>2018-09-26T18:20:52-06:00</published>
+    <updated>2018-09-26T18:20:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/reylow-king-bookcase-bed"/>
+    <title>Reylow - King Bookcase Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reylow_-_King_Bookcase_Bed_1.jpg?v=1538007806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dark brown replicated worn through paint finish. Large scaled satin nickel colored handles and knobs. Side roller glides for smooth operating drawers. Slim profile USB charger located on the back of the night stand tops. Large drawers provide ample storage space.</span></p>
+<p><span><b>Reylow - Dark Brown - King Panel Footboard w/ Rails</b><br>79.13"W x 83.31"D x 15.35"H - 57.0 lbs <br><b>Reylow - Dark Brown - King Bookcase Headboard</b><br>82.87"W x 6.97"D x 52.8"H - 93.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1476249813088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>B555/69/56</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429551186016</id>
+    <published>2018-09-19T23:24:01-06:00</published>
+    <updated>2018-09-19T23:24:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/reylow-king-upholstered-poster-bed"/>
+    <title>Reylow - King Upholstered Poster Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reylow_-_King_Upholstered_Poster_Bed_1.jpeg?v=1537421221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><span>Dark brown replicated worn through paint finish. </span></span></p>
+<meta charset="utf-8">
+<p><span>Queen and king headboards feature an upholstered panel with button tufting details.</span></p>
+<meta charset="utf-8">
+<p><span><b>Reylow - Dark Brown - King Poster Headboard Posts</b><br>61.3"W x 12.13"D x 6.06"H - 43.0 lbs <br><b>Reylow - Dark Brown - King Poster Footboard</b><br>80.71"W x 5.67"D x 32.13"H - 64.0 lbs <br><b>Reylow - Dark Brown - King UPH Poster HDBD Panel</b><br>76.77"W x 1.77"D x 30.55"H - 60.0 lbs <br><b>Reylow - Dark Brown - King Poster Rails</b><br>78.78"W x 80.31"D x 18.07"H - 36.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429551186016</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B555/68/66/99/62</s:sku>
+      <s:grams>92079</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429550825568</id>
+    <published>2018-09-19T23:16:56-06:00</published>
+    <updated>2018-09-19T23:16:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/wynnlow-king-upholstered-poster-bed"/>
+    <title>Wynnlow - King Upholstered Poster Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Wynnlow_-_King_Upholstered_Poster_Bed_1.jpeg?v=1537420804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Rustic gray planked replicated oak grain with authentic touch. Large scaled dark colored hooded pull. Sticks across headboard give a thick planked look. </span></p>
+<meta charset="utf-8">
+<p><span><b>Wynnlow - Gray - King Poster Headboard Posts</b><br>61"W x 12"D x 6"H - 43.0 lbs <br><b>Wynnlow - Gray - King Poster Footboard</b><br>81.22"W x 6.06"D x 32.13"H - 64.0 lbs <br><b>Wynnlow - Gray - King UPH Poster HDBD Panel</b><br>76.77"W x 1.77"D x 30.55"H - 60.0 lbs <br><b>Wynnlow - Gray - King Rails</b><br>36.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429550825568</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B440/68/66/99/62</s:sku>
+      <s:grams>92079</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429550563424</id>
+    <published>2018-09-19T23:12:41-06:00</published>
+    <updated>2018-09-19T23:12:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/jorstad-king-upholstered-sleigh-bed"/>
+    <title>Jorstad - King Upholstered Sleigh Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Jorstad_-_Queen_Upholstered_Sleigh_Bed_1_c864ec77-ff5b-4cb0-8546-05ec145d8d77.jpeg?v=1537420542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a clean light gray finish flowing over the classic Louis Phillippe styling, the “Jorstad” bedroom collection flawlessly captures the essence of relaxed traditional design. The ogee shaped top moulding and bracket feet along with the upholstered panel sleigh headboard with a textural gray-white fabric adorned with nail head detailing creates a beautiful bedroom collection you’ll be proud to own.</span><br><br><span>Made with Birch veneers and select hardwood solids and finished in a light gray paint for clean and crisp appearance.</span></p>
+<p><span>Sleigh bed has an upholstered panel with a textural gray-white fabric with nail head detailing.</span></p>
+<meta charset="utf-8">
+<p><span><b>Jorstad - Gray - K/CK UPH Sleigh HDBD/FTBD</b><br>77.63"W x 5.75"D x 47.25"H - 63.0 lbs <br><b>Jorstad - Gray - King Sleigh Rails</b><br>77.75"W x 77.63"D x 13.13"H - 29.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429550563424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>B378/82/97</s:sku>
+      <s:grams>41730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429325316192</id>
+    <published>2018-09-19T18:51:28-06:00</published>
+    <updated>2018-09-19T18:51:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ralene-king-upholstered-panel-bed"/>
+    <title>Ralene - King Upholstered Panel Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ralene_-_King_Upholstered_Panel_Bed.jpg?v=1537404879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with Acacia veneers and hardwood solids.  Gently distressed and burnished medium brown finish. The bed features thick padded headboard with cushioned side rails and integrated storage footboard bench upholstered in a dark brown textured fabric.</span></p>
+<p><span><b>Ralene - Dark Brown - K/CK UPH Storage Footboard</b><br>86"W x 12.5"D x 18.38"H - 87.0 lbs <br><b>Ralene - Dark Brown - King/Cal King UPH Panel HDBD</b><br>87.5"W x 6"D x 61.25"H - 91.0 lbs <br><b>Ralene - Dark Brown - King Upholstered Rails</b><br>84.25"W x 84.5"D x 18.25"H - 77.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429325316192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1499.99</s:price>
+      <s:sku>B594/58/56/97</s:sku>
+      <s:grams>113398</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429270397024</id>
+    <published>2018-09-19T17:47:12-06:00</published>
+    <updated>2018-09-19T17:47:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willenburg-king-upholstered-bed"/>
+    <title>Willenburg - King Upholstered Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willenburg_-_King_Upholstered_Bed.jpg?v=1537400973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The upholstered bed has curved shape rolled edges with full button tufting in a linen color textured fabric. </span></p>
+<p><span><b>Willenburg - Linen - King/Cal King UPH Footboard</b><br>83"W x 12"D x 32.5"H - 66.0 lbs <br><b>Willenburg - Linen - King/Cal King UPH Headboard</b><br>83"W x 14"D x 54"H - 71.0 lbs <br><b>Willenburg - Linen - King Upholstered Rails</b><br>83"W x 85"D x 13"H - 41.8 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429270397024</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1499.99</s:price>
+      <s:sku>B643/78/76/99</s:sku>
+      <s:grams>81193</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428882194528</id>
+    <published>2018-09-19T00:28:48-06:00</published>
+    <updated>2018-09-19T00:28:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/starberry-king-panel-bed-with-storage"/>
+    <title>Starberry - King Panel Bed with Storage</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Starberry_679f9110-149a-4262-a643-4d2d3a5010d0.jpg?v=1537338723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            949.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High gloss black finish with replicated straight silver walnut grain framed in a black finish. </span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - King Roll Slats</b><br>76.93"W x 76.46"D x 0.75"H - 53.0 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Starberry - Black - King Storage Footboard</b><br>79.02"W x 15.24"D x 16.77"H - 73.0 lbs <br><b>Starberry - Black - King/Cal King Panel Headboard</b><br>80.51"W x 2.01"D x 53.07"H - 73.0 lbs <br><b>Starberry - Black - Queen/King Platform Rails</b><br>62.01"W x 84.02"D x 14.29"H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428882194528</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">949.99</s:price>
+      <s:sku>B304/58/56S/95/B100-14</s:sku>
+      <s:grams>105687</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428881899616</id>
+    <published>2018-09-19T00:25:03-06:00</published>
+    <updated>2018-09-19T00:25:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/reylow-king-bookcase-storage-bed"/>
+    <title>Reylow - King Bookcase Storage Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/reylow_72742adf-80db-4a2c-8b59-de00b4b2c95c.jpg?v=1537338492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dark brown replicated worn through paint finish. Large scaled satin nickel colored handles and knobs. Side roller glides for smooth operating drawers.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - King Roll Slats</b><br>76.93"W x 76.46"D x 0.75"H - 53.0 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Reylow - Dark Brown - King Storage Footboard</b><br>79.02"W x 15.24"D x 16.77"H - 74.0 lbs <br><b>Reylow - Dark Brown - King Bookcase Headboard</b><br>82.87"W x 6.97"D x 52.8"H - 93.0 lbs <br><b>Reylow - Dark Brown - Queen/King Platform Rails</b><br>62.01"W x 81.89"D x 12.95"H - 42.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428881899616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B555/69/56S/95/B100-14</s:sku>
+      <s:grams>118841</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428878884960</id>
+    <published>2018-09-18T23:56:53-06:00</published>
+    <updated>2018-09-18T23:56:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-king-panel-storage-bed"/>
+    <title>Derekson - King Panel Storage Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/derekson_ks.jpg?v=1537336839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design. Contemporary handles in an antiqued gunmetal finish. Side roller glides for smooth operating drawers. Drawer interiors finished with a replicated linen design. </span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - King Roll Slats</b><br>76.93"W x 76.46"D x 0.75"H - 53.0 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Derekson - Multi Gray - King Storage Footboard</b><br>79.02"W x 15.35"D x 16.77"H - 73.0 lbs <br><b>Derekson - Multi Gray - King Panel Headboard</b><br>79.02"W x 4.45"D x 48.5"H - 72.0 lbs <br><b>Derekson - Multi Gray - Queen/King Under Bed Storage</b><br>81.89"W x 15.35"D x 14.17"H - 65.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428878884960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1449.99</s:price>
+      <s:sku>B200/58/56S/60(2)/B100-14</s:sku>
+      <s:grams>148778</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428877967456</id>
+    <published>2018-09-18T23:52:00-06:00</published>
+    <updated>2018-09-18T23:52:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-king-panel-footboard-storage-bed"/>
+    <title>Derekson - King Panel Storage Footboard Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/derekson_kfb.jpg?v=1537336538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design. Contemporary handles in an antiqued gunmetal finish. Side roller glides for smooth operating drawers. Drawer interiors finished with a replicated linen design.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - King Roll Slats</b><br>76.93"W x 76.46"D x 0.75"H - 53.0 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Derekson - Multi Gray - King Storage Footboard</b><br>79.02"W x 15.35"D x 16.77"H - 73.0 lbs <br><b>Derekson - Multi Gray - King Panel Headboard</b><br>79.02"W x 4.45"D x 48.5"H - 72.0 lbs <br><b>Derekson - Multi Gray - Queen/King Platform Rails</b><br>62.01"W x 84.02"D x 7.17"H - 42.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428877967456</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B200/58/56S/95/B100-14</s:sku>
+      <s:grams>108862</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428873969760</id>
+    <published>2018-09-18T23:25:11-06:00</published>
+    <updated>2018-09-18T23:25:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bellaby-king-panel-storage-bed"/>
+    <title>Bellaby - King Panel Storage Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/bellaby_k.jpg?v=1537334913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wispy white finish over replicated Oak grain with authentic touch. Handles in a brushed nickel color finish with black hang up. </span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - King Roll Slats</b><br>76.93"W x 76.46"D x 0.75"H - 53.0 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Bellaby - Whitewash - King Storage Footboard</b><br>79.88"W x 17.05"D x 19.84"H - 83.0 lbs <br><b>Bellaby - Whitewash - King Panel Headboard</b><br>81.06"W x 3.58"D x 55.12"H - 85.0 lbs <br><b>Bellaby - Whitewash - Queen/King Platform Rails</b><br>81.89"W x 14.29"H - 42.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428873969760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>B331/58/56S/95/B100-14</s:sku>
+      <s:grams>119295</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428871807072</id>
+    <published>2018-09-18T22:46:45-06:00</published>
+    <updated>2018-09-18T22:46:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/flynnter-medium-brown-king-sleigh-storage-bed"/>
+    <title>Flynnter - King Sleigh Storage Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/flynnter.jpg?v=1537332647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with Acacia veneers/engineered board and hardwood solids with a tobacco brown finish. </span></p>
+<p> </p>
+<p><span><b>Flynnter - Medium Brown - King/Cal King Storage FTBD</b><br>81.63"W x 5"D x 21.63"H - 105.0 lbs <br><b>Flynnter - Medium Brown - King/Cal King Sleigh Headboard</b><br>81"W x 10"D x 57"H - 107.0 lbs <br><b>Flynnter - Medium Brown - King Rails with Roll Slats</b><br>79"W x 80.38"D x 19.38"H - 102.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428871807072</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1799.99</s:price>
+      <s:sku>B719/78/76/99</s:sku>
+      <s:grams>142428</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428871315552</id>
+    <published>2018-09-18T22:42:19-06:00</published>
+    <updated>2018-09-18T22:42:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-king-storage-bed"/>
+    <title>Baystorm - King Storage Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/baystorm_604d047d-97c8-4177-a53c-6d6192bbb0f3.jpg?v=1537332320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Smokey gray finish over replicated Oak grain with authentic touch. Contemporary handles in an antiqued gunmetal finish. Storage bed option features 6 drawers of storage.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - King Roll Slats</b><br>76.93"W x 76.46"D x 0.75"H - 53.0 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Baystorm - Gray - King Storage Footboard</b><br>79.53"W x 3.98"D x 15.08"H - 72.0 lbs <br><b>Baystorm - Gray - King Panel Headboard</b><br>79.17"W x 5.67"D x 51.57"H - 74.0 lbs <br><b>Baystorm - Gray - Under Bed Storage</b><br>76.77"W x 15.35"D x 14.17"H - 58.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428871315552</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1649.99</s:price>
+      <s:sku>B221/58/56S/60(2)/B100-14</s:sku>
+      <s:grams>142882</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428870824032</id>
+    <published>2018-09-18T22:37:44-06:00</published>
+    <updated>2018-09-18T22:37:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-king-panel-bed-with-footboard-storage"/>
+    <title>Baystorm - King Panel Bed with Footboard Storage</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/baystorm_footboard_4c144286-65c1-4e34-904d-0cd79746cc78.jpg?v=1537332036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Smokey gray finish over replicated Oak grain with authentic touch. Contemporary handles in an antiqued gunmetal finish.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - King Roll Slats</b><br>76.93"W x 76.46"D x 0.75"H - 53.0 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Baystorm - Gray - King Storage Footboard</b><br>79.53"W x 3.98"D x 15.08"H - 72.0 lbs <br><b>Baystorm - Gray - King Panel Headboard</b><br>79.17"W x 5.67"D x 51.57"H - 74.0 lbs <br><b>Baystorm - Gray - Queen/King Platform Rails</b><br>32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428870824032</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku>B221/58/56S/95/B100-14</s:sku>
+      <s:grams>104780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428864041056</id>
+    <published>2018-09-18T22:12:00-06:00</published>
+    <updated>2018-09-18T22:12:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sommerford-king-storage-bed"/>
+    <title>Sommerford - King Storage Bed</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/sommerford_36ab2d01-2e35-4410-9cda-febd79442e77.jpg?v=1537330426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            2399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with reclaimed Pine solids that have taken on the patina of time and will include nail holes, patches, dings and gouges. Finished in a light grayish brown color that accentuates the color variations brought on by time and use.</span></p>
+<p><span><b>Sommerford - Brown - King/Cal King Storage FTBD</b><br>82"W x 24.25"D x 26.5"H - 107.0 lbs <br><b>Sommerford - Brown - King/Cal King Panel Headboard</b><br>82.25"W x 3.88"D x 63.13"H - 86.0 lbs <br><b>Sommerford - Brown - King Storage Rails</b><br>78.13"W x 80.5"D x 18.13"H - 92.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428864041056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2399.99</s:price>
+      <s:sku>B775/78/76S/99S</s:sku>
+      <s:grams>129274</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428859650144</id>
+    <published>2018-09-18T21:39:56-06:00</published>
+    <updated>2018-09-18T21:39:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/juararo-king-poster-bed-with-footboard-storage"/>
+    <title>Juararo - King Poster Bed with Footboard Storage</title>
+    <s:type>King Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/juararo_poster_d4a03a8f-bc5c-4ed8-a5e9-8678b1ba7ce7.jpg?v=1537328617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>King Bed Frame<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The beauty of vintage design come to life with the aged brown rough sawn finish flowing over a replicated oak grain along with the case pilaster detailing and warm pewter color hardware making the “Juararo” bedroom collection the perfect way to create that cottage getaway within the comfort of your home.</span></p>
+<p> </p>
+<p><span><b>Juararo - Dark Brown - K/CK Poster Storage Footboard</b><br>86.5"W x 8.19"D x 33.9"H - 87.0 lbs <br><b>Juararo - Dark Brown - King/Cal King Poster Headboard</b><br>86.5"W x 3.46"D x 67.99"H - 100.0 lbs <br><b>Juararo - Dark Brown - K/CK Footboard Storage Box</b><br>71.54"W x 16.93"D x 14.57"H - 66.0 lbs <br><b>Juararo - Dark Brown - King Rails</b><br>78.78"W x 84.02"D x 14.29"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428859650144</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku>B251/68/66S/70/99</s:sku>
+      <s:grams>131995</s:grams>
+    </s:variant>
+  </entry>
+</feed>

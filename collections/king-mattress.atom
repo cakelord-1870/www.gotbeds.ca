@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/king-mattress.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2021-07-24T10:30:59-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6844189409440</id>
+    <published>2021-07-24T10:30:59-06:00</published>
+    <updated>2021-07-24T10:30:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-norah-king"/>
+    <title>Spring Air – Norah – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SimilartoNorahandNoelle_63d0cb66-45dd-4d43-ab7e-55ad5498460a.jpg?v=1627144260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euro Top Medium Firm</p>
+<p>Breathable Fiber Blend</p>
+<p>Firm ECOTEX Gel Infused Foam</p>
+<p>Firm ECOTEX Foam</p>
+<p>Foam Encased</p>
+<p>820 Zoned Pocket Coils*</p>
+<p>10.5-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.  Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p>*Number of Coils is Based on a Queen Size Mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6844189409440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6804620574880</id>
+    <published>2021-07-05T19:35:47-06:00</published>
+    <updated>2021-07-05T19:35:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-prime-collection-gillespie-king"/>
+    <title>Kingsdown – Prime Collection – Gillespie – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/GILLESPIE3-4_0cc6fc59-ff37-4826-a555-4103213a5e04.jpg?v=1625535348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Euro Top Plush</p>
+<p data-mce-fragment="1">Wool &amp; Hollo Fibre</p>
+<p data-mce-fragment="1">Plush Micro Gel</p>
+<p data-mce-fragment="1">Plush Foam</p>
+<p data-mce-fragment="1">1384 Pocket Coils</p>
+<p data-mce-fragment="1">Airflow Foam Encasement</p>
+<p data-mce-fragment="1">14-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6804620574880</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>63503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6804612677792</id>
+    <published>2021-07-05T19:28:36-06:00</published>
+    <updated>2021-07-05T19:28:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-prime-collection-fernway-king"/>
+    <title>Kingsdown – Prime Collection – Fernway – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/FERNWAY3-4_4cc553c6-41de-42f9-81f4-4149d4fd4ca7.jpg?v=1625534917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Euro Top Medium Firm</p>
+<p data-mce-fragment="1">Wool &amp; Hollo Fibre</p>
+<p data-mce-fragment="1">Plush Micro Gel</p>
+<p data-mce-fragment="1">Convoluted Comfort Foam</p>
+<p data-mce-fragment="1">1384 Pocket Coils</p>
+<p data-mce-fragment="1">Airflow Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6804612677792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6804251345056</id>
+    <published>2021-07-05T15:46:25-06:00</published>
+    <updated>2021-07-05T15:46:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-prime-collection-dover-king"/>
+    <title>Kingsdown – Prime Collection – Dover – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/DOVER3-4_f5c83c5a-9bd3-4953-a69b-956351d4f7b5.jpg?v=1625521586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Extra Firm</p>
+<p data-mce-fragment="1">Wool &amp; Hollo Fibre</p>
+<p data-mce-fragment="1">Firm Micro Gel</p>
+<p data-mce-fragment="1">Firm Foam</p>
+<p data-mce-fragment="1">1384 Pocket Coils</p>
+<p data-mce-fragment="1">Airflow Foam Encasement</p>
+<p data-mce-fragment="1">12-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6804251345056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>63503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6701029621920</id>
+    <published>2021-05-15T11:11:55-06:00</published>
+    <updated>2021-05-15T11:11:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-stimulate-king"/>
+    <title>Serta – Perfect Sleeper – Stimulate – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/3651_1493_2683_SE20_PSL_Renewed_Night_PLPT_Q_SILO_CAN_4efaa798-ff0d-42e5-9f3d-46bd7e986af6.jpg?v=1621098715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pillow Top Plush</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Serta Anti-Microbial Fibre Technology</p>
+<p data-mce-fragment="1">Serta PillowSoft Foam</p>
+<p data-mce-fragment="1">Hex Cloud Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta PillowSoft Gel Foam</p>
+<p data-mce-fragment="1">1000 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">14.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6701029621920</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6700996165792</id>
+    <published>2021-05-15T10:54:16-06:00</published>
+    <updated>2021-05-15T10:54:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/posture-beauty-specialty-collection-emperor-hard-king"/>
+    <title>Posture Beauty – Specialty Collection – Emperor Hard – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>King Koil</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/IMG_0477_3856f48a-6e4d-4c60-b8ce-7b56140d0a54.jpg?v=1621097657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Koil<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1049.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top 2-Sided Extra Firm</p>
+<p data-mce-fragment="1">Superlux Ultra Firm Foam</p>
+<p data-mce-fragment="1">Gel Comfort Foam</p>
+<p data-mce-fragment="1">Insulating Layer of all-Natural Fibre</p>
+<p data-mce-fragment="1">Superlux Base Blocker Foam</p>
+<p data-mce-fragment="1">Ultralux Comfort High-Density Posture Foam</p>
+<p data-mce-fragment="1">Posture-Guard Sidewall Support System</p>
+<p data-mce-fragment="1">567 Chiro-Coils</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">10-inch Mattress Height</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6700996165792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1049.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6675581862048</id>
+    <published>2021-05-01T15:48:59-06:00</published>
+    <updated>2021-05-01T15:48:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-transform-king"/>
+    <title>Serta – Perfect Sleeper – Transform – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/3644_1492_2682_SE20_PSL_Renewed_Night_FMPT_Q_SILO_CAN_887ba8e4-42aa-4eff-9c3d-4e23fd6d41a0.jpg?v=1619905740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pillow Top Firm</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Serta Anti-Microbial Fibre Technology</p>
+<p data-mce-fragment="1">Serta PillowSoft Foam</p>
+<p data-mce-fragment="1">Serta Support Foam</p>
+<p data-mce-fragment="1">Hex Cloud Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta Support Gel Foam</p>
+<p data-mce-fragment="1">1000 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">14.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6675581862048</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6675554238624</id>
+    <published>2021-05-01T15:13:36-06:00</published>
+    <updated>2021-05-01T15:13:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-renewed-king"/>
+    <title>Serta – Perfect Sleeper – Renewed – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/3637_1491_2681_SE20_PSL_Renewed_Night_MD_Q_SILO_CAN_70dfc0e8-2644-426a-9439-fb60d825858a.jpg?v=1619903617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1349.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Firm</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Serta Anti-Microbial Fibre Technology</p>
+<p data-mce-fragment="1">Serta PillowSoft Foam</p>
+<p data-mce-fragment="1">Serta Support Foam</p>
+<p data-mce-fragment="1">Hex Cloud Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta Support Gel Foam</p>
+<p data-mce-fragment="1">1000 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">13.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6675554238624</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1349.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6675474645152</id>
+    <published>2021-05-01T13:20:26-06:00</published>
+    <updated>2021-05-01T13:20:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-hybrid-stratosphere-king"/>
+    <title>Serta – Perfect Sleeper Hybrid – Stratosphere – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Serta_Perfect_Sleeper_Firm_S2_6a2d33e9-055b-45c2-b67a-a9a8cbfd5435.jpg?v=1619896827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Smooth Tight Top Firm</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Hex Cloud Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta Support Gel Foam</p>
+<p data-mce-fragment="1">1000 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">11-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6675474645152</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6662907986080</id>
+    <published>2021-04-23T18:39:07-06:00</published>
+    <updated>2021-04-23T18:39:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-harmony-maui-series-pillow-top-plush-king"/>
+    <title>Beautyrest – Harmony Maui Series – Pillow Top Plush – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR20_Harmony_Maui_PLPT_Q_Silo_ced52e9e-3de4-4892-bb96-5ca1077ae5a3.jpg?v=1619224748"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pillow Top Plush</p>
+<p data-mce-fragment="1">NaturalCool PLUS Quilt</p>
+<p data-mce-fragment="1">SEAQUAL Sustainable Fabric</p>
+<p data-mce-fragment="1">AirCool Foam</p>
+<p data-mce-fragment="1">Plush Comfort Foam</p>
+<p data-mce-fragment="1">Gel Memory Foam</p>
+<p data-mce-fragment="1">Comfort Foam</p>
+<p data-mce-fragment="1">T1 Pocketed Coil Technology</p>
+<p data-mce-fragment="1">Targeted Support System</p>
+<p data-mce-fragment="1">BeautyEdge Foam Encasement</p>
+<p data-mce-fragment="1">14-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6662907986080</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6662723109024</id>
+    <published>2021-04-23T16:07:44-06:00</published>
+    <updated>2021-04-23T16:07:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-harmony-maui-series-tight-top-medium-firm-king"/>
+    <title>Beautyrest – Harmony Maui Series – Tight Top Medium Firm – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR20_Harmony_Maui_MDFM_Q_Silo_8841fbd0-12f6-46a9-92e2-42ad4bac19f4.jpg?v=1619215666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Medium Firm</p>
+<p data-mce-fragment="1">NaturalCool PLUS Quilt</p>
+<p data-mce-fragment="1">SEAQUAL Sustainable Fabric</p>
+<p data-mce-fragment="1">AirCool Foam</p>
+<p data-mce-fragment="1">Gel Memory Foam</p>
+<p data-mce-fragment="1">Comfort Foam</p>
+<p data-mce-fragment="1">T1 Pocketed Coil Technology</p>
+<p data-mce-fragment="1">Targeted Support System</p>
+<p data-mce-fragment="1">BeautyEdge Foam Encasement</p>
+<p data-mce-fragment="1">11-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6662723109024</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1249.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6662589153440</id>
+    <published>2021-04-23T13:54:32-06:00</published>
+    <updated>2021-04-23T13:54:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-harmony-emerald-bay-series-pillow-top-medium-king"/>
+    <title>Beautyrest – Harmony Emerald Bay Series – Pillow Top Medium – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Side_e3213ff5-5ea5-4f15-88f1-8e89b91cc22d.jpg?v=1619207673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pillow Top Medium</p>
+<p data-mce-fragment="1">NaturalCool PLUS Quilt</p>
+<p data-mce-fragment="1">SEAQUAL Sustainable Fabric</p>
+<p data-mce-fragment="1">AirCool Foam</p>
+<p data-mce-fragment="1">Firm Comfort Foam</p>
+<p data-mce-fragment="1">Charcoal Memory Foam</p>
+<p data-mce-fragment="1">Gel Memory Foam</p>
+<p data-mce-fragment="1">T1 Pocketed Coil Technology</p>
+<p data-mce-fragment="1">Targeted Support System</p>
+<p data-mce-fragment="1">BeautyEdge Foam Encasement</p>
+<p data-mce-fragment="1">15.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6662589153440</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>63503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6662530957472</id>
+    <published>2021-04-23T13:05:56-06:00</published>
+    <updated>2021-04-23T13:05:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-harmony-emerald-bay-series-pillow-top-ultra-plush-king"/>
+    <title>Beautyrest – Harmony Emerald Bay Series – Pillow Top Ultra Plush – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Side_4da1acd4-bb9b-4cb8-a5b7-67ac650a0cec.jpg?v=1619204757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pillow Top Ultra Plush</p>
+<p data-mce-fragment="1">NaturalCool PLUS Quilt</p>
+<p data-mce-fragment="1">SEAQUAL Sustainable Fabric</p>
+<p data-mce-fragment="1">AirCool Foam</p>
+<p data-mce-fragment="1">Plush Comfort Foam</p>
+<p data-mce-fragment="1">Charcoal Memory Foam</p>
+<p data-mce-fragment="1">Gel Memory Foam</p>
+<p data-mce-fragment="1">T1 Pocketed Coil Technology</p>
+<p data-mce-fragment="1">Targeted Support System</p>
+<p data-mce-fragment="1">BeautyEdge Foam Encasement</p>
+<p data-mce-fragment="1">16-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6662530957472</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>63503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6661194580128</id>
+    <published>2021-04-22T17:38:45-06:00</published>
+    <updated>2021-04-22T17:38:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-cozy-king"/>
+    <title>Serta – Perfect Sleeper – Cozy – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/3622_1487_2676_SE20_PSL_Cozy_Escape_PLPT_Q_SILO_CAN_db7a486a-5ccf-4d9d-abea-3c85b78a8332.jpg?v=1619134727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Pillow Top Plush</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Serta Anti-Microbial Fibre Technology</p>
+<p data-mce-fragment="1">Serta PillowSoft Foam</p>
+<p data-mce-fragment="1">Serta Support Foam</p>
+<p data-mce-fragment="1">Hex Cloud Gel Foam</p>
+<p data-mce-fragment="1">Serta PillowSoft Gel Foam</p>
+<p data-mce-fragment="1">825 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6661194580128</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6661186584736</id>
+    <published>2021-04-22T17:24:43-06:00</published>
+    <updated>2021-04-22T17:24:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-escape-king"/>
+    <title>Serta – Perfect Sleeper – Escape – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/3632_1490_2680_SE20_PSL_Cozy_Escape_FM_Q_SILO_CAN_a2b43ca0-cbbe-42d0-b35b-43f7a64cf7a9.jpg?v=1619133885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Firm</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Serta Anti-Microbial Fibre Technology</p>
+<p data-mce-fragment="1">Serta PillowSoft Foam</p>
+<p data-mce-fragment="1">Serta Support Foam</p>
+<p data-mce-fragment="1">Hex Cloud Gel Foam</p>
+<p data-mce-fragment="1">Serta Support Gel Foam</p>
+<p data-mce-fragment="1">825 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">12-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6661186584736</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6661134712992</id>
+    <published>2021-04-22T16:05:45-06:00</published>
+    <updated>2021-04-22T16:05:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-cushion-top-plush-king"/>
+    <title>Beautyrest – Traditional – Cushion Top Plush – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Plush_S2_eefc73cf-5a7e-485b-a97b-7daa3147675c.jpg?v=1619129146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Comfort Top Plush</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Medium Foam</p>
+<p data-mce-fragment="1">Gel-Infused Memory Foam</p>
+<p data-mce-fragment="1">Plush Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6661134712992</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6661122850976</id>
+    <published>2021-04-22T15:49:46-06:00</published>
+    <updated>2021-04-22T15:49:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-cushion-top-medium-king"/>
+    <title>Beautyrest – Traditional – Cushion Top Medium – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Medium_S2_9cbb8278-ac4b-4ad2-8c36-6dcf96e54b07.jpg?v=1619128187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Comfort Top Medium</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Medium Foam</p>
+<p data-mce-fragment="1">Plush Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">11.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6661122850976</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6660958716064</id>
+    <published>2021-04-22T13:59:09-06:00</published>
+    <updated>2021-04-22T13:59:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-tight-top-firm-king"/>
+    <title>Beautyrest – Traditional – Tight Top Firm – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Firm_S2_8ff0c9cc-7801-4a7e-b531-a82507a727f6.jpg?v=1619121550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Firm</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Firm Foam</p>
+<p data-mce-fragment="1">Firm Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">10.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6660958716064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6660910186656</id>
+    <published>2021-04-22T13:31:16-06:00</published>
+    <updated>2021-04-22T13:31:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-dr-hard-king"/>
+    <title>Beautyrest – Traditional – Dr Hard – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Firm_S2_e400b46e-7b62-4285-8a8b-44f971355c57.jpg?v=1619119876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            949.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Extra Firm</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Extra Firm Foam</p>
+<p data-mce-fragment="1">Extra Firm Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">10-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6660910186656</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">949.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6647049945248</id>
+    <published>2021-04-15T19:40:06-06:00</published>
+    <updated>2021-04-15T19:40:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-special-edition-fisher-king"/>
+    <title>Kingsdown – Special Edition – Fisher – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/IMG_0388_55d91102-ee34-4236-a4a8-6bf0571c84c3.jpg?v=1618537218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            879.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Euro Top Luxury Firm</p>
+<p data-mce-fragment="1">Comfort Foam</p>
+<p data-mce-fragment="1">Firm Convoluted Comfort Foam</p>
+<p data-mce-fragment="1">1524 Pocket Coils</p>
+<p data-mce-fragment="1">Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6647049945248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">879.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6589340483744</id>
+    <published>2021-03-14T10:21:06-06:00</published>
+    <updated>2021-03-14T10:21:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-hybrid-perpetual-king"/>
+    <title>Serta – Perfect Sleeper Hybrid – Perpetual – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Serta_Perfect_Sleeper_Plush_S2_325e1a62-9bce-4168-9a28-f9e0e6d5ea3f.jpg?v=1619889212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Smooth Euro Top Plush Hybrid</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Cool Twist Gel Memory Foam</p>
+<p data-mce-fragment="1">Hex Cloud Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta PillowSoft Gel Foam</p>
+<p data-mce-fragment="1">1000 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.  Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6589340483744</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1499.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6586000965792</id>
+    <published>2021-03-12T14:07:54-07:00</published>
+    <updated>2021-03-12T14:07:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/simmons-funzzz-8-inch-memory-foam-king"/>
+    <title>Simmons – Funzzz – 8-inch Memory Foam – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Simmons</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/2975_1271_2237_SM20_MIAB_8_FOAM_MD_Q_Silo_CAN_83591f99-78ad-4e06-8cda-c1509dc00818.jpg?v=1615583275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Simmons<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Medium Smooth Top All Foam</p>
+<p data-mce-fragment="1">Premium Gel Memory Foam</p>
+<p data-mce-fragment="1">Motion Separation Layer</p>
+<p data-mce-fragment="1">Supportive Base Foam</p>
+<p data-mce-fragment="1">8-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6586000965792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6577368498336</id>
+    <published>2021-03-09T19:46:15-07:00</published>
+    <updated>2021-03-09T19:46:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-plus-future-king"/>
+    <title>Serta – Perfect Sleeper Plus – Future – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/3662_1496_2688_SE20_PSL_Luminous_Sleep_MDPT_Q_SILO_CAN_9f53f8ac-6f4b-44a6-a085-fb3a7fefc431.jpg?v=1615344377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Super Pillow Top Firm</p>
+<p data-mce-fragment="1">CoolFeel Fabric</p>
+<p data-mce-fragment="1">Serta Anti-Microbial Fibre Technology</p>
+<p data-mce-fragment="1">QuiltLoft Memory Foam</p>
+<p data-mce-fragment="1">Serta PillowSoft Foam</p>
+<p data-mce-fragment="1">Hex Cloud Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta PillowSoft Gel Foam</p>
+<p data-mce-fragment="1">Serta Support Gel Foam Innerpanel</p>
+<p data-mce-fragment="1">Serta Support Gel Foam</p>
+<p data-mce-fragment="1">1000 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p data-mce-fragment="1">15-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6577368498336</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>58967</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6577351164064</id>
+    <published>2021-03-09T19:33:41-07:00</published>
+    <updated>2021-03-09T19:33:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-perfect-sleeper-plus-unity-king"/>
+    <title>Serta – Perfect Sleeper Plus – Unity – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/3669_1497_2689_SE20_PSL_Luminous_Sleep_PLPT_Q_SILO_CAN_9856d6da-e86e-4d8f-935d-4bc230e67d1e.jpg?v=1615343622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Super Pillow Top Plush</p>
+<p>CoolFeel Fabric</p>
+<p>Serta Anti-Microbial Fibre Technology</p>
+<p>QuiltLoft Memory Foam</p>
+<p>Serta PillowSoft Foam</p>
+<p>Hex Cloud Gel Memory Foam</p>
+<p>Serta PillowSoft Gel Foam</p>
+<p>Serta PillowSoft Gel Foam Innerpanel</p>
+<p>1000 Edition Custom Support Coils*</p>
+<p data-mce-fragment="1">Best Edge Foam Encasement</p>
+<p>15-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Calgary</p>
+<p>Mattress Only.<span>  </span>Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p>*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6577351164064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>63503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6577241260192</id>
+    <published>2021-03-09T17:45:27-07:00</published>
+    <updated>2021-03-09T17:45:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/serta-icomfort-limited-edition-king"/>
+    <title>Serta – iComfort – Limited Edition – King</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Serta</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SE20_ICO_LimitedEdition_PL_Q_Silo_b53cc564-6da7-4422-b0c4-0f8deeb14c80.jpg?v=1615337128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Serta<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            1699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Smooth Top All Foam Medium</p>
+<p data-mce-fragment="1">Cold Touch Cover</p>
+<p data-mce-fragment="1">iComfort Gel Memory Foam</p>
+<p data-mce-fragment="1">Serta Pillowsoft Foam</p>
+<p data-mce-fragment="1">Serta Foam Core</p>
+<p data-mce-fragment="1">10-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6577241260192</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+</feed>

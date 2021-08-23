@@ -1,0 +1,1004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/queen-bed-frames.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2020-05-14T17:44:59-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4627334856800</id>
+    <published>2020-05-14T17:44:59-06:00</published>
+    <updated>2020-05-14T17:44:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/adelloni-light-brown-queen-upholstered-platform-bedframe"/>
+    <title>Adelloni - Light Brown - Queen Upholstered Platform Bedframe</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/B080-681_faa72653-8b24-4ab2-80c7-03e13b401048.jpg?v=1589500028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            429.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simplify your space and set the scene for a good night’s sleep with this upholstered bed. Clean lines and faux leather upholstery create the unfussy, modern silhouette you want to wake up to every morning.<br><br><strong>Product Features</strong>
+<ul>
+<li>Includes queen-size upholstered headboard, footboard, rails and slats</li>
+<li>Light brown faux leather upholstery</li>
+<li>Nailhead trim</li>
+<li>Exposed wood feet</li>
+<li>Included slats eliminate the need for a foundation/box spring</li>
+<li>Mattress available, sold separately</li>
+<li>This headboard offers three height adjustments to accommodate various mattress thicknesses. Range is 48.75” up to 53.5”</li>
+<li>Assembly required</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 65.5" W x 82.25" D x 54.5" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4627334856800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">429.99</s:price>
+      <s:sku>B080-681</s:sku>
+      <s:grams>43545</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4627331219552</id>
+    <published>2020-05-14T17:36:43-06:00</published>
+    <updated>2020-05-14T17:36:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/adelloni-gray-queen-upholstered-platform-bedframe"/>
+    <title>Adelloni - Gray - Queen Upholstered Platform Bedframe</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/B080-581.jpg?v=1589499676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            429.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Simplify your space and set the scene for a good night’s sleep with this upholstered bed. Clean lines and woven upholstery create the unfussy, modern silhouette you want to wake up to every morning.<br><br><strong>Product Features</strong>
+<ul>
+<li>Includes queen-size upholstered headboard, footboard, rails and slats</li>
+<li>Gray polyester upholstery</li>
+<li>Nailhead trim</li>
+<li>Exposed wood feet</li>
+<li>Included slats eliminate the need for a foundation/box spring</li>
+<li>Mattress available, sold separately</li>
+<li>This headboard offers three height adjustments to accommodate various mattress thicknesses. Range is 48.75” up to 53.5”</li>
+<li>Assembly required</li>
+</ul>
+<p><strong>Dimensions:</strong><br>Inches: 65.5" W x 85.25" D x 54.5" H</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4627331219552</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">429.99</s:price>
+      <s:sku>B080-581</s:sku>
+      <s:grams>43545</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1956522000480</id>
+    <published>2019-03-01T21:58:43-07:00</published>
+    <updated>2019-03-01T21:58:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lodanna-queen-panel-bed-with-storage"/>
+    <title>Lodanna - Queen Panel Bed with Storage</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lodanna_-_Queen_Panel_Bed_with_Storage.jpeg?v=1551502824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            949.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Modern gray finish with replicated wood grain. Cases and bed are accented with faceted chrome details. Large scaled chrome handle with faceted details. Headboards are accented with LED lighting and include a remote for color and brightness options. Headboards are accented with faux crystal tufted upholstery. Side roller glides for smooth operating drawers. </span></p>
+<meta charset="utf-8">
+<p><span><b>Lodanna - Gray - Queen Storage Footboard</b><br>63.39"W x 16.54"D x 17.13"H - 61.0 lbs <br><b>Lodanna - Gray - Queen/Full UPH Panel Headboard</b><br>63.39"W x 3.15"D x 52.8"H - 76.0 lbs <br><b>Lodanna - Gray - Queen Panel Rails</b><br>62.01"W x 81.89"D x 14.29"H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1956522000480</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">949.99</s:price>
+      <s:sku>B214/57/54S/96</s:sku>
+      <s:grams>77564</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1956478517344</id>
+    <published>2019-03-01T21:45:15-07:00</published>
+    <updated>2019-03-01T21:45:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lodanna-queen-panel-bed"/>
+    <title>Lodanna - Queen Panel Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lodanna_-_Queen_Panel_Bed.jpeg?v=1551502016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Modern gray finish with replicated wood grain. Cases and bed are accented with faceted chrome details. Large scaled chrome handle with faceted details. Headboards are accented with LED lighting and include a remote for color and brightness options. Headboards are accented with faux crystal tufted upholstery.</span></p>
+<meta charset="utf-8">
+<p><span><b>Lodanna - Gray - Queen Panel Footboard</b><br>63.39"W x 1.89"D x 19.76"H - 33.0 lbs <br><b>Lodanna - Gray - Queen/Full UPH Panel Headboard</b><br>63.39"W x 3.15"D x 52.8"H - 76.0 lbs <br><b>Lodanna - Gray - Queen Panel Rails</b><br>62.01"W x 81.89"D x 14.29"H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1956478517344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>B214/57/54/96</s:sku>
+      <s:grams>64864</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929473523808</id>
+    <published>2019-02-12T18:13:35-07:00</published>
+    <updated>2019-02-12T18:13:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-queen-panel-bed"/>
+    <title>Kanwyn - Queen Panel Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_Queen_Panel_Bed.jpg?v=1550020492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with veneers and select hardwood solids in a distressed whitewashed finish. Design features updated traditional styling with generously scaled moulding details. </span></p>
+<p><span><b>Kanwyn - Whitewash - Queen Panel Footboard</b><br>67"W x 4.63"D x 18.13"H - 37.0 lbs <br><b>Kanwyn - Whitewash - Queen Panel Headboard</b><br>69"W x 5"D x 68"H - 99.2 lbs <br><b>Kanwyn - Whitewash - Queen Panel Rails</b><br>62.88"W x 82"D x 13.5"H - 40.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929473523808</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku>B777/57/54/96</s:sku>
+      <s:grams>80286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929473065056</id>
+    <published>2019-02-12T18:10:36-07:00</published>
+    <updated>2019-02-12T18:10:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-queen-panel-bed-with-storage"/>
+    <title>Kanwyn - Queen Panel Bed with Storage</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_Queen_Panel_Bed_with_Storage.jpg?v=1550020388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with veneers and select hardwood solids in a distressed whitewashed finish. Design features updated traditional styling with generously scaled moulding details.</span></p>
+<p><span><b>Kanwyn - Whitewash - Queen Storage Footboard</b><br>65.75"W x 13"D x 20.63"H - 84.0 lbs <br><b>Kanwyn - Whitewash - Queen Panel Headboard</b><br>69"W x 5"D x 68"H - 99.2 lbs <br><b>Kanwyn - Whitewash - Queen Panel Rails</b><br>62.88"W x 82"D x 13.5"H - 40.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929473065056</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku>B777/57/54S/96</s:sku>
+      <s:grams>101605</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929461858400</id>
+    <published>2019-02-12T17:44:09-07:00</published>
+    <updated>2019-02-12T17:44:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-queen-panel-upholstered-bed"/>
+    <title>Kanwyn - Queen Panel Upholstered Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_Queen_Panel_Upholstered_Bed.jpg?v=1550018764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with veneers and select hardwood solids in a distressed whitewashed finish. Design features updated traditional styling with generously scaled moulding details.  Hardware has a transitional aesthetic and is finished in a dark gray pewter color. Mansion style headboard options feature a picture framed panel or inset tufted taupe upholstery cushion..</span></p>
+<p><span><b>Kanwyn - Whitewash - Queen UPH Panel Headboard</b><br>68.5"W x 4.25"D x 68.25"H - 87.0 lbs <br><b>Kanwyn - Whitewash - Queen Panel Footboard</b><br>67"W x 4.63"D x 18.13"H - 37.0 lbs <br><b>Kanwyn - Whitewash - Queen Panel Rails</b><br>62.88"W x 82"D x 13.5"H - 40.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929461858400</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B777/157/54/96</s:sku>
+      <s:grams>74389</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1920329023584</id>
+    <published>2019-02-05T17:41:45-07:00</published>
+    <updated>2019-02-05T17:41:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/wynnlow-queen-crossbuck-panel-bed"/>
+    <title>Wynnlow - Queen Crossbuck Panel Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Wynnlow_-_Queen_Crossbuck_Panel_Bed.jpg?v=1549413830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic gray planked replicated oak grain with authentic touch. Large scaled dark colored hooded pull. Sticks across headboard give a thick planked look.</span></p>
+<p><span><b>Wynnlow - Gray - Queen Crossbuck Panel FTBD</b><br>64.17"W x 2.99"D x 26.02"H - 52.0 lbs <br><b>Wynnlow - Gray - Queen Crossbuck Panel HDBD</b><br>64.17"W x 2.99"D x 64.25"H - 87.0 lbs <br><b>Wynnlow - Gray - Queen Rails</b><br>"W x "D x "H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1920329023584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.99</s:price>
+      <s:sku>B440/57/54/98</s:sku>
+      <s:grams>78471</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1919035211872</id>
+    <published>2019-02-04T17:25:13-07:00</published>
+    <updated>2019-02-04T17:25:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/flynnter-queen-panel-bed-with-storage"/>
+    <title>Flynnter - Queen Panel Bed with Storage</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Flynnter_-_Queen_Panel_Bed_with_Storage.jpg?v=1549326405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with Acacia veneers/engineered board and hardwood solids with a tobacco brown finish. Framed drawers feature fully finished dovetailed drawer boxes, ball bearing side glides and round metal knobs in an aged brass color finish. </span></p>
+<p><span><b>Flynnter - Medium Brown - Queen Panel Headboard</b><br>68"W x 4.75"D x 60"H - 118.8 lbs <br><b>Flynnter - Medium Brown - Queen Storage Footboard</b><br>65.5"W x 4.75"D x 21.63"H - 94.6 lbs <br><b>Flynnter - Medium Brown - Queen Rails with Roll Slats</b><br>63.5"W x 80.38"D x 19.38"H - 90.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1919035211872</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku>B719/57/74/98</s:sku>
+      <s:grams>138346</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1890895167584</id>
+    <published>2018-12-26T09:58:19-07:00</published>
+    <updated>2018-12-26T09:58:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bellaby-queen-panel-bed-1"/>
+    <title>Bellaby - Queen Panel Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bellaby_-_Queen_Panel_Bed.jpg?v=1545844445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wispy white finish over replicated Oak grain with authentic touch.</span></p>
+<p><span><b>Bellaby - Whitewash - Queen Panel Footboard</b><br>64.17"W x 2.99"D x 26.02"H - 52.0 lbs <br><b>Bellaby - Whitewash - Queen Panel Headboard</b><br>64.17"W x 2.99"D x 64.25"H - 87.0 lbs <br><b>Bellaby - Whitewash - Queen Panel Rails</b><br>82.44"W x 62.28"D x 18.07"H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1890895167584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.99</s:price>
+      <s:sku>B331/157/154/196</s:sku>
+      <s:grams>78471</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429551415392</id>
+    <published>2018-09-19T23:28:05-06:00</published>
+    <updated>2018-09-19T23:28:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/reylow-queen-upholstered-poster-bed"/>
+    <title>Reylow - Queen Upholstered Poster Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reylow_-_King_Upholstered_Poster_Bed_1_44c4c156-ceff-468c-af80-3efe9dd06fe9.jpeg?v=1537421525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Dark brown replicated worn through paint finish. </span></p>
+<p><span>Queen and king headboards feature an upholstered panel with button tufting details.</span></p>
+<meta charset="utf-8">
+<p><span><b>Reylow - Dark Brown - Queen Poster Footboard</b><br>64.21"W x 5.67"D x 32.13"H - 56.0 lbs <br><b>Reylow - Dark Brown - Queen UPH Poster Headboard</b><br>64.72"W x 6.06"D x 61.3"H - 87.0 lbs <br><b>Reylow - Dark Brown - Queen Poster Rails</b><br>62.28"W x 80.31"D x 18.07"H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429551415392</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B555/67/64/98</s:sku>
+      <s:grams>80286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429550956640</id>
+    <published>2018-09-19T23:20:33-06:00</published>
+    <updated>2018-09-19T23:20:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/wynnlow-queen-upholstered-poster-bed"/>
+    <title>Wynnlow - Queen Upholstered Poster Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Wynnlow_-_King_Upholstered_Poster_Bed_1_3a205701-c1c2-46cc-83ca-84c254376f22.jpeg?v=1537420976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Rustic gray planked replicated oak grain with authentic touch. Large scaled dark colored hooded pull. Sticks across headboard give a thick planked look.</span></p>
+<meta charset="utf-8">
+<p><span><b>Wynnlow - Gray - Queen Poster Footboard</b><br>64.61"W x 6.06"D x 32.13"H - 56.0 lbs <br><b>Wynnlow - Gray - Queen UPH Poster Headboard</b><br>64.72"W x 6.06"D x 61.3"H - 87.0 lbs <br><b>Wynnlow - Gray - Queen Rails</b><br>34.0 lbs<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429550956640</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B440/67/64/98</s:sku>
+      <s:grams>80286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429550399584</id>
+    <published>2018-09-19T23:09:36-06:00</published>
+    <updated>2018-09-19T23:09:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/jorstad-queen-upholstered-sleigh-bed"/>
+    <title>Jorstad - Queen Upholstered Sleigh Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Jorstad_-_Queen_Upholstered_Sleigh_Bed_1.jpeg?v=1537420354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a clean light gray finish flowing over the classic Louis Phillippe styling, the “Jorstad” bedroom collection flawlessly captures the essence of relaxed traditional design. The ogee shaped top moulding and bracket feet along with the upholstered panel sleigh headboard with a textural gray-white fabric adorned with nail head detailing creates a beautiful bedroom collection you’ll be proud to own.</span><br><br><span>Made with Birch veneers and select hardwood solids and finished in a light gray paint for clean and crisp appearance.</span></p>
+<meta charset="utf-8">
+<p><span>Sleigh bed has an upholstered panel with a textural gray-white fabric with nail head detailing.</span></p>
+<meta charset="utf-8">
+<p><span><b>Jorstad - Gray - Queen UPH Sleigh HDBD/FTBD</b><br>62.38"W x 5.75"D x 47.25"H - 53.0 lbs <br><b>Jorstad - Gray - Queen Sleigh Rails</b><br>62.5"W x 77.63"D x 13.13"H - 27.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429550399584</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku>B378/81/96</s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429328789600</id>
+    <published>2018-09-19T18:55:12-06:00</published>
+    <updated>2018-09-19T18:55:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ralene-queen-upholstered-panel-bed"/>
+    <title>Ralene - Queen Upholstered Panel Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ralene_-_Queen_Upholstered_Panel_Bed_1.jpg?v=1537405049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with Acacia veneers and hardwood solids.  Gently distressed and burnished medium brown finish. The bed features thick padded headboard with cushioned side rails and integrated storage footboard bench upholstered in a dark brown textured fabric.</span></p>
+<p><span><b>Ralene - Dark Brown - Queen UPH Storage Footboard</b><br>69.75"W x 12.25"D x 18.13"H - 73.0 lbs <br><b>Ralene - Dark Brown - Queen UPH Panel Headboard</b><br>71.5"W x 6"D x 61.25"H - 82.0 lbs <br><b>Ralene - Dark Brown - Queen Upholstered Rails</b><br>69.5"W x 84.5"D x 18.25"H - 74.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429328789600</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku>B594/57/54/96</s:sku>
+      <s:grams>101151</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429268267104</id>
+    <published>2018-09-19T17:41:40-06:00</published>
+    <updated>2018-09-19T17:41:40-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willenburg-queen-upholstered-bed"/>
+    <title>Willenburg - Queen Upholstered Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willenburg_-_Queen_Upholstered_Bed.jpg?v=1537400827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The upholstered bed has curved shape rolled edges with full button tufting in a linen color textured fabric.</span></p>
+<p><span><b>Willenburg - Linen - Queen Upholstered Footboard</b><br>67.25"W x 12"D x 32.5"H - 49.0 lbs <br><b>Willenburg - Linen - Queen Upholstered Headboard</b><br>67.25"W x 12"D x 54"H - 63.0 lbs <br><b>Willenburg - Linen - Queen Upholstered Rails</b><br>63"W x 85"D x 13"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429268267104</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku>B643/77/74/98</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428883996768</id>
+    <published>2018-09-19T00:32:29-06:00</published>
+    <updated>2018-09-19T00:32:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/starberry-queen-panel-bed-with-storage"/>
+    <title>Starberry - Queen Panel Bed with Storage</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/starberry_q.jpg?v=1537338928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>High gloss black finish with replicated straight silver walnut grain framed in a black finish.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - Queen Roll Slats</b><br>60.39"W x 76.46"D x 0.75"H - 37.1 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Starberry - Black - Queen Storage Footboard</b><br>62.52"W x 15.24"D x 16.77"H - 63.0 lbs <br><b>Starberry - Black - Queen/Full Panel Headboard</b><br>64.02"W x 2.01"D x 53.07"H - 62.0 lbs <br><b>Starberry - Black - Queen/King Platform Rails</b><br>62.01"W x 84.02"D x 14.29"H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428883996768</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>B304/57/54S/95/B100-13</s:sku>
+      <s:grams>89358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428881571936</id>
+    <published>2018-09-19T00:22:30-06:00</published>
+    <updated>2018-09-19T00:22:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/reylow-queen-bookcase-storage-bed"/>
+    <title>Reylow - Queen Bookcase Storage Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/reylow.jpg?v=1537338294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Dark brown replicated worn through paint finish. Large scaled satin nickel colored handles and knobs. Side roller glides for smooth operating drawers.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - Queen Roll Slats</b><br>60.39"W x 76.46"D x 0.75"H - 37.1 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Reylow - Dark Brown - Queen Storage Footboard</b><br>62.52"W x 15.24"D x 16.77"H - 62.0 lbs <br><b>Reylow - Dark Brown - Queen Bookcase Headboard</b><br>66.38"W x 6.97"D x 52.8"H - 80.0 lbs <br><b>Reylow - Dark Brown - Queen/King Platform Rails</b><br>62.01"W x 81.89"D x 12.95"H - 42.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428881571936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B555/65/54S/95/B100-13</s:sku>
+      <s:grams>100698</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428876820576</id>
+    <published>2018-09-18T23:46:22-06:00</published>
+    <updated>2018-09-18T23:46:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-queen-panel-storage-bed"/>
+    <title>Derekson - Queen Panel Storage Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/derekson_storage.jpg?v=1537336219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design. Contemporary handles in an antiqued gunmetal finish. Side roller glides for smooth operating drawers. Drawer interiors finished with a replicated linen design. </span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - Queen Roll Slats</b><br>60.39"W x 76.46"D x 0.75"H - 37.1 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Derekson - Multi Gray - Queen Storage Footboard</b><br>62.52"W x 15.35"D x 16.77"H - 63.0 lbs <br><b>Derekson - Multi Gray - Queen/Full Panel Headboard</b><br>62.52"W x 4.45"D x 48.5"H - 62.0 lbs <br><b>Derekson - Multi Gray - Queen/King Under Bed Storage</b><br>81.89"W x 15.35"D x 14.17"H - 65.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428876820576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku>B200/57/54S/60(2)/B100-13</s:sku>
+      <s:grams>132903</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428875280480</id>
+    <published>2018-09-18T23:39:51-06:00</published>
+    <updated>2018-09-18T23:39:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-queen-storage-footboard-bed"/>
+    <title>Derekson - Queen Storage Footboard Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/derekson_footboard.jpg?v=1537335874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design. Contemporary handles in an antiqued gunmetal finish. Side roller glides for smooth operating drawers. Drawer interiors finished with a replicated linen design.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - Queen Roll Slats</b><br>60.39"W x 76.46"D x 0.75"H - 37.1 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Derekson - Multi Gray - Queen Storage Footboard</b><br>62.52"W x 15.35"D x 16.77"H - 63.0 lbs <br><b>Derekson - Multi Gray - Queen/Full Panel Headboard</b><br>62.52"W x 4.45"D x 48.5"H - 62.0 lbs <br><b>Derekson - Multi Gray - Queen/King Platform Rails</b><br>62.01"W x 84.02"D x 7.17"H - 42.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428875280480</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B200/57/54S/95/B100-13</s:sku>
+      <s:grams>92986</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428873674848</id>
+    <published>2018-09-18T23:21:35-06:00</published>
+    <updated>2018-09-18T23:21:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bellaby-queen-panel-storage-bed"/>
+    <title>Bellaby - Queen Panel Storage Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/bellaby.jpg?v=1537334678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Wispy white finish over replicated Oak grain with authentic touch. Handles in a brushed nickel color finish with black hang up.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - Queen Roll Slats</b><br>60.39"W x 76.46"D x 0.75"H - 37.1 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Bellaby - Whitewash - Queen Storage Footboard</b><br>63.39"W x 17.05"D x 19.84"H - 70.0 lbs <br><b>Bellaby - Whitewash - Queen Panel Headboard </b><br>64.57"W x 3.58"D x 55.12"H - 75.0 lbs <br><b>Bellaby - Whitewash - Queen/King Platform Rails</b><br>81.89"W x 14.29"H - 42.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428873674848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku>B331/57/54S/95/B100-13</s:sku>
+      <s:grams>102058</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428873248864</id>
+    <published>2018-09-18T23:12:32-06:00</published>
+    <updated>2018-09-18T23:12:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/flynnter-queen-sleigh-storage-bed"/>
+    <title>Flynnter - Queen Sleigh Storage Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/flynnter_faedef36-d736-4eac-a06c-350b51d5398b.jpg?v=1537334155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with Acacia veneers/engineered board and hardwood solids with a tobacco brown finish. Framed drawers feature fully finished dovetailed drawer boxes, ball bearing side glides and round metal knobs in an aged brass color finish.</span></p>
+<p> </p>
+<p><span><b>Flynnter - Medium Brown - Queen Storage Footboard</b><br>65.5"W x 4.75"D x 21.63"H - 94.6 lbs <br><b>Flynnter - Medium Brown - Queen Sleigh Headboard</b><br>65"W x 10"D x 57"H - 90.0 lbs <br><b>Flynnter - Medium Brown - Queen Rails with Roll Slats</b><br>63.5"W x 80.38"D x 19.38"H - 90.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428873248864</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1599.99</s:price>
+      <s:sku>B719/77/74/98</s:sku>
+      <s:grams>124738</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428870103136</id>
+    <published>2018-09-18T22:34:17-06:00</published>
+    <updated>2018-09-18T22:34:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-queen-panel-bed-with-footboard-storage"/>
+    <title>Baystorm - Queen Panel Bed with Footboard Storage</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/baystorm_footboard.jpg?v=1537331825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Smokey gray finish over replicated Oak grain with authentic touch. Contemporary handles in an antiqued gunmetal finish</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - Queen Roll Slats</b><br>60.39"W x 76.46"D x 0.75"H - 37.1 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Baystorm - Gray - Queen Storage Footboard</b><br>62.52"W x 15.35"D x 15.08"H - 62.0 lbs <br><b>Baystorm - Gray - Queen Panel Headboard</b><br>62.72"W x 5.67"D x 51.57"H - 65.0 lbs <br><b>Baystorm - Gray - Queen/King Platform Rails</b><br>32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>King</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428870103136</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B221/57/54S/95/B100-13</s:sku>
+      <s:grams>89358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428868399200</id>
+    <published>2018-09-18T22:30:52-06:00</published>
+    <updated>2018-09-18T22:30:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-queen-panel-storage-bed"/>
+    <title>Baystorm - Queen Panel Storage Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/baystorm.jpg?v=1537331617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Smokey gray finish over replicated Oak grain with authentic touch. Contemporary handles in an antiqued gunmetal finish. Storage bed option features 6 drawers of storage.</span></p>
+<p> </p>
+<p><span><b>Frames And Rails - Brown - Queen Roll Slats</b><br>60.39"W x 76.46"D x 0.75"H - 37.1 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Baystorm - Gray - Queen Storage Footboard</b><br>62.52"W x 15.35"D x 15.08"H - 62.0 lbs <br><b>Baystorm - Gray - Queen Panel Headboard</b><br>62.72"W x 5.67"D x 51.57"H - 65.0 lbs <br><b>Baystorm - Gray - Under Bed Storage</b><br>76.77"W x 15.35"D x 14.17"H - 58.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428868399200</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1449.99</s:price>
+      <s:sku>B221/57/54S/60(2)/B100-13</s:sku>
+      <s:grams>127459</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428864991328</id>
+    <published>2018-09-18T22:19:08-06:00</published>
+    <updated>2018-09-18T22:19:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/juararo-queen-poster-bed-with-footboard-storage"/>
+    <title>Juararo - Queen Poster Bed with Footboard Storage</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/juararo_poster1.jpg?v=1537331035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            1099.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The beauty of vintage design come to life with the aged brown rough sawn finish flowing over a replicated oak grain along with the case pilaster detailing and warm pewter color hardware making the “Juararo” bedroom collection the perfect way to create that cottage getaway within the comfort of your home.</span></p>
+<p> </p>
+<p><span><b>Juararo - Dark Brown - Queen Footboard Storage Box</b><br>55.04"W x 16.93"D x 14.57"H - 55.0 lbs <br><b>Juararo - Dark Brown - Queen Poster Storage Footboard</b><br>70"W x 8.19"D x 33.9"H - 68.0 lbs <br><b>Juararo - Dark Brown - Queen Poster Headboard</b><br>70"W x 3.46"D x 67.99"H - 88.0 lbs <br><b>Juararo - Dark Brown - Queen Rails</b><br>62.28"W x 84.02"D x 14.29"H - 36.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428864991328</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.99</s:price>
+      <s:sku>B251/67/64S/98/50</s:sku>
+      <s:grams>112037</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428863778912</id>
+    <published>2018-09-18T22:08:26-06:00</published>
+    <updated>2018-09-18T22:08:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sommerford-queen-storage-bed"/>
+    <title>Sommerford - Queen Storage Bed</title>
+    <s:type>Queen Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/sommerford.jpg?v=1537330279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Queen Bed Frame<br>
+        <strong>Price: </strong>
+            2249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with reclaimed Pine solids that have taken on the patina of time and will include nail holes, patches, dings and gouges. Finished in a light grayish brown color that accentuates the color variations brought on by time and use.</span></p>
+<p> </p>
+<p><span><b>Sommerford - Brown - Queen Storage Footboard</b><br>66.25"W x 24.25"D x 26.5"H - 87.0 lbs <br><b>Sommerford - Brown - Queen Panel Headboard</b><br>64.25"W x 3.88"D x 63.13"H - 75.0 lbs <br><b>Sommerford - Brown - Queen Storage Rails</b><br>63"W x 80.5"D x 18"H - 83.0 lbs <br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428863778912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2249.99</s:price>
+      <s:sku>B775/77/74S/98S</s:sku>
+      <s:grams>111130</s:grams>
+    </s:variant>
+  </entry>
+</feed>

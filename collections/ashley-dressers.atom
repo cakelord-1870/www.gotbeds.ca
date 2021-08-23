@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/ashley-dressers.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2019-05-05T10:19:45-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/2119445151840</id>
+    <published>2019-05-05T10:19:45-06:00</published>
+    <updated>2019-05-05T10:19:45-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/arnett-dresser"/>
+    <title>Arnett - Dresser</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Arnett_-_Dresser.jpg?v=1557073331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Melding modern and mid-century influences, the Arnett dresser brings a fashion-forward perspective to bedroom furniture. The dresser’s ultra clean lines—which include flush-mount drawers and bold, blocky feet—are beautified with a smoky gray finish that’s delightfully distinctive. Chunky bar pulls in a satin nickel-tone finish are a brilliant touch.</span><br><br><b>Product Features</b>
+<ul>
+<li>Dresser only; mirror sold separately</li>
+<li>Made of wood, engineered wood and engineered wood veneers</li>
+<li>Smoky gray finish</li>
+<li>Satin nickel-tone hardware</li>
+<li>6 smooth-gliding drawers</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-0">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 58" W x 16" D x 34" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/2119445151840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">649.99</s:price>
+      <s:sku>B552-31</s:sku>
+      <s:grams>48081</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1956527865952</id>
+    <published>2019-03-01T22:00:55-07:00</published>
+    <updated>2019-03-01T22:00:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lodanna-dresser-mirror"/>
+    <title>Lodanna - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lodanna_-_Dresser_Mirror.jpeg?v=1551502957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Modern gray finish with replicated wood grain. Cases and bed are accented with faceted chrome details. Large scaled chrome handle with faceted details. </span></p>
+<meta charset="utf-8">
+<p><span><b>Lodanna - Gray - Dresser</b><br>60.67"W x 15.31"D x 40"H - 150.0 lbs <br><b>Lodanna - Gray - Bedroom Mirror</b><br>41.34"W x 0.98"D x 35.35"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1956527865952</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B214/31/36</s:sku>
+      <s:grams>85275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1955934699616</id>
+    <published>2019-03-01T18:22:43-07:00</published>
+    <updated>2019-03-01T18:22:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lodanna-dresser"/>
+    <title>Lodanna - Dresser</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lodanna_-_Dresser.jpeg?v=1551489953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Reminiscent of Hollywood glamour of yesteryear, this dresser interprets luxury in a decidedly modern way. Dazzling gray finish and faceted chrome-tone accents enhance the star power, while six smooth-gliding drawers provide enough storage to appease your inner diva.</span><br><br><b>Product Features</b>
+<ul>
+<li>Dresser only; mirror sold separately</li>
+<li>Made of engineered wood</li>
+<li>Replicated wood grain</li>
+<li>Faceted chrome-tone pulls and accents</li>
+<li>6 smooth-operating drawers</li>
+<li>Drawers lined with faux linen laminate</li>
+</ul>
+<meta charset="utf-8">
+<div><strong><span data-toggle="tooltip" data-placement="top" title="" aria-describedby="ui-tooltip-2">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 60.67" W x 15.31" D x 40" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1955934699616</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B214-31</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929470804064</id>
+    <published>2019-02-12T18:00:51-07:00</published>
+    <updated>2019-02-12T18:00:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-dresser"/>
+    <title>Kanwyn - Dresser</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_Dresser.jpg?v=1550019792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Give your retreat vintage charm and valuable drawer storage with this dresser. In a beautifully distressed whitewashed finish, you'll love putting it all away in casual style. Seven full-sized drawers and two accessory top drawers will easily accommodate your needs. Generously scaled moulding from top to bottom, along with bun feet and drawer handles with a transitional aesthetic, give this dresser character—invoking the feel of a quaint cottage escape.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of solid wood, veneers and engineered wood</li>
+<li>Distressed whitewashed finish</li>
+<li>7 smooth-gliding drawers, plus 2 small-scaled accessory drawers</li>
+<li>Dark gray pewter-tone finished metal hardware</li>
+<li>Dresser only; mirror sold separately</li>
+</ul>
+<div><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div>
+<div>
+<div>Inches: 64.13" W x 18" D x 40.75" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929470804064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1149.99</s:price>
+      <s:sku>B777-31</s:sku>
+      <s:grams>81193</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1929436627040</id>
+    <published>2019-02-12T16:52:50-07:00</published>
+    <updated>2019-02-12T16:52:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kanwyn-dresser-mirror"/>
+    <title>Kanwyn - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kanwyn_-_Dresser_Mirror.jpg?v=1550015676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made with veneers and select hardwood solids in a distressed whitewashed finish. Design features updated traditional styling with generously scaled moulding details. Dresser features 7 full sized drawers with 2 small scaled accessory drawers. Ball bearing side glides. Hardware has a transitional aesthetic and is finished in a dark gray pewter color.</span></p>
+<p><span><b>Kanwyn - Whitewash - Dresser</b><br>64.13"W x 18"D x 40.75"H - 179.0 lbs <br><b>Kanwyn - Whitewash - Bedroom Mirror</b><br>46"W x 3"D x 38"H - 46.3 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1929436627040</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku>B777/31/36</s:sku>
+      <s:grams>102512</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478913261664</id>
+    <published>2018-10-08T10:36:31-06:00</published>
+    <updated>2018-10-08T10:36:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/starberry-dresser-mirror"/>
+    <title>Starberry - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Starberry_-_Dresser_Mirror.jpg?v=1539016832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Starry, starry nights. Inspired by Hollywood glam, this richly styled dresser steals the show in a simply stunning way. The dresser’s replicated walnut grain is enriched with a high-gloss black finish, made even more dramatic with chrome handles with faux crystals. Two felt-bottom six-compartment jewelry drawers with silver glitter finish fronts accentuate a clean-lined, contemporary aesthetic.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of engineered wood</li>
+<li>Replicated walnut grain with high-gloss black finish</li>
+<li>Silvertone accent</li>
+<li>6 smooth-gliding drawers</li>
+<li>2 felt-lined 6-compartment jewelry drawers</li>
+<li>Chrome-tone hardware with faux crystals</li>
+</ul>
+<p><b>Starberry - Black - Dresser</b><br><span>62.99"W x 15.31"D x 36.5"H - 150.0 lbs </span><br><b>Starberry - Black - Bedroom Mirror</b><br><span>41.34"W x 0.98"D x 35.35"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478913261664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B304/31/36</s:sku>
+      <s:grams>85275</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478912311392</id>
+    <published>2018-10-08T10:25:48-06:00</published>
+    <updated>2018-10-08T10:25:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/reylow-dresser-mirror"/>
+    <title>Reylow - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reylow_-_Dresser_Mirror.jpg?v=1539016018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dresser is turning heads with its clean, streamlined vibe. Dark brown finish has a gorgeous distressed effect, adding two-tone visual interest. Large drawers provide a ton of space for your belongings. Knobs and pulls with satin nickel-tone finish give this dresser a neat touch of shine.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of engineered wood and veneers</li>
+<li>Distressed dark brown finish</li>
+<li>6 smooth-gliding drawers</li>
+<li>Satin nickel-tone finished metal hardware</li>
+</ul>
+<p><b>Reylow - Dark Brown - Dresser</b><br><span>59.57"W x 15.43"D x 36.5"H - 135.0 lbs </span><br><b>Reylow - Dark Brown - Bedroom Mirror</b><br><span>41.34"W x 0.98"D x 35.35"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478912311392</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>B555/31/36</s:sku>
+      <s:grams>78471</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478912213088</id>
+    <published>2018-10-08T10:23:49-06:00</published>
+    <updated>2018-10-08T10:23:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/wynnlow-dresser-mirror"/>
+    <title>Wynnlow - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Wynnlow_-_Dresser_Mirror.jpg?v=1539015892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dresser is sure to win your heart with its daring, designer take on modern rustic style. The dresser’s crisp, clean and minimalist-chic profile is enriched with planked replicated oak grain, treated to a weathered gray finish for that much more authentic character. Large-scale hooded pulls gracing the flush-mount drawers add such a distinctive twist.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of engineered wood</li>
+<li>Rustic gray finish over replicated oak grain</li>
+<li>Hooded pull hardware in dark finish</li>
+<li>Plank effect</li>
+<li>6 smooth-gliding drawers</li>
+</ul>
+<p><b>Wynnlow - Gray - Dresser</b><br><span>60.67"W x 15.67"D x 40.04"H - 150.0 lbs </span><br><b>Wynnlow - Gray - Bedroom Mirror</b><br><span>41.85"W x 0.98"D x 30.67"H - 32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478912213088</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>B440/31/36</s:sku>
+      <s:grams>82554</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478912082016</id>
+    <published>2018-10-08T10:20:39-06:00</published>
+    <updated>2018-10-08T10:20:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/jorstad-dresser-mirror"/>
+    <title>Jorstad - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Jorstad_-_Dresser_Mirror.jpg?v=1539015786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dresser is all about subtle detailing. Classic Louis Phillippe styling with gorgeous top moulding and scalloped-edge feet instantly grabs your attention. Light gray hue offers a clean and crisp appearance for a fresh spin on traditional design. Antiqued brass-tone knobs build visual contrast while making it easy for you to pull out the spacious drawers.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of wood, engineered wood and veneers</li>
+<li>6 smooth-gliding drawers with dovetail construction</li>
+<li>Knobs in antiqued brass-tone finish</li>
+</ul>
+<p><br><b>About Jorstad</b><br><span>With a clean light gray finish flowing over the classic Louis Phillippe styling, the “Jorstad” bedroom collection flawlessly captures the essence of relaxed traditional design. The ogee shaped top moulding and bracket feet along with the upholstered panel sleigh headboard with a textural gray-white fabric adorned with nail head detailing creates a beautiful bedroom collection you’ll be proud to own.</span></p>
+<p><span><b>Jorstad - Gray - Dresser</b><br>58.25"W x 15.75"D x 33.13"H - 117.0 lbs <br><b>Jorstad - Gray - Bedroom Mirror</b><br>38.38"W x 1"D x 38.13"H - 29.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478912082016</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>B378/31/36</s:sku>
+      <s:grams>66224</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478911524960</id>
+    <published>2018-10-08T10:12:09-06:00</published>
+    <updated>2018-10-08T10:12:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lettner-dresser-mirror"/>
+    <title>Lettner - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lettner_-_Dresser_Mirror.jpg?v=1539015280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Satisfying your taste for tradition, this dresser sports serene sophistication. Forever classic design details—inlaid panels, silvertone patina hardware and bun feet—are so easy to love. Burnished light gray finish elevates the look with modern sensibility. Seven roomy drawers keep your wardrobe organized in style. </span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of veneers, wood and engineered wood</li>
+<li>Silvertone patina hardware</li>
+<li>7 smooth-gliding drawers with dovetail construction</li>
+<li>Top drawers felt-lined</li>
+<li>1 felt-lined jewelry tray</li>
+</ul>
+<p><b>Lettner - Light Gray - Dresser</b><br><span>65.38"W x 18"D x 40"H - 194.0 lbs </span><br><b>Lettner - Light Gray - Bedroom Mirror</b><br><span>42.25"W x 1.63"D x 36.5"H - 40.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478911524960</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1649.99</s:price>
+      <s:sku>B733/31/36</s:sku>
+      <s:grams>106141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478411649120</id>
+    <published>2018-10-05T17:39:52-06:00</published>
+    <updated>2018-10-05T17:39:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/trinell-dresser-with-fireplace-option-mirror"/>
+    <title>Trinell - Dresser with Fireplace Option &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Trinell_-_Dresser_with_Fireplace_Option_Mirror.jpg?v=1538783127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dresser with fireplace option makes home on the range look so alluring. The aesthetic is earthy yet clean and sophisticated, with a rustic finish, plank-style details and nailhead trim that pay homage to reclaimed barn wood. Opt for the optional LED fireplace for instant warmth and romance.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Made of replicated veneer and engineered wood</li>
+<li>Antiqued bronze-tone hardware</li>
+<li>7 smooth-operating drawers</li>
+<li>Adjustable shelf behind cabinet doors</li>
+<li>Compatible with electric fireplace inserts</li>
+<li>Assembly required for fireplace insert</li>
+<li>Dresser with Mirror</li>
+</ul>
+<p><b>Trinell - Brown - Bedroom Mirror</b><br><span>40.08"W x 2.64"D x 37.36"H - 32.0 lbs </span><br><b>Trinell - Brown - Dresser with Fireplace Option</b><br><span>63.74"W x 16.18"D x 42.95"H - 203.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478411649120</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.99</s:price>
+      <s:sku>B446/32/26</s:sku>
+      <s:grams>106594</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478408863840</id>
+    <published>2018-10-05T17:16:58-06:00</published>
+    <updated>2018-10-05T17:16:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-dresser-mirror"/>
+    <title>Derekson - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Derekson_-_Dresser_Mirror.jpg?v=1538781518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Modern yet hefty. This dresser makes an urban eclectic statement. Seasoned raw wood look merges with the clean lined design we love today. Muted rustic finish over replicated pine grain maintains its authenticity. Roomy drawers are flanked with attractive framed front and pilasters. Handles with antiqued gunmetal finish complete this beauteous look with easy to pull function.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of engineered wood and veneers</li>
+<li>Muted distressed finish over replicated pine grain</li>
+<li>Metal drawer pulls in antiqued gunmetal finish</li>
+<li>6 smooth-gliding drawers with replicated linen interior</li>
+</ul>
+<p><b>Derekson - Multi Gray - Dresser</b><br><span>58.7"W x 15.35"D x 36.42"H - 140.0 lbs </span><br><b>Derekson - Multi Gray - Bedroom Mirror</b><br><span>41.85"W x 0.98"D x 30.67"H - 34.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478408863840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku>B200/31/36</s:sku>
+      <s:grams>78925</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478408503392</id>
+    <published>2018-10-05T17:13:03-06:00</published>
+    <updated>2018-10-05T17:13:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/brashland-dresser-mirror"/>
+    <title>Brashland - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Brashland_-_Dresser_Mirror.jpg?v=1538781314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dresser brings a fresh twist to the modern farmhouse movement. Handsome, hearty profile is made all the more interesting with a staggered drawer layout. Through-tenon styling incorporates a welcome touch of American craftsman. And the easy on the eyes, distressed white finish? Just the tone for a soothing, serene bedroom retreat. </span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of veneers, wood and engineered wood</li>
+<li>White textured finish</li>
+<li>Brushed nickel-tone hardware</li>
+<li>6 smooth-gliding drawers with dovetail construction</li>
+</ul>
+<p><b>Brashland - White - Dresser</b><br><span>66.13"W x 18.88"D x 40.13"H - 180.0 lbs </span><br><b>Brashland - White - Bedroom Mirror</b><br><span>46.5"W x 2.13"D x 37.25"H - 50.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478408503392</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1499.99</s:price>
+      <s:sku>B740/31/36</s:sku>
+      <s:grams>104326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478408241248</id>
+    <published>2018-10-05T17:10:58-06:00</published>
+    <updated>2018-10-05T17:10:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bellaby-dresser-mirror"/>
+    <title>Bellaby - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bellaby_-_Dresser_Mirror.jpg?v=1538781129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Your bedroom isn’t just a room. It’s a canvas. Express your farmhouse style with this dresser. Wispy white finish over replicated oak wood grain brightens up the space with charm. Brushed nickel-tone handles with black edging finesse the piece with a bit of shine. Drawers are spacious and lined with faux linen laminate to hold your belongings with care. This clean-lined profile is the perfect authentic foundation for inviting decor. </span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of engineered wood</li>
+<li>7 smooth-gliding drawers (lined with faux linen laminate)</li>
+<li>Brushed nickel-tone hardware with black edging</li>
+</ul>
+<p><b>Bellaby - Whitewash - Dresser</b><br><span>61.26"W x 15.91"D x 42.83"H - 191.0 lbs </span><br><b>Bellaby - Whitewash - Bedroom Mirror</b><br><span>38.39"W x 1.57"D x 35.12"H - 32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478408241248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B331/31/36</s:sku>
+      <s:grams>101151</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478378225760</id>
+    <published>2018-10-05T13:14:35-06:00</published>
+    <updated>2018-10-05T13:14:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bolanburg-dresser-mirror"/>
+    <title>Bolanburg - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bolanburg_-_Dresser_Mirror.jpg?v=1538767276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Whether your style is farmhouse fresh, shabby chic or country cottage, you’ll find this dresser dressed to impress. Its two-tone, gently distressed finish pairs weathered oak with antique white for that much more quaint character. The dresser’s nine smooth-gliding drawers are quality crafted with dovetail construction. Three felt-lined top drawers are another reflection of fine detail, inside and out.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of veneers, wood and engineered wood</li>
+<li>Two-tone finish (weathered oak top over antique white)</li>
+<li>Plank-style top</li>
+<li>9 smooth-gliding drawers with dovetail construction (top 3 drawers felt lined)</li>
+<li>Black faceted hardware</li>
+</ul>
+<p><b>Bolanburg - Two-tone - Dresser</b><br><span>64.88"W x 19.13"D x 39.38"H - 204.0 lbs </span><br><b>Bolanburg - Antique White - Bedroom Mirror</b><br><span>43"W x 2.88"D x 38.5"H - 53.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478378225760</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1849.99</s:price>
+      <s:sku>B647/131/36</s:sku>
+      <s:grams>116573</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478359875680</id>
+    <published>2018-10-05T11:50:26-06:00</published>
+    <updated>2018-10-05T11:50:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/flynnter-dresser-mirror"/>
+    <title>Flynnter - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Flynnter_-_Dresser_Mirror.jpg?v=1538761933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1649.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>A fresh, new take on traditional style. This dresser meets today’s design tastes with beauty and grace. Tobacco brown finish allows the natural grain of the acacia veneers to show through in an organic way. Aged brass-tone knobs dress the fronts of the roomy drawers. Hidden pull-out tray behind the top middle drawer puts your small valuables out of sight. This is a look you can appreciate for years to come.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of wood, engineered wood and veneers</li>
+<li>Aged brass-tone knob hardware</li>
+<li>7 smooth-gliding drawers with dovetail construction (top drawers felt lined)</li>
+</ul>
+<p><b>Flynnter - Medium Brown - Dresser</b><br><span>65.38"W x 18"D x 40"H - 199.0 lbs </span><br><b>Flynnter - Medium Brown - Bedroom Mirror</b><br><span>42.25"W x 1.63"D x 36.5"H - 45.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478359875680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1649.99</s:price>
+      <s:sku>B719/31/36</s:sku>
+      <s:grams>110677</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478359482464</id>
+    <published>2018-10-05T11:44:50-06:00</published>
+    <updated>2018-10-05T11:44:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-dresser-mirror"/>
+    <title>Baystorm - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Baystorm_-_Dresser_Mirror.jpg?v=1538761661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Beachy style and lots of storage go hand in hand with this dresser. Its driftwood and surfer-inspired smoky finish creates a rustic look that's perfect for setting the scene of an island getaway. Six roomy drawers give you the space needed for stowing away clothes and more. Clean lines and modern handles provide an authentic look to be admired for years to come.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Made of engineered wood</li>
+<li>Smokey gray finish over replicated oak grain</li>
+<li>6 smooth-gliding drawers</li>
+<li>Linear pulls with antiqued gunmetal-tone finish</li>
+<li>Faux linen finished drawer interiors</li>
+</ul>
+<p><b>Baystorm - Gray - Dresser</b><br><span>61.69"W x 14.84"D x 36.5"H - 161.0 lbs </span><br><b>Baystorm - Gray - Bedroom Mirror</b><br><span>43.74"W x 1.26"D x 36.02"H - 40.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478359482464</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku>B221/31/36</s:sku>
+      <s:grams>91172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478356074592</id>
+    <published>2018-10-05T10:57:15-06:00</published>
+    <updated>2018-10-05T10:57:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/cazenfeld-dresser-mirror"/>
+    <title>Cazenfeld - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Cazenfeld_-_Dresser_Mirror.jpg?v=1538758754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>As much as you love escaping to the country, you’re equally drawn to the city. No wonder this dresser fits you so well. Sporting an easy-on-the-eyes finish inspired by weathered barn wood, this dresser is sure to please with an uptown look and a down-to-earth sensibility. Flush-mount drawers, sleek pulls and contrasting side posts richly enhance the urbane pastoral aesthetic.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of engineered wood</li>
+<li>Rustic warm gray finish over replicated oak grain</li>
+<li>6 smooth-gliding drawers lined with faux linen laminate for a finished look</li>
+<li>Metal drawer pulls in a dark gunmetal finish</li>
+</ul>
+<p><b>Cazenfeld - Black/Gray - Dresser</b><br><span>61.93"W x 15.55"D x 36.42"H - 145.0 lbs </span><br><b>Cazenfeld - Black/Gray - Bedroom Mirror</b><br><span>41.34"W x 0.98"D x 35.35"H - 38.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478356074592</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku>B227/31/36</s:sku>
+      <s:grams>83007</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478355353696</id>
+    <published>2018-10-05T10:46:36-06:00</published>
+    <updated>2018-10-05T10:46:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sommerford-dresser-mirror"/>
+    <title>Sommerford - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Sommerford_-_Dresser_Mirror.jpg?v=1538758109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            2449.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Load up on character. Scale back on fuss. As this dresser proves to perfection—less is more. Crafted of reclaimed pine, its ultra clean-lined, chunky profile showcases long butcher-block planking rich with tonal variation, nicks, notches, nail holes and a whole lot of raw beauty. Numerous drawers offer ample room for a wardrobe.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made with reclaimed pine wood</li>
+<li>Light grayish brown finish</li>
+<li>Silver/bronze-tone hardware</li>
+<li>9 smooth-operating drawers with dovetail construction</li>
+<li>Metal leg brackets with stretcher</li>
+<li>Assembly required</li>
+</ul>
+<p><b>Sommerford - Brown - Dresser</b><br><span>64.25"W x 19"D x 42.75"H - 199.0 lbs </span><br><b>Sommerford - Brown - Bedroom Mirror</b><br><span>44.5"W x 1.88"D x 31.25"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478355353696</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2449.99</s:price>
+      <s:sku>B775/31/36</s:sku>
+      <s:grams>107501</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478354567264</id>
+    <published>2018-10-05T10:38:33-06:00</published>
+    <updated>2018-10-05T10:38:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/culverbach-dresser-mirror"/>
+    <title>Culverbach - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Culverbach_-_Dresser_Mirror.jpg?v=1538757629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This dresser's weathered driftwood finish evokes such an ethereal vibe—exactly what you need for your serene master suite. Clean lines and simple yet substantial hardware make for a timeless look you’ll love living with for years to come. Six spacious drawers offer ample storage for a wardrobe and spare bed linens.</span><br><br><b>Product Features</b><span></span></p>
+<ul>
+<li>Made of engineered wood and engineered veneers</li>
+<li>Pewter-tone hardware</li>
+<li>6 smooth-gliding drawers with replicated linen lining</li>
+<li>Dresser with Mirror</li>
+</ul>
+<p><b>Culverbach - Gray - Dresser</b><br><span>62.24"W x 15.35"D x 36.42"H - 140.0 lbs </span><br><b>Culverbach - Gray - Bedroom Mirror</b><br><span>41.34"W x 0.98"D x 35.35"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478354567264</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku>B070/31/36</s:sku>
+      <s:grams>80739</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478350798944</id>
+    <published>2018-10-05T10:29:52-06:00</published>
+    <updated>2018-10-05T10:29:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/brinxton-dresser-mirror"/>
+    <title>Brinxton - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Brinxton_-_Dresser_Mirror.jpg?v=1538757068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            949.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Priced to entice and styled to impress, this dresser makes the most of a clean-lined, contemporary profile. With three drawer sizes scaled to meet your needs, the design merges cool form and practical function. Replicated oak grain effect gives the modern, gray finish warmth and character. Linear pulls are a sleek touch.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Made of engineered wood</li>
+<li>Charcoal gray finish over replicated oak grain</li>
+<li>7 smooth-gliding drawers; 3 drawer sizes</li>
+<li>Linear pulls with dark pewter-tone finish</li>
+<li>Dresser with Mirror</li>
+</ul>
+<p><b>Brinxton - Black - Dresser</b><br><span>61.26"W x 15.91"D x 42.78"H - 189.0 lbs </span><br><b>Brinxton - Black - Bedroom Mirror</b><br><span>39.13"W x 1.61"D x 32.48"H - 32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478350798944</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">949.99</s:price>
+      <s:sku>B249/31/36</s:sku>
+      <s:grams>100244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478350536800</id>
+    <published>2018-10-05T10:27:21-06:00</published>
+    <updated>2018-10-05T10:27:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ralene-dresser-mirror"/>
+    <title>Ralene - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ralene_-_Dresser_Mirror.jpg?v=1538756951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            1399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Custom made for those who appreciate minimalist lines, this showpiece dresser brings home high-end design made exceptionally affordable. The streamlined profile and sleek bar pulls are clearly inspired by mid-century modern furniture. Beautiful from the inside out, its smooth-gliding, flush-fit drawers are crafted with quality dovetail construction—for a timeless look that’s made to last.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of veneers, wood and engineered wood</li>
+<li>6 smooth-gliding drawers with dovetail construction</li>
+<li>Bar pulls in aged bronze-tone finish</li>
+</ul>
+<p><b>Ralene - Medium Brown - Dresser</b><br><span>65.38"W x 18"D x 45"H - 203.0 lbs </span><br><b>Ralene - Medium Brown - Bedroom Mirror</b><br><span>46.75"W x 1.88"D x 30.75"H - 43.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478350536800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1399.99</s:price>
+      <s:sku>B594/31/36</s:sku>
+      <s:grams>111584</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478346506336</id>
+    <published>2018-10-05T10:16:34-06:00</published>
+    <updated>2018-10-05T10:16:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-dresser-mirror-1"/>
+    <title>Willowton - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Dresser_Mirror.jpg?v=1538756280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dresser is the ultimate statement piece for your coastal cottage or shabby chic inspired retreat. Whitewashed finish on the drawers and sides is wonderfully easy on the eyes. Paired with the unique plank-style top, it’s a driftwoody look that has our minds drifting away to beachy-keen escapes.</span><br><br><b>Product Features</b><span></span>
+<ul>
+<li>Dresser with Mirror</li>
+<li>Made of engineered wood</li>
+<li>Whitewashed finish over replicated grain</li>
+<li>Faux plank top</li>
+<li>Antiqued brass-tone ring-pull hardware</li>
+<li>6 smooth-gliding drawers</li>
+</ul>
+<p><b>Willowton - Two-tone - Dresser</b><br><span>60.94"W x 15.75"D x 40.63"H - 172.0 lbs </span><br><b>Willowton - Whitewash - Bedroom Mirror</b><br><span>41.85"W x 0.98"D x 34.8"H - 37.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478346506336</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku>B267/31/36</s:sku>
+      <s:grams>94801</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478345228384</id>
+    <published>2018-10-05T10:13:33-06:00</published>
+    <updated>2018-10-05T10:13:33-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-dresser-1"/>
+    <title>Willowton - Dresser</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Dresser.jpg?v=1538756118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>This dresser is the ultimate statement piece for your coastal cottage or shabby chic inspired retreat. Whitewashed finish on the drawers and sides is wonderfully easy on the eyes. Paired with the unique plank-style top, it’s a driftwoody look that has our minds drifting away to beachy-keen escapes.</span><br><br><b>Product Features</b>
+<ul>
+<li>Dresser only; mirror sold separately</li>
+<li>Made of engineered wood</li>
+<li>Whitewashed finish over replicated grain</li>
+<li>Faux plank top</li>
+<li>Antiqued brass-tone ring-pull hardware</li>
+<li>6 smooth-gliding drawers</li>
+</ul>
+<div class="col-sm-3 col-md-3 col-lg-3 col-xl-2"><strong><span data-toggle="tooltip" data-placement="top" title="Note: Dimensions may be rounded.">Dimensions:</span></strong></div>
+<div class="col-sm-9 col-md-9 col-lg-9 col-xl-10">
+<div class="row">
+<div class="col-md-12">Inches: 60.94" W x 15.75" D x 40.63" H</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478345228384</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>B267-31</s:sku>
+      <s:grams>78018</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1478191841376</id>
+    <published>2018-10-04T22:20:50-06:00</published>
+    <updated>2018-10-04T22:20:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/harlinton-dresser-mirror"/>
+    <title>Harlinton - Dresser &amp; Mirror</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Harlinton_-_Dresser_Mirror.jpg?v=1538713335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            849.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With its unique two-tone treatment of replicated oak grain and metal, Harlinton is where modern meets vintage in the coolest possible way. Beautifully weathered treatment of the inlaid plank-style boards has a very “reclaimed” quality, while the metal framework and ultra clean-lined design is urban chic. Six smooth-gliding drawers make for an organized wardrobe.</span></p>
+<meta charset="utf-8">
+<p><span><b>Harlinton - Warm Gray/Charcoal - Dresser</b><br>62.24"W x 15.35"D x 36.42"H - 140.0 lbs <br><b>Harlinton - Charcoal - Bedroom Mirror</b><br>41.34"W x 0.98"D x 35.35"H - 38.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1478191841376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">849.99</s:price>
+      <s:sku>B325/31/36</s:sku>
+      <s:grams>80739</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/rv-queen.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2021-07-24T10:32:30-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6844191735968</id>
+    <published>2021-07-24T10:32:30-06:00</published>
+    <updated>2021-07-24T10:32:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-norah-rv-queen"/>
+    <title>Spring Air – Norah – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SimilartoNorahandNoelle_671511fc-70e6-4e84-80df-9b4a8df963e7.jpg?v=1627144351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euro Top Medium Firm</p>
+<p>Breathable Fiber Blend</p>
+<p>Firm ECOTEX Gel Infused Foam</p>
+<p>Firm ECOTEX Foam</p>
+<p>Foam Encased</p>
+<p>820 Zoned Pocket Coils*</p>
+<p>10.5-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.  Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p>*Number of Coils is Based on a Queen Size Mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6844191735968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6661130616992</id>
+    <published>2021-04-22T16:01:56-06:00</published>
+    <updated>2021-04-22T16:01:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-cushion-top-plush-rv-queen"/>
+    <title>Beautyrest – Traditional – Cushion Top Plush – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Plush_S2_052af080-59c5-4fda-b672-e89ba60b74e1.jpg?v=1619128918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            899.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Comfort Top Plush</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Medium Foam</p>
+<p data-mce-fragment="1">Gel-Infused Memory Foam</p>
+<p data-mce-fragment="1">Plush Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">13-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6661130616992</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">899.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6661119639712</id>
+    <published>2021-04-22T15:47:24-06:00</published>
+    <updated>2021-04-22T15:47:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-cushion-top-medium-rv-queen"/>
+    <title>Beautyrest – Traditional – Cushion Top Medium – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Medium_S2_7cd3d80e-78c5-4bef-83f5-9a8995ceb06a.jpg?v=1619128046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            799.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Comfort Top Medium</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Medium Foam</p>
+<p data-mce-fragment="1">Plush Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">11.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6661119639712</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">799.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6660952981664</id>
+    <published>2021-04-22T13:54:56-06:00</published>
+    <updated>2021-04-22T13:54:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-tight-top-firm-rv-queen"/>
+    <title>Beautyrest – Traditional – Tight Top Firm – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Firm_S2_bf262879-9699-4022-8388-b683b684bc8f.jpg?v=1619121297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Firm</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Firm Foam</p>
+<p data-mce-fragment="1">Firm Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">10.5-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6660952981664</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/6660908122272</id>
+    <published>2021-04-22T13:29:48-06:00</published>
+    <updated>2021-04-22T13:29:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-traditional-dr-hard-rv-queen"/>
+    <title>Beautyrest – Traditional – Dr Hard – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/BR_Value_Firm_S2_e0c96de5-fd74-41fe-85ea-7d415d5a074c.jpg?v=1619119789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Tight Top Extra Firm</p>
+<p data-mce-fragment="1">Gel-Infused Fibre</p>
+<p data-mce-fragment="1">AirFeel Extra Firm Foam</p>
+<p data-mce-fragment="1">Extra Firm Comfort Foam</p>
+<p data-mce-fragment="1">800 Beautyrest Pocket Coils*</p>
+<p data-mce-fragment="1">High-Density Foam Encasement</p>
+<p data-mce-fragment="1">10-inch Mattress Height</p>
+<p data-mce-fragment="1">Lifestyle Adjustable Base Friendly</p>
+<p data-mce-fragment="1">10 Year Warranty</p>
+<p data-mce-fragment="1">Made in Calgary</p>
+<p data-mce-fragment="1">Mattress Only.<span data-mce-fragment="1">  </span>Box spring and frame sold separately.</p>
+<p data-mce-fragment="1">Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p data-mce-fragment="1">*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/6660908122272</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>36287</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5401999999136</id>
+    <published>2020-07-17T18:11:36-06:00</published>
+    <updated>2020-07-17T18:11:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-promo-foam-rv-queen"/>
+    <title>Spring Air – Promo Foam – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/IMG_20200717_175831_b20f486d-e996-4868-83d8-70a81d5fcb88.jpg?v=1595031097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            229.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Mattress Comes in Many Different Colours and Designs!!!</p>
+<p>All Foam Mattress</p>
+<p>6-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>1 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.  Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5401999999136</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>38555</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5378466250912</id>
+    <published>2020-07-11T17:42:31-06:00</published>
+    <updated>2020-07-11T17:42:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-chiro-comfort-addison-rv-queen"/>
+    <title>Spring Air – Chiro Comfort – Addison – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/IMG_20200711_163114_5ca07c8b-d40d-45cd-9b25-fb13968b0cfa.jpg?v=1594510952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            349.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>All Foam Tight Top Firm</p>
+<p>Soy Based Foam</p>
+<p>7-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>1 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.  Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5378466250912</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">349.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5378460778656</id>
+    <published>2020-07-11T17:29:28-06:00</published>
+    <updated>2020-07-11T17:29:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-noelle-rv-queen"/>
+    <title>Spring Air – Noelle – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/SimilartoNorahandNoelle_557dc448-8215-4a73-913a-2c6152f6aa8c.jpg?v=1594510169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            549.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Euro Top Plush</p>
+<p>Breathable Fiber Blend</p>
+<p>Soft ECOTEX Gel Infused Foam</p>
+<p>Soft ECOTEX Foam</p>
+<p>Foam Encased</p>
+<p>820 Zoned Pocket Coils*</p>
+<p>11-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.  Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p>*Number of Coils is Based on a Queen Size Mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5378460778656</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">549.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430060007520</id>
+    <published>2018-09-21T20:47:32-06:00</published>
+    <updated>2018-09-21T20:47:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-charisma-rv-queen"/>
+    <title>Spring Air – Back Supporter Essentials – Charisma – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/7003_Charisma_cc581b87-9e9f-481c-b46d-d90ade3e7033.jpg?v=1537584547"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Euro Top Plush</p>
+<p>Conforma Touch Foam</p>
+<p>Gel Infused Foam</p>
+<p>EcoTex High Density Foam</p>
+<p>Infused Plush EcoTex Quilt</p>
+<p>Foam Encased Solid Sleep Edge</p>
+<p>828 5 Zoned Pocket Coils*</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.<span>  </span>Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p>*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>in store</s:tag>
+    <s:tag>rv queen</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430060007520</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>7003</s:sku>
+      <s:grams>40823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430036250720</id>
+    <published>2018-09-21T17:02:18-06:00</published>
+    <updated>2018-09-21T17:02:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-hudson-rv-queen"/>
+    <title>Spring Air – Special Edition – Hudson – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/hudson_56ef89e0-05b7-4d13-abea-ad68d2df4ac5.jpg?v=1537571030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Euro Top Medium Plush</p>
+<p>Heavy Knit Organic Cotton Top</p>
+<p>EcoTex Gel Infused Quilt</p>
+<p>Silk and Wool Fibre Blend</p>
+<p>Soft EcoTex Foam</p>
+<p>Orthopedic Latex</p>
+<p>1020 Zoned Pocket Coils*</p>
+<p>Foam Encasement</p>
+<p>12-inch Mattress Height</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.<span>  </span>Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p>*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>in store</s:tag>
+    <s:tag>rv queen</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430036250720</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>2921</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1430034677856</id>
+    <published>2018-09-21T16:38:26-06:00</published>
+    <updated>2018-09-21T16:38:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/spring-air-niagara-rv-queen"/>
+    <title>Spring Air – Special Edition – Niagara – RV Queen</title>
+    <s:type>Mattress</s:type>
+    <s:vendor>Spring Air</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/niagara_4a702c62-c7d5-4580-ae58-5211b5ff7d4f.jpg?v=1537569594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spring Air<br>
+        <strong>Type: </strong>Mattress<br>
+        <strong>Price: </strong>
+            699.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Tight Top Firm</p>
+<p>Heavy Knit Organic Cotton Fabric</p>
+<p>Firm EcoTex Quilt Foam</p>
+<p>Silk and Wool Fibre</p>
+<p>Firm EcoTex Extended Life Foam</p>
+<p>Orthopedic Latex</p>
+<p>Foam Encased Solid Sleep Edge</p>
+<p>952 Zoned Pocket Coils*</p>
+<p>Lifestyle Adjustable Base Friendly</p>
+<p>10 Year Warranty</p>
+<p>Made in Canada</p>
+<p>Mattress Only.<span>  </span>Box spring and frame sold separately.</p>
+<p>Colours &amp; Designs May Vary Due to Product Enhancement.</p>
+<p>*Coil count based on queen size mattress</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>online only</s:tag>
+    <s:tag>rv queen</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1430034677856</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.99</s:price>
+      <s:sku>2920</s:sku>
+      <s:grams>49895</s:grams>
+    </s:variant>
+  </entry>
+</feed>

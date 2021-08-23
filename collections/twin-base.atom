@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/twin-base.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2019-01-20T22:33:12-07:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903156953184</id>
+    <published>2019-01-20T22:33:12-07:00</published>
+    <updated>2019-01-20T22:33:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-twin-low-profile"/>
+    <title>Kingsdown - Box Spring - Twin Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_8c334bf8-bcab-4233-b759-7b5fad73f30c.jpg?v=1548048999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin - 74" x 39" x 5.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903156953184</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903155118176</id>
+    <published>2019-01-20T22:25:27-07:00</published>
+    <updated>2019-01-20T22:25:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-twin"/>
+    <title>Kingsdown - Box Spring - Twin</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_77c387fc-e72b-4a51-bd0e-05bbb7fe3986.jpg?v=1548048500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin - 74" x 39" x 9"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903155118176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903153840224</id>
+    <published>2019-01-20T22:20:22-07:00</published>
+    <updated>2019-01-20T22:20:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-twin-low-profile"/>
+    <title>Box Spring Steel Reinforced - Twin Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_67d64901-4bfe-4b14-8fa6-fb0908e86fa5.jpg?v=1548048124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Steel Reinforced</p>
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin - 74" x 39" x 5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903153840224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903153152096</id>
+    <published>2019-01-20T22:16:07-07:00</published>
+    <updated>2019-01-20T22:16:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-twin"/>
+    <title>Box Spring Steel Reinforced - Twin</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Twin_Box_8a51b5e2-3c65-4049-a074-c759b8b2c936.jpg?v=1548047925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Steel Reinforced</p>
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Twin - 74" x 39" x 9"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>twin</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903153152096</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+</feed>

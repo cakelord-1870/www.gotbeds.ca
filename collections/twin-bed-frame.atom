@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/twin-bed-frame.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2019-02-04T16:42:56-07:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1919026888800</id>
+    <published>2019-02-04T16:42:56-07:00</published>
+    <updated>2019-02-04T16:42:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/baystorm-twin-panel-bed"/>
+    <title>Baystorm - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Baystorm_-_Twin_Panel_Bed.jpg?v=1549325474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            579.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Smokey gray finish over replicated Oak grain with authentic touch.  Contemporary handles in an antiqued gunmetal finish.  Modern bookcase headboard includes a dimming LED light under the shelf.</span></p>
+<p><span><b>Baystorm - Gray - Twin Panel Footboard w/Rails</b><br>40.63"W x 75.71"D x 15.35"H - 45.0 lbs <br><b>Baystorm - Gray - Twin Panel Headboard</b><br>40.67"W x 5.67"D x 51.57"H - 49.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1919026888800</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">579.99</s:price>
+      <s:sku>B221/53/52</s:sku>
+      <s:grams>42638</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1476033249376</id>
+    <published>2018-09-25T23:03:13-06:00</published>
+    <updated>2018-09-25T23:03:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-twin-panel-bed-with-trundle-under-bed-storage"/>
+    <title>Willowton - Twin Panel Bed with Trundle Under Bed Storage</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Twin_Panel_Bed_with_Trundle_Under_Bed_Storage.jpeg?v=1537938710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            999.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Two-tone finish in white wash replicated worn through paint with authentic touch and a replicated wood grained block pattern with authentic touch. Large scaled shapely bedroom collection features bun feet. Ring pull hardware in an antique brass color, accented with white paint hang up. Side roller glides for smooth operating drawers.</span></p>
+<meta charset="utf-8">
+<p><span><b>Frames And Rails - Brown - Twin Roll Slat</b><br>38.43"W x 70.79"D x 0.75"H - 21.6 lbs <br><br>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).<br><br><b>Willowton - Whitewash - Twin Panel Footboard</b><br>42.4"W x 3.31"D x 26.42"H - 32.0 lbs <br><b>Willowton - Whitewash - Twin Panel Headboard</b><br>42.4"W x 3.23"D x 53.74"H - 47.0 lbs <br><b>Willowton - Whitewash - Under Bed Storage</b><br>76.38"W x 40"D x 9.98"H - 110.0 lbs <br><b>Willowton - Whitewash - Twin Panel Rails</b><br>40"W x 77.76"D x 7.17"H - 30.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1476033249376</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">999.99</s:price>
+      <s:sku>B267/53/52/83/60/B100-11</s:sku>
+      <s:grams>110677</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1476032561248</id>
+    <published>2018-09-25T22:59:32-06:00</published>
+    <updated>2018-09-25T22:59:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-twin-panel-bed-with-under-bed-storage"/>
+    <title>Willowton - Twin Panel Bed with Under Bed Storage</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Twin_Panel_Bed_with_Under_Bed_Storage_1.jpeg?v=1537938186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            979.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Two-tone finish in white wash replicated worn through paint with authentic touch and a replicated wood grained block pattern with authentic touch. Large scaled shapely bedroom collection features bun feet. Ring pull hardware in an antique brass color, accented with white paint hang up. Side roller glides for smooth operating drawers. </span></p>
+<meta charset="utf-8">
+<p><span><b>Willowton - Whitewash - Under Bed Storage w/Side Rail</b><br>76.77"W x 56.61"D x 18.19"H - 110.0 lbs <br><b>Willowton - Whitewash - Twin Panel Footboard</b><br>42.4"W x 3.31"D x 26.42"H - 32.0 lbs <br><b>Willowton - Whitewash - Twin Panel Headboard</b><br>42.4"W x 3.23"D x 53.74"H - 47.0 lbs <br><b>Willowton - Whitewash - Twin Panel Rails</b><br>40"W x 77.76"D x 7.17"H - 30.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1476032561248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">979.99</s:price>
+      <s:sku>B267/53/52/50/B100-11</s:sku>
+      <s:grams>99337</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429727903840</id>
+    <published>2018-09-20T14:04:14-06:00</published>
+    <updated>2018-09-20T14:04:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/derekson-twin-panel-bed"/>
+    <title>Derekson - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Derekson_-_Twin_Panel_Bed_1.jpeg?v=1537474113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            479.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Rustic butcher block finish over replicated pine grain with authentic touch. Cases feature a framed front and pilasters. Bed features a thick and heavy design.</span></p>
+<meta charset="utf-8">
+<p><span><b>Derekson - Multi Gray - Twin Panel Footboard</b><br>40.51"W x 4.45"D x 20.39"H - 32.0 lbs <br><b>Derekson - Multi Gray - Twin Panel Headboard</b><br>40.51"W x 4.45"D x 48.5"H - 51.0 lbs <br><b>Derekson - Multi Gray - Twin Panel Rails</b><br>78.9"W x 40.28"D x 7.17"H - 32.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429727903840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">479.99</s:price>
+      <s:sku>B200/53/52/83</s:sku>
+      <s:grams>52163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429727215712</id>
+    <published>2018-09-20T14:02:31-06:00</published>
+    <updated>2018-09-20T14:02:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/jorstad-twin-sleigh-bed"/>
+    <title>Jorstad - Twin Sleigh Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Jorstad_-_Twin_Sleigh_Bed_1.jpeg?v=1537473848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a clean light gray finish flowing over the classic Louis Phillippe styling, the “Jorstad” bedroom collection flawlessly captures the essence of relaxed traditional design. The ogee shaped top moulding and bracket feet along with the upholstered panel sleigh headboard with a textural gray-white fabric adorned with nail head detailing creates a beautiful bedroom collection you’ll be proud to own.</span><br><br><span>Made with Birch veneers and select hardwood solids and finished in a light gray paint for clean and crisp appearance. Classic Louis Phillippe styling with ogee shaped top moulding and bracket feet. Sleigh bed has an upholstered panel with a textural gray-white fabric with nail head detailing.</span></p>
+<meta charset="utf-8">
+<p><span><b>Jorstad - Gray - Twin UPH Sleigh HDBD/FTBD</b><br>41.13"W x 5.75"D x 47.38"H - 39.0 lbs <br><b>Jorstad - Gray - Twin Sleigh Rails</b><br>41.13"W x 72.63"D x 13.13"H - 24.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429727215712</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">499.99</s:price>
+      <s:sku>B378/53/83</s:sku>
+      <s:grams>28576</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429726691424</id>
+    <published>2018-09-20T13:56:50-06:00</published>
+    <updated>2018-09-20T13:56:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/willowton-twin-panel-bed"/>
+    <title>Willowton - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Willowton_-_Twin_Panel_Bed_1.jpeg?v=1537473537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            579.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Two-tone finish in white wash replicated worn through paint with authentic touch and a replicated wood grained block pattern with authentic touch.</span></p>
+<meta charset="utf-8">
+<p><span><b>Willowton - Whitewash - Twin Panel Footboard</b><br>42.4"W x 3.31"D x 26.42"H - 32.0 lbs <br><b>Willowton - Whitewash - Twin Panel Headboard</b><br>42.4"W x 3.23"D x 53.74"H - 47.0 lbs <br><b>Willowton - Whitewash - Twin Panel Rails</b><br>40"W x 77.76"D x 7.17"H - 30.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429726691424</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">579.99</s:price>
+      <s:sku>B267/53/52/83</s:sku>
+      <s:grams>49442</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429712568416</id>
+    <published>2018-09-20T13:18:26-06:00</published>
+    <updated>2018-09-20T13:18:26-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/trinell-twin-panel-bed"/>
+    <title>Trinell - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Trinell_-_Twin_Panel_Bed.jpeg?v=1537471234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            599.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Warm rustic plank finish over replicated Oak grain and authentic touch. Tops of cases and headboard/footboard panels are captured with a nail trimmed corner piece.</span></p>
+<meta charset="utf-8">
+<p><span>Roll slats can be used in substitution of a box spring.</span></p>
+<meta charset="utf-8">
+<p><span><b>Trinell - Brown - Twin Panel Footboard</b><br>42.4"W x 3.46"D x 26.5"H - 32.0 lbs <br><b>Trinell - Brown - Twin Panel Headboard</b><br>42.4"W x 3.46"D x 53.82"H - 47.0 lbs <br><b>Trinell - Brown - Twin Panel Rails</b><br>40"W x 77.76"D x 7.17"H - 30.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429712568416</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.99</s:price>
+      <s:sku>B446/53/52/83</s:sku>
+      <s:grams>49442</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429706670176</id>
+    <published>2018-09-20T13:07:50-06:00</published>
+    <updated>2018-09-20T13:07:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/bostwick-shoals-twin-panel-bed"/>
+    <title>Bostwick Shoals - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Bostwick_Shoals_-_Twin_Panel_Bed.jpeg?v=1537470586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            479.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a relaxed cottage design that features beautiful frame details along with scalloped tops and base mouldings all bathed in a glowing white finish, the “Bostwick Shoals” bedroom collection creates an inviting atmosphere that is sure to transform the décor of any bedroom.</span><br><br><span>Replicated solid white paint.</span></p>
+<meta charset="utf-8">
+<p><span><b>Bostwick Shoals - White - Twin Panel Footboard</b><br>43.11"W x 3.86"D x 21.38"H - 30.0 lbs <br><b>Bostwick Shoals - White - Twin Panel Headboard</b><br>42.8"W x 2.68"D x 53.39"H - 45.0 lbs <br><b>Bostwick Shoals - White - Twin Panel Rails</b><br>40.28"W x 78.9"D x 7.17"H - 31.5 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429706670176</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">479.99</s:price>
+      <s:sku>B139/53/52/83</s:sku>
+      <s:grams>48534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429705162848</id>
+    <published>2018-09-20T13:05:15-06:00</published>
+    <updated>2018-09-20T13:05:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/maribel-twin-panel-bed"/>
+    <title>Maribel - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Maribel_-_Twin_Panel_Bed.jpeg?v=1537470444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            479.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a relaxed cottage design that features beautiful frame details along with scalloped tops and base mouldings all bathed in a rich black finish, the “Maribel” bedroom collection creates an inviting atmosphere that is sure to transform the décor of any bedroom.</span><br><br><span>Solid black finish.</span></p>
+<meta charset="utf-8">
+<p><span><b>Maribel - Black - Twin Panel Footboard</b><br>43.11"W x 3.86"D x 21.38"H - 30.0 lbs <br><b>Maribel - Black - Twin Panel Headboard</b><br>42.8"W x 2.68"D x 53.39"H - 45.0 lbs <br><b>Maribel - Black - Twin Panel Rails</b><br>40.28"W x 78.9"D x 7.17"H - 31.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429705162848</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">479.99</s:price>
+      <s:sku>B138/53/52/83</s:sku>
+      <s:grams>48081</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429703491680</id>
+    <published>2018-09-20T13:02:54-06:00</published>
+    <updated>2018-09-20T13:02:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kaslyn-twin-panel-bed"/>
+    <title>Kaslyn - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Kaslyn_-_Twin_Panel_Bed.jpeg?v=1537470289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            749.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The beauty of cottage design shines with the bright white durable finish along with the stylish “X” motif and half rounded pilasters adorning the bed and case pieces making the “Kaslyn” bedroom collection the perfect way to create a cottage getaway within your own home.</span><br><br><span>Made with MDF and poplar solids.</span></p>
+<meta charset="utf-8">
+<p><span>Half round pilasters set on stylish turned bun feet. Cottage styling is earmarked by the use of overlay "X" motifs. Stylish single drawer night stand with open "X" back design. Bright white finish features a durable UV base coat for long lasting beauty. </span></p>
+<meta charset="utf-8">
+<p><span><b>Kaslyn - White - Twin Panel Footboard</b><br>44.75"W x 4.13"D x 29"H - 34.0 lbs <br><b>Kaslyn - White - Twin Panel Headboard</b><br>44.75"W x 3.25"D x 56.75"H - 44.0 lbs <br><b>Kaslyn - White - Twin Panel Rails</b><br>41.13"W x 77.38"D x 13.88"H - 37.0 lbs</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429703491680</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.99</s:price>
+      <s:sku>B502/53/52/83</s:sku>
+      <s:grams>52163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429695135840</id>
+    <published>2018-09-20T12:50:35-06:00</published>
+    <updated>2018-09-20T12:50:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/alisdair-twin-sleigh-bed"/>
+    <title>Alisdair - Twin Sleigh Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Alisdair_-_Twin_Sleigh_Bed_1.jpeg?v=1537469550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With a warm inviting traditional design bathed in a deep brown finish, the beauty of the “Alisdair” bedroom collection comes to life in the subtle curves and antique bronze color hardware creating a relaxed sophistication that perfectly transforms the décor of any bedroom.</span><br><br><span>Made with select veneers and hardwood solids. Warm dark brown finish.</span></p>
+<meta charset="utf-8">
+<p><span><b>Alisdair - Dark Brown - Twin Sleigh HDBD/FTBD</b><br>41.25"W x 6.5"D x 47.5"H - 45.0 lbs <br><b>Alisdair - Dark Brown - Twin Sleigh Rails</b><br>41"W x 72.5"D x 13"H - 19.0 lbs </span></p>
+<p><span>*Frame requires box spring</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429695135840</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>B376/53/83</s:sku>
+      <s:grams>29030</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429688516704</id>
+    <published>2018-09-20T12:40:43-06:00</published>
+    <updated>2018-09-20T12:40:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/huey-vineyard-twin-sleigh-bed"/>
+    <title>Huey Vineyard - Twin Sleigh Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Huey_Vineyard_-_Twin_Sleigh_Bed.jpeg?v=1537468992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            489.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>With sophisticated style and a dark finish, the "Huey Vineyard" bedroom collection is sure to enhance your bedroom's decor with a rich traditional design that offers a warm comfortable atmosphere. The trendy replicated black paint finish beautifully bathes the stylish curved footboard and shapely rails and moulding in a smooth beauty that perfectly captures the rich traditional style. With the antique pewter color metal hardware perfectly complementing the Louis Philippe style, this collection fits comfortably into any bedroom decor. Enhance the style of any bedroom with the rich traditional beauty of the "Huey Vineyard" bedroom collection.</span><br><br><span>Louis Philippe styling. Trendy replicated black paint. </span></p>
+<meta charset="utf-8">
+<p><span>Curvaceous footboard panel caped with an elegant sleigh rail.</span></p>
+<meta charset="utf-8">
+<p><span><b>Huey Vineyard - Black - Twin Sleigh Footboard</b><br>40.83"W x 7.09"D x 28.46"H - 40.0 lbs <br><b>Huey Vineyard - Black - Twin Sleigh Headboard</b><br>40.67"W x 7.09"D x 44.49"H - 39.3 lbs <br><b>Huey Vineyard - Black - Twin Sleigh Rails</b><br>40.28"W x 71.42"D x 7.17"H - 28.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429688516704</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">489.99</s:price>
+      <s:sku>B128/63/62/82</s:sku>
+      <s:grams>48988</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1429680291936</id>
+    <published>2018-09-20T12:24:38-06:00</published>
+    <updated>2018-09-20T12:24:38-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lulu-twin-panel-bed"/>
+    <title>Lulu - Twin Panel Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Lulu_-_Twin_Panel_Bed_1.jpeg?v=1537468173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            399.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The light airy cottage design of the “Lulu” youth bedroom collection features a replicated white paint finish flowing beautifully over the grooved panels and embossed bead framing to make this innovative furniture an inviting addition to any child’s bedroom.</span><br><br><span>Replicated white paint.</span></p>
+<meta charset="utf-8">
+<p><span>Roll slats can be used in substitution of a box spring.</span></p>
+<meta charset="utf-8">
+<p><span><b>Lulu - White - Twin Panel Footboard</b><br>41.89"W x 0.63"D x 19.76"H - 20.6 lbs <br><b>Lulu - White - Twin Panel Headboard</b><br>43.07"W x 1.89"D x 53.39"H - 39.0 lbs <br><b>Lulu - White - Twin Panel Rails</b><br>40"W x 76.77"D x 7.17"H - 32.3 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1429680291936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.99</s:price>
+      <s:sku>B102/52/51/82</s:sku>
+      <s:grams>42184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1428850311264</id>
+    <published>2018-09-18T19:49:17-06:00</published>
+    <updated>2018-09-18T19:49:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/lulu-twin-loft-bed-w-bin-storage-and-bookcase"/>
+    <title>Lulu - Twin Loft Bed w/Bin Storage and Bookcase</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/lulu_loft_storage_bookcase.jpg?v=1537321960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            1199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The light airy cottage design of the “Lulu” youth bedroom collection features a replicated white paint finish flowing beautifully over the grooved panels and embossed bead framing to make this innovative furniture an inviting addition to any child’s bedroom.</span></p>
+<p> </p>
+<p><b>Frames And Rails - Brown - Twin Roll Slat</b><br><span>38.43"W x 70.79"D x 0.75"H - 21.6 lbs </span><br><br><span>Use center-supported bolt on bed rails when using conversion plates. Day beds require Day Bed Platform (B100-81).</span><br><br><b>Lulu - White - Loft Bin Storage</b><br><span>30.71"W x 15.83"D x 29.61"H - 59.0 lbs </span><br><b>Lulu - White - Loft Bookcase with Ladder</b><br><span>46.77"W x 14.76"D x 29.8"H - 85.0 lbs </span><br><b>Lulu - White - Loft Drawer Storage</b><br><span>30.71"W x 15.83"D x 29.61"H - 67.0 lbs </span><br><b>Lulu - White - Twin Loft Bed</b><br><span>40.87"W x 77.91"D x 46.69"H - 115.0 lbs </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1428850311264</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1199.99</s:price>
+      <s:sku>B102/68T/16/17/19/B100-11</s:sku>
+      <s:grams>159211</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1427420774496</id>
+    <published>2018-09-11T17:56:00-06:00</published>
+    <updated>2018-09-11T17:56:00-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/nashburg-twin-metal-hdbd-ftbd-rails"/>
+    <title>Nashburg - Twin Metal Bed</title>
+    <s:type>Twin Bed Frame</s:type>
+    <s:vendor>Ashley Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Nashburg_Twin_Metal.jpg?v=1536710288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ashley Furniture<br>
+        <strong>Type: </strong>Twin Bed Frame<br>
+        <strong>Price: </strong>
+            379.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Country cottage. Farmhouse chic. Vintage industrial. However you see it, you’re sure to be instantly charmed by this retro-inspired twin metal bed. Finished in an aged pewter-tone, its steel frame with moulded "fittings" brilliantly mimics wrought-iron beds from yesteryear. Let yourself drift away to a simpler time and place. Mattress and foundation/box spring available, sold separately.</span><br><br><b>Product Features</b>
+<ul>
+<li>Made of steel</li>
+<li>Includes headboard, footboard and rails</li>
+<li>Aged pewter-tone finish</li>
+<li>Assembly required</li>
+<li>Mattress and foundation/box spring available, sold separately</li>
+</ul>
+<br><b>About Nashburg</b><br><span>Whether it’s the welded tubular metal in a bronze color powder coat finish, the welded tubular and sheet metal in a brushed pewter color finish or the welded tubular and sheet metal in a bronze color finish adorned with cushions covered in twill weave oatmeal color fabric, the “Metal Beds” collection features moulded metal accents and a rich vintage design perfect to enhance the beauty of any home.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1427420774496</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">379.99</s:price>
+      <s:sku>B280-571</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

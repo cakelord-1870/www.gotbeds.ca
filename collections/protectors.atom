@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/protectors.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2020-09-18T16:15:52-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5654603694240</id>
+    <published>2020-09-18T16:15:52-06:00</published>
+    <updated>2020-09-18T16:15:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-fit-mattress-protector-king"/>
+    <title>TEMPUR-FIT Mattress Protector - King</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>Tempur-Pedic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/tempur-fit_81f70600-ab40-446b-b9cb-e24837a0540e.png?v=1600467353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tempur-Pedic<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing the new TEMPUR-FIT<sup data-mce-fragment="1">™</sup><span data-mce-fragment="1"> </span>Protector featuring a soft touch sleeping surface for maximum comfort and breathability. Stretchable fabric provides closer contact with TEMPUR<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>material, allowing for better adaptability to the mattress. A triple-layer polyurethane coating ensures a 100% waterproof sleep surface for unwavering reliability and Aegis<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>antimicrobials that prevent bacterial growth, odour, staining, and dust mites.</p>
+<h3 data-mce-fragment="1">PROMOTES A HYGIENIC SLEEP ENVIRONMENT</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Aegis<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>is an anti-bacteria, anti-dust, and anti-mould treatment that can resist many washes</li>
+<li data-mce-fragment="1">Triple layer polyurethane coating incorporated with Aegis treatment provides perfect shield against dust mites</li>
+<li data-mce-fragment="1">Washable up to 60º C</li>
+</ul>
+<h3 data-mce-fragment="1">100% WATERPROOF SLEEPING SURFACE</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Triple layer coating ensures 100% waterproof sleep surface, even after intensive use and washing</li>
+<li data-mce-fragment="1">Comfortable jersey breathable sleeping surface provides superior absorption and comfort. Quiet to sleep on.</li>
+</ul>
+<h3 data-mce-fragment="1">DESIGNED FOR TEMPUR-PEDIC MATTRESSES</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Deep pockets fit mattresses up to 18" thick on all sizes.</li>
+</ul>
+<h3 data-mce-fragment="1">GUARANTEED PROTECTION</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Protect your mattress investment with mattress replacement for 10 years</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5654603694240</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5654587736224</id>
+    <published>2020-09-18T16:11:13-06:00</published>
+    <updated>2020-09-18T16:11:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-fit-mattress-protector-twin-xl"/>
+    <title>TEMPUR-FIT Mattress Protector - Twin XL</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>Tempur-Pedic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/tempur-fit_229e9852-f888-4644-b033-6cdd42d8f744.png?v=1600467073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tempur-Pedic<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Introducing the new TEMPUR-FIT<sup data-mce-fragment="1">™</sup><span data-mce-fragment="1"> </span>Protector featuring a soft touch sleeping surface for maximum comfort and breathability. Stretchable fabric provides closer contact with TEMPUR<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>material, allowing for better adaptability to the mattress. A triple-layer polyurethane coating ensures a 100% waterproof sleep surface for unwavering reliability and Aegis<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>antimicrobials that prevent bacterial growth, odour, staining, and dust mites.</p>
+<h3 data-mce-fragment="1">PROMOTES A HYGIENIC SLEEP ENVIRONMENT</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Aegis<sup data-mce-fragment="1">®</sup><span data-mce-fragment="1"> </span>is an anti-bacteria, anti-dust, and anti-mould treatment that can resist many washes</li>
+<li data-mce-fragment="1">Triple layer polyurethane coating incorporated with Aegis treatment provides perfect shield against dust mites</li>
+<li data-mce-fragment="1">Washable up to 60º C</li>
+</ul>
+<h3 data-mce-fragment="1">100% WATERPROOF SLEEPING SURFACE</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Triple layer coating ensures 100% waterproof sleep surface, even after intensive use and washing</li>
+<li data-mce-fragment="1">Comfortable jersey breathable sleeping surface provides superior absorption and comfort. Quiet to sleep on.</li>
+</ul>
+<h3 data-mce-fragment="1">DESIGNED FOR TEMPUR-PEDIC MATTRESSES</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Deep pockets fit mattresses up to 18" thick on all sizes.</li>
+</ul>
+<h3 data-mce-fragment="1">GUARANTEED PROTECTION</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Protect your mattress investment with mattress replacement for 10 years</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5654587736224</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5378344485024</id>
+    <published>2020-07-11T15:30:16-06:00</published>
+    <updated>2020-07-11T15:30:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ice-silk-mattress-protector-twin"/>
+    <title>Ice Silk Mattress Protector - Twin</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ice_Silk_Folded_b2753ef7-9280-4b1e-a40a-9a4b1975b655.jpg?v=1594503018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><span><strong>Icesilk</strong></span></div>
+<div dir="auto">This amazing fabric is made possible by a strategic weaving of advanced cooling nylon fibres into the surface of this protector. These cooling fibres increased capacity to absorb heat is essential to its ability to help balance the temperature of your mattress during the night.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip Elastic </strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<span><strong>Fit &amp; Finish</strong></span> </div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<strong>5-Sided</strong><br>
+</div>
+<div dir="auto">The sides of the Icesilk protector are also waterproofed for extra protection against accidents!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5378344485024</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5378344157344</id>
+    <published>2020-07-11T15:29:34-06:00</published>
+    <updated>2020-07-11T15:29:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ice-silk-mattress-protector-twin-xl"/>
+    <title>Ice Silk Mattress Protector - Twin XL</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ice_Silk_Folded_a7520b7b-aea9-436e-aaad-0dd4d64fec36.jpg?v=1594502976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            139.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><span><strong>Icesilk</strong></span></div>
+<div dir="auto">This amazing fabric is made possible by a strategic weaving of advanced cooling nylon fibres into the surface of this protector. These cooling fibres increased capacity to absorb heat is essential to its ability to help balance the temperature of your mattress during the night.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip Elastic </strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<span><strong>Fit &amp; Finish</strong></span> </div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<strong>5-Sided</strong><br>
+</div>
+<div dir="auto">The sides of the Icesilk protector are also waterproofed for extra protection against accidents!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5378344157344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5378343436448</id>
+    <published>2020-07-11T15:28:10-06:00</published>
+    <updated>2020-07-11T15:28:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ice-silk-mattress-protector-double"/>
+    <title>Ice Silk Mattress Protector - Double</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ice_Silk_Folded_fedc1155-c785-4cdb-8145-c9f13991c780.jpg?v=1594502895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><span><strong>Icesilk</strong></span></div>
+<div dir="auto">This amazing fabric is made possible by a strategic weaving of advanced cooling nylon fibres into the surface of this protector. These cooling fibres increased capacity to absorb heat is essential to its ability to help balance the temperature of your mattress during the night.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip Elastic </strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<span><strong>Fit &amp; Finish</strong></span> </div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<strong>5-Sided</strong><br>
+</div>
+<div dir="auto">The sides of the Icesilk protector are also waterproofed for extra protection against accidents!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5378343436448</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5378339635360</id>
+    <published>2020-07-11T15:19:12-06:00</published>
+    <updated>2020-07-11T15:19:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tencel-mattress-protector-twin-xl"/>
+    <title>Tencel Mattress Protector - Twin XL</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Tencel_On_Mattress_2feb0e59-b398-487c-8269-5176a60dbee2.jpg?v=1594502355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><strong><span>Tencel</span></strong></div>
+<div dir="auto">These fibers are sustainably crafted from raw wood pulp and are known for their long-lasting, super soft feel. They are also known for their ability to reduce bacterial growth!<br>
+</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Design</strong></span></div>
+<div dir="auto">The Tencel Protector was designed to be invisible when put on your mattress. We don't want to take away from the incredible feel of your new mattress!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip elastic</strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Fit &amp; Finish</strong></span></div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5378339635360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4373886238816</id>
+    <published>2019-11-18T19:25:38-07:00</published>
+    <updated>2019-11-18T19:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ice-silk-mattress-protector-king"/>
+    <title>Ice Silk Mattress Protector - King</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ice_Silk_Folded_bb6f856a-ced7-44d9-8735-642246ce99c3.jpg?v=1574131144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><span><strong>Icesilk</strong></span></div>
+<div dir="auto">This amazing fabric is made possible by a strategic weaving of advanced cooling nylon fibres into the surface of this protector. These cooling fibres increased capacity to absorb heat is essential to its ability to help balance the temperature of your mattress during the night.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip Elastic </strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<span><strong>Fit &amp; Finish</strong></span> </div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<strong>5-Sided</strong><br>
+</div>
+<div dir="auto">The sides of the Icesilk protector are also waterproofed for extra protection against accidents!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4373886238816</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4373884043360</id>
+    <published>2019-11-18T19:25:38-07:00</published>
+    <updated>2019-11-18T19:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/ice-silk-mattress-protector-queen"/>
+    <title>Ice Silk Mattress Protector - Queen</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Ice_Silk_Folded.jpg?v=1574131047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            159.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><span><strong>Icesilk</strong></span></div>
+<div dir="auto">This amazing fabric is made possible by a strategic weaving of advanced cooling nylon fibres into the surface of this protector. These cooling fibres increased capacity to absorb heat is essential to its ability to help balance the temperature of your mattress during the night.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip Elastic </strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<span><strong>Fit &amp; Finish</strong></span> </div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto">
+<strong>5-Sided</strong><br>
+</div>
+<div dir="auto">The sides of the Icesilk protector are also waterproofed for extra protection against accidents!</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4373884043360</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4373880668256</id>
+    <published>2019-11-18T19:25:38-07:00</published>
+    <updated>2019-11-18T19:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tencel-mattress-protector-king"/>
+    <title>Tencel Mattress Protector - King</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Tencel_On_Mattress_09c5596e-3303-4b63-ac26-22b75e814a94.jpg?v=1574130861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><strong><span>Tencel</span></strong></div>
+<div dir="auto">These fibers are sustainably crafted from raw wood pulp and are known for their long-lasting, super soft feel. They are also known for their ability to reduce bacterial growth!<br>
+</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Design</strong></span></div>
+<div dir="auto">The Tencel Protector was designed to be invisible when put on your mattress. We don't want to take away from the incredible feel of your new mattress!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip elastic</strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Fit &amp; Finish</strong></span></div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4373880668256</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4373877948512</id>
+    <published>2019-11-18T19:25:38-07:00</published>
+    <updated>2019-11-18T19:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tencel-mattress-protector-queen"/>
+    <title>Tencel Mattress Protector - Queen</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Tencel_On_Mattress_396e793d-9ca3-4453-b4bb-a004a53c01cb.jpg?v=1574130759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><strong><span>Tencel</span></strong></div>
+<div dir="auto">These fibers are sustainably crafted from raw wood pulp and are known for their long-lasting, super soft feel. They are also known for their ability to reduce bacterial growth!<br>
+</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Design</strong></span></div>
+<div dir="auto">The Tencel Protector was designed to be invisible when put on your mattress. We don't want to take away from the incredible feel of your new mattress!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip elastic</strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Fit &amp; Finish</strong></span></div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4373877948512</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4373876277344</id>
+    <published>2019-11-18T19:25:38-07:00</published>
+    <updated>2019-11-18T19:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tencel-mattress-protector-double"/>
+    <title>Tencel Mattress Protector - Double</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Tencel_On_Mattress_0b1c4b02-e243-46cb-aca9-8f0c226055ba.jpg?v=1574130698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            79.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><strong><span>Tencel</span></strong></div>
+<div dir="auto">These fibers are sustainably crafted from raw wood pulp and are known for their long-lasting, super soft feel. They are also known for their ability to reduce bacterial growth!<br>
+</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Design</strong></span></div>
+<div dir="auto">The Tencel Protector was designed to be invisible when put on your mattress. We don't want to take away from the incredible feel of your new mattress!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip elastic</strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Fit &amp; Finish</strong></span></div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4373876277344</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4373871951968</id>
+    <published>2019-11-18T19:25:38-07:00</published>
+    <updated>2019-11-18T19:25:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tencel-mattress-protector-twin"/>
+    <title>Tencel Mattress Protector - Twin</title>
+    <s:type>Mattress Protector</s:type>
+    <s:vendor>RiseSleep Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Tencel_On_Mattress.jpg?v=1574130510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RiseSleep Accessories<br>
+        <strong>Type: </strong>Mattress Protector<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div dir="auto"><strong><span>Tencel</span></strong></div>
+<div dir="auto">These fibers are sustainably crafted from raw wood pulp and are known for their long-lasting, super soft feel. They are also known for their ability to reduce bacterial growth!<br>
+</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Design</strong></span></div>
+<div dir="auto">The Tencel Protector was designed to be invisible when put on your mattress. We don't want to take away from the incredible feel of your new mattress!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Non-slip elastic</strong></span></div>
+<div dir="auto">The elastic on this mattress protector is 4-5 times thicker and stronger than the standard elastic found on most protectors. No more having to deal with slipped-off corners!</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Water Proof &amp; Breathable</strong></span></div>
+<div dir="auto">Accidents happen! That is why our protectors have a water proof barrier built in to protect your mattress.</div>
+<div dir="auto"><br></div>
+<div dir="auto"><span><strong>Fit &amp; Finish</strong></span></div>
+<div dir="auto">This will be the best fitting mattress protector you have ever had! The entire protector is designed to fit your mattress </div>
+<div dir="auto">like a glove, no more bunching under the sheets. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4373871951968</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

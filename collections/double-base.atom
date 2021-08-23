@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.gotbeds.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.gotbeds.ca/collections/double-base.atom"/>
+  <title>Canadian Mattress Wholesalers</title>
+  <updated>2020-10-17T10:47:28-06:00</updated>
+  <author>
+    <name>Canadian Mattress Wholesalers</name>
+  </author>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5777836540064</id>
+    <published>2020-10-17T10:47:28-06:00</published>
+    <updated>2020-10-17T10:47:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/beautyrest-pro-platform-base-double"/>
+    <title>Beautyrest - Pro Platform Base - Double</title>
+    <s:type>Furniture</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/2822_1236_2167_PRO_PLATFORM_SILO_a26e6904-9fc8-4627-90b4-53b9773597e7.jpg?v=1602953251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Furniture<br>
+        <strong>Price: </strong>
+            324.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span data-mce-fragment="1">• Folding Flat Foundation</span><br data-mce-fragment="1"><span data-mce-fragment="1">• 12” Stackable Legs (3”-6”-9”-12”)</span><br data-mce-fragment="1"><span data-mce-fragment="1">• Fabric Cover</span><br data-mce-fragment="1"><span data-mce-fragment="1">• Courier Friendly</span><br data-mce-fragment="1"><span data-mce-fragment="1">• 2 Year Warranty</span><br data-mce-fragment="1"><span data-mce-fragment="1">• 650 lb Weight Capacity</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5777836540064</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">324.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>17690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/5776510517408</id>
+    <published>2020-10-16T19:39:10-06:00</published>
+    <updated>2020-10-16T19:39:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/sealy-reflexion-2-adjustable-foundation-double"/>
+    <title>Sealy - Reflexion 2 Adjustable Foundation - Double</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Sealy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Reflexion2.jpg?v=1602898756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sealy<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            349.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Why settle for flat? The Reflexion 2 adjustable foundation has been engineered to enhance the performance of your new mattress. With the simple heads-up feature (operated by remote control), you can read, watch TV or work on your laptop in bed – and then sleep in the flat position.</p>
+<p><strong>Controllable comfort</strong><br>- 60º upright angle makes it easy to read, watch TV, or use a laptop<br>- Lift capacity of 650 lbs.<br>- Full heads-up articulation in 30 seconds<br>- Retainer bar pivots out of the way, making it easy to change the sheets<br>- Bed can be lowered during power outage or remote failure<br>- Sized to fit any standard bed frame</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Remote Control - Wired</li>
+<li>LED Backlit Buttons</li>
+<li>Head Lift Range - 55°</li>
+<li>Head Only Lift</li>
+<li>Flat Button</li>
+<li>Battery Back-Up</li>
+<li>Fits any double size standard bed frame</li>
+</ul>
+<p><strong>PLEASE NOTE</strong> - This base does not come with legs.  This base can work with any frame that fits a regular size double box spring.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/5776510517408</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">349.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>71668</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/4524813713504</id>
+    <published>2020-02-27T10:14:38-07:00</published>
+    <updated>2020-02-27T10:14:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/kingsdown-adjustable-lifestyle-base-double"/>
+    <title>Kingsdown - Delight Adjustable Lifestyle Base - Double</title>
+    <s:type>Lifestyle Adjustable Base</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Delight_52343b83-52d4-43e9-b1ce-9b212ff516b0.jpg?v=1582825127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Lifestyle Adjustable Base<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<li>Adjustable Legs (4”,6”,10”)</li>
+<li>5 memory positions</li>
+<li>Head Up / Foot Up</li>
+<li>"Flat" Button</li>
+<li>Wireless Remote</li>
+<li>Dual Massage</li>
+<li>Massage Timer</li>
+<li>3 Pulse Massage</li>
+<li>Flashlight</li>
+<li>Under-bed lighting</li>
+<li>850lb total max lift weight</li>
+<li>Easy To Reach Emergency Lowering/Link Button</li>
+<li>Emergency Battery Back Up</li>
+<li>Gravity down actuator</li>
+<li>Safety System</li>
+</ul>
+<p>20 Year Warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/4524813713504</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>72575</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903337635936</id>
+    <published>2019-01-21T10:35:29-07:00</published>
+    <updated>2019-01-21T10:35:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-double-low-profile"/>
+    <title>Kingsdown - Box Spring - Double Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Low_Profile_Box_27226750-b663-4053-ad6f-b3fa74bd130d.jpg?v=1548092224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Double - 74" x 54" x 5.5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>double</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903337635936</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903337078880</id>
+    <published>2019-01-21T10:34:16-07:00</published>
+    <updated>2019-01-21T10:34:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-double-low-profile"/>
+    <title>Box Spring Steel Reinforced - Double Low Profile</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Low_Profile_Box_ac1b9a89-dc55-4211-921e-623d01e9f278.jpg?v=1548092115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> Steel Reinforced</p>
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Double - 74" x 54" x 5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>double</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903337078880</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903336456288</id>
+    <published>2019-01-21T10:30:32-07:00</published>
+    <updated>2019-01-21T10:30:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/tempur-pedic-box-spring-double"/>
+    <title>Kingsdown - Box Spring - Double</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Kingsdown</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Box_Spring_6d632232-3c68-4f0e-a6e4-39327f6ffdbe.jpg?v=1548091967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsdown<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            220.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Double - 74" x 54" x 9"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>double</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903336456288</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">220.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.gotbeds.ca/products/1903335735392</id>
+    <published>2019-01-21T10:28:58-07:00</published>
+    <updated>2019-01-21T10:28:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.gotbeds.ca/products/box-spring-steel-reinforced-double"/>
+    <title>Box Spring Steel Reinforced - Double</title>
+    <s:type>Box Spring</s:type>
+    <s:vendor>Beautyrest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1633/5349/products/Box_Spring_e0c47190-b66f-49d3-88ad-09068e05d67e.jpg?v=1548091795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beautyrest<br>
+        <strong>Type: </strong>Box Spring<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Steel Reinforced</p>
+<p>Fabric Colours May Vary</p>
+<p>Dimensions:</p>
+<p>Double - 74" x 54" x 9"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>double</s:tag>
+    <s:variant>
+      <id>https://www.gotbeds.ca/products/1903335735392</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+</feed>
